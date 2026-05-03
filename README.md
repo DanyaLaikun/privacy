@@ -3,18 +3,23 @@
 **Effective date / Дата набуття чинності:** April 25, 2026
 **Last updated / Останнє оновлення:** April 25, 2026
 
-> 🇬🇧 **English version below**
-> 🇺🇦 **Українська версія нижче**
+<p align="center">
+  <a href="#english"><b>🇬🇧 English</b></a>
+  &nbsp;·&nbsp;
+  <a href="#ukrainian"><b>🇺🇦 Українська</b></a>
+</p>
 
 ---
 
+<a id="english"></a>
+
 ## 🇬🇧 English
 
-This Privacy Policy describes how the **myDictionary** mobile application ("App", "we") handles user information ("you"). By using the App, you agree to the terms described below.
+This Privacy Policy describes how the **MewMori** mobile application ("App", "we") handles user information ("you"). By using the App, you agree to the terms described below.
 
 ### 1. Information We Collect
 
-myDictionary **does not collect, store, or transmit** any personal data to our servers. All data you create in the App (word lists, training progress, settings) is stored **locally on your device** through Apple's standard SwiftData framework.
+MewMori **does not collect, store, or transmit** any personal data to our servers. All data you create in the App (word lists, training progress, settings) is stored **locally on your device** through Apple's standard SwiftData framework.
 
 We **do not use**:
 - analytics systems (Google Analytics, Firebase Analytics, Mixpanel, etc.);
@@ -52,11 +57,11 @@ The App uses the system speech synthesizer (`AVSpeechSynthesizer`) to read words
 
 All your data is stored **locally** in the app sandbox on your device. Deleting the App fully removes your data. We have no copies.
 
-If you've enabled iCloud sync, data may be present in your private iCloud storage. You can delete it any time via **iOS Settings → Apple ID → iCloud → Manage Storage → myDictionary**.
+If you've enabled iCloud sync, data may be present in your private iCloud storage. You can delete it any time via **iOS Settings → Apple ID → iCloud → Manage Storage → MewMori**.
 
 ### 5. Advertising
 
-myDictionary **shows no advertising** and uses no ad networks.
+MewMori **shows no advertising** and uses no ad networks.
 
 ### 6. Free and Premium Features
 
@@ -76,15 +81,21 @@ If you have questions about this policy or how your data is handled:
 
 **Email:** creative@nai-team.com
 
+<p align="center">
+  <a href="#ukrainian"><b>🇺🇦 Перейти на українську</b></a>
+</p>
+
 ---
+
+<a id="ukrainian"></a>
 
 ## 🇺🇦 Українська
 
-Ця політика конфіденційності описує, як мобільний застосунок **myDictionary** («Застосунок», «ми») обробляє інформацію користувачів («ви»). Користуючись Застосунком, ви погоджуєтеся з умовами, описаними нижче.
+Ця політика конфіденційності описує, як мобільний застосунок **MewMori** («Застосунок», «ми») обробляє інформацію користувачів («ви»). Користуючись Застосунком, ви погоджуєтеся з умовами, описаними нижче.
 
 ### 1. Інформація, яку ми збираємо
 
-myDictionary **не збирає, не зберігає та не передає на наші сервери** жодних персональних даних. Усі дані, які ви створюєте у Застосунку (списки слів, прогрес тренувань, налаштування), зберігаються **локально на вашому пристрої** через стандартний фреймворк Apple SwiftData.
+MewMori **не збирає, не зберігає та не передає на наші сервери** жодних персональних даних. Усі дані, які ви створюєте у Застосунку (списки слів, прогрес тренувань, налаштування), зберігаються **локально на вашому пристрої** через стандартний фреймворк Apple SwiftData.
 
 Ми **не використовуємо**:
 - системи аналітики (Google Analytics, Firebase Analytics, Mixpanel тощо);
@@ -122,11 +133,11 @@ myDictionary **не збирає, не зберігає та не передає
 
 Усі ваші дані зберігаються **локально** у пісочниці застосунку на пристрої. Видалення Застосунку повністю видаляє ваші дані. Ми не маємо їхніх копій.
 
-Якщо ви увімкнули iCloud-синхронізацію, дані можуть бути присутні у вашому приватному iCloud сховищі. Ви можете будь-коли видалити їх через **Налаштування iOS → Apple ID → iCloud → Керування сховищем → myDictionary**.
+Якщо ви увімкнули iCloud-синхронізацію, дані можуть бути присутні у вашому приватному iCloud сховищі. Ви можете будь-коли видалити їх через **Налаштування iOS → Apple ID → iCloud → Керування сховищем → MewMori**.
 
 ### 5. Реклама
 
-myDictionary **не показує реклами** і не використовує жодних рекламних мереж.
+MewMori **не показує реклами** і не використовує жодних рекламних мереж.
 
 ### 6. Безкоштовний і Premium-функціонал
 
@@ -145,6 +156,10 @@ myDictionary **не показує реклами** і не використов
 Якщо у вас є запитання щодо цієї політики або обробки ваших даних:
 
 **Email:** creative@nai-team.com
+
+<p align="center">
+  <a href="#english"><b>🇬🇧 Switch to English</b></a>
+</p>
 
 ---
 
