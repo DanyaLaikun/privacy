@@ -79,7 +79,7 @@ We may update this policy. All changes will be published at this document's addr
 
 If you have questions about this policy or how your data is handled:
 
-**Email:** creative@nai-team.com
+**Email:** danyalaykun@gmail.com
 
 <p align="center">
   <a href="#ukrainian"><b>🇺🇦 Перейти на українську</b></a>
@@ -155,7 +155,7 @@ MewMori **не показує реклами** і не використовує 
 
 Якщо у вас є запитання щодо цієї політики або обробки ваших даних:
 
-**Email:** creative@nai-team.com
+**Email:** danyalaykun@gmail.com
 
 <p align="center">
   <a href="#english"><b>🇬🇧 Switch to English</b></a>
