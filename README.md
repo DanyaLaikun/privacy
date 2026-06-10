@@ -69,7 +69,7 @@ We may update this policy; changes are published at this address with an updated
 
 ### 9. Contact
 
-**Email:** danyalaykun@gmail.com
+**Email:** tesserly.dev@gmail.com
 
 <p align="center">
   <a href="#ukrainian"><b>🇺🇦 Перейти на українську</b></a>
@@ -132,7 +132,7 @@ We may update this policy; changes are published at this address with an updated
 
 ### 9. Контакти
 
-**Email:** danyalaykun@gmail.com
+**Email:** tesserly.dev@gmail.com
 
 <p align="center">
   <a href="#english"><b>🇬🇧 Switch to English</b></a>

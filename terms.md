@@ -58,7 +58,7 @@ We may update these Terms; the current version is always published at this addre
 
 ### 8. Contact
 
-**Email:** danyalaykun@gmail.com
+**Email:** tesserly.dev@gmail.com
 
 ---
 
@@ -102,7 +102,7 @@ Mewmori — це особистий інструмент для словнико
 
 ### 8. Контакти
 
-**Email:** danyalaykun@gmail.com
+**Email:** tesserly.dev@gmail.com
 
 <p align="center">
   <a href="../"><b>Privacy Policy / Політика конфіденційності</b></a>
