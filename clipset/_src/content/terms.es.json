@@ -1,141 +1,214 @@
 {
   "lang": "es",
   "langName": "Español",
-  "docTitle": "Términos de Uso — Clipset",
+  "docTitle": "Condiciones de Uso — Clipset",
   "kicker": "Clipset",
-  "title": "Términos de Uso",
-  "updated": "En vigor desde el 12 de septiembre de 2026 · Última actualización: 12 de septiembre de 2026",
+  "title": "Condiciones de Uso",
+  "updated": "Versión 1.0 · En vigor desde el 12 de septiembre de 2026",
   "otherLabel": "Política de Privacidad",
-  "footer": "¿Tiene preguntas sobre estos términos? Escriba a tesserly.dev@gmail.com",
-  "lead": "Estos términos son el acuerdo entre usted y el desarrollador de Clipset. Al descargar o usar la app, usted los acepta. Están escritos para leerse, no para sobrevivirlos, así que son tan breves y claros como el tema permite.",
+  "footer": "Clipset · Condiciones de Uso · Versión 1.0",
+  "lead": "Las presentes Condiciones de Uso (las «Condiciones») constituyen un acuerdo vinculante entre usted (el «Usuario») y el desarrollador independiente de la aplicación móvil Clipset (el «Desarrollador»). Regulan la descarga, la instalación y el uso de la aplicación. Al instalar o utilizar la aplicación, el Usuario confirma que ha leído las presentes Condiciones, que las comprende y que las acepta en su totalidad. El Usuario que no acepte las presentes Condiciones no deberá instalar ni utilizar la aplicación.",
   "sections": [
     {
-      "h": "Qué es Clipset",
+      "h": "Definiciones",
       "blocks": [
-        { "p": "Clipset es una app para iOS con la que puede crear una biblioteca personal de ejercicios a partir de sus propios videos. Usted importa un video, lo recorta en un clip, describe el ejercicio, organiza los clips en entrenamientos y programas, realiza una sesión con temporizador de descanso y sigue su progreso con fotos y estadísticas." },
-        { "p": "También puede empaquetar entrenamientos en un único archivo firmado y enviárselo a otra persona —un cliente, un compañero de entrenamiento, un amigo— que lo abrirá en su propia copia de Clipset." },
-        { "p": "Clipset está hecha por un desarrollador independiente. Es una herramienta, no un servicio de entrenamiento personal: nadie revisa su entrenamiento, comprueba su técnica ni le escribe el programa." }
-      ]
-    },
-    {
-      "h": "Su licencia",
-      "blocks": [
-        { "p": "Usted recibe una licencia personal, no exclusiva e intransferible para usar Clipset en dispositivos de su propiedad o bajo su control, mientras cumpla estos términos. La app, su nombre, su diseño, sus iconos y su código siguen siendo propiedad del desarrollador." },
-        { "p": "La app se distribuye a través del App Store, por lo que el **[[Contrato de Licencia de Usuario Final de Aplicación con Licencia|https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]]** de Apple se aplica además de estos términos. Cuando ambos discrepen en un punto cubierto por el contrato de Apple, prevalece el contrato de Apple. Apple no es parte de estos términos y no es responsable de la app, pero Apple y sus filiales pueden exigirle a usted el cumplimiento de estos términos en calidad de terceros beneficiarios." }
-      ]
-    },
-    {
-      "h": "Salud y seguridad",
-      "blocks": [
-        { "note": "Clipset no es un dispositivo médico y no ofrece consejo médico. Nada de lo que hay en la app constituye un diagnóstico, un plan de tratamiento ni orientación profesional." },
-        { "p": "El entrenamiento de fuerza conlleva riesgo de lesión. Usted decide qué entrenar, cuánto peso levantar y hasta dónde exigirse. Antes de empezar o cambiar un programa de entrenamiento —sobre todo si está embarazada, se está recuperando de una lesión o una enfermedad, o tiene alguna afección cardíaca, articular o de tensión arterial—, consulte a un médico o a un profesional cualificado." },
-        { "p": "Los videos de ejercicios y los entrenamientos que hay dentro de la app son contenido creado por usted o por otro usuario. Nosotros no comprobamos su seguridad ni su corrección. Deténgase de inmediato si siente dolor, mareo o cualquier cosa fuera de lo normal, y busque ayuda médica." },
-        { "p": "Usted usa Clipset y entrena bajo su propia responsabilidad." }
-      ]
-    },
-    {
-      "h": "Su contenido",
-      "blocks": [
-        { "p": "Todo lo que pone en Clipset sigue siendo suyo. No reclamamos ninguna propiedad ni licencia sobre sus videos, fotos, notas o programas, y nunca los recibimos: están en su dispositivo." },
-        { "p": "Usted es responsable de lo que importa. Añada únicamente videos que haya grabado o que tenga derecho a usar. No importe material que infrinja los derechos de autor de otra persona, que se haya grabado sin consentimiento o que sea ilícito en su lugar de residencia." },
-        { "p": "Si graba a otra persona, es responsabilidad suya contar con su permiso, especialmente antes de compartir un pack en el que aparezca." }
-      ]
-    },
-    {
-      "h": "Compartir packs con otras personas",
-      "blocks": [
-        { "p": "Un pack que usted comparte lleva sus clips, sus entrenamientos, su nombre de autor y su Clipset ID público. Enviarlo es decisión suya y responsabilidad suya: usted elige al destinatario y el canal." },
-        { "p": "A un pack se le puede poner una fecha de caducidad y bloquearlo a un único destinatario. Son medidas razonables de protección, no un sistema anticopia. Una vez que alguien tiene el contenido multimedia en su dispositivo, puede grabarlo, copiarlo o volver a compartirlo por otros medios. No distribuya a través de Clipset nada que no pueda permitirse que sea copiado." },
-        { "p": "Si vende programas de entrenamiento, la venta es entre usted y su cliente. Nosotros no somos parte de ella, no cobramos comisión, no procesamos ningún pago y no ofrecemos ninguna garantía al respecto. Usted es responsable de su propia facturación, de sus impuestos, de los reembolsos y de sus obligaciones en materia de consumo." },
-        { "p": "No use los packs para distribuir material ilícito, que incite al odio o dañino, ni contenido de pago de otra persona sin su permiso." }
-      ]
-    },
-    {
-      "h": "Clipset Pro",
-      "blocks": [
-        { "p": "Clipset Pro es una suscripción de renovación automática que vende Apple. Desbloquea una biblioteca ilimitada, entrenamientos y packs ilimitados, estadísticas completas, fotos de progreso y videos timelapse, y la caducidad de packs y el bloqueo por destinatario." },
+        { "p": "En las presentes Condiciones, las expresiones que siguen tendrán el significado que se indica a continuación." },
         { "ul": [
-          "Los planes son **mensual** y **anual**. El precio para su país se muestra en la app y en el App Store antes de que usted confirme.",
-          "El cargo se realiza en su cuenta de Apple al confirmar la compra.",
-          "La suscripción **se renueva automáticamente** salvo que la cancele al menos 24 horas antes de que termine el periodo en curso. La renovación se cobra dentro de las 24 horas previas al fin del periodo.",
-          "En la primera suscripción puede ofrecerse una prueba gratuita. Si cancela antes de que termine la prueba, no se le cobra nada. La parte no utilizada de una prueba se pierde al comprar una suscripción.",
-          "Puede gestionarla o cancelarla en cualquier momento en **App Store → su perfil → Suscripciones**. Eliminar la app no cancela la suscripción.",
-          "Los reembolsos los gestiona Apple conforme a las normas del App Store; nosotros no podemos emitirlos."
-        ] },
-        { "p": "Si una suscripción termina, su biblioteca permanece en su dispositivo y no se elimina nada. Las funciones que necesitan Pro simplemente se vuelven a bloquear, y el contenido que supere los límites gratuitos pasa a ser de solo lectura en lugar de desaparecer." }
+          "**Aplicación** o **App** designa el software Clipset para iOS, incluidas todas sus versiones, actualizaciones, componentes y materiales que la acompañan.",
+          "**Desarrollador** designa al desarrollador independiente titular y distribuidor de la Aplicación, con quien puede contactarse en tesserly.dev@gmail.com.",
+          "**Usuario** designa a toda persona física que instale o utilice la Aplicación.",
+          "**Contenido del Usuario** designa los videos, imágenes, textos, ejercicios, entrenamientos, programas y cualquier otro material que el Usuario importe a la Aplicación o cree dentro de ella.",
+          "**Pack** designa un único archivo `.clipset` firmado y cifrado, generado por la Aplicación, que contiene el Contenido del Usuario seleccionado por este para su transmisión a un tercero.",
+          "**Destinatario** designa a la persona a la que el Usuario transmite un Pack.",
+          "**Suscripción** designa Clipset Pro, la suscripción de renovación automática distribuida a través del App Store.",
+          "**App Store** designa la plataforma de distribución digital operada por Apple Inc. y sus filiales (**Apple**)."
+        ] }
       ]
     },
     {
-      "h": "La versión gratuita",
+      "h": "Objeto y aceptación",
       "blocks": [
-        { "p": "Clipset se puede usar gratis, con límites en la cantidad de contenido que puede crear: en el momento de redactar estos términos, 12 clips de ejercicios, 2 entrenamientos y 1 pack compartido. Los límites vigentes se muestran siempre en la app cuando los alcanza." },
-        { "p": "Recibir e importar un pack de otra persona nunca tiene límite ni requiere suscripción. Un cliente siempre debe poder abrir el programa que le ha enviado su entrenador." },
-        { "p": "Podemos ajustar con el tiempo los límites gratuitos y el contenido de Pro para mantener la app sostenible. Los cambios se aplican de cara al futuro y nunca eliminan lo que usted ya haya creado." }
+        { "c": "La Aplicación es una herramienta de uso personal que permite al Usuario crear una biblioteca de ejercicios a partir de su propio material de video, organizar dicho material en entrenamientos y programas, realizar sesiones de entrenamiento y registrar su progreso." },
+        { "c": "Las presentes Condiciones entran en vigor respecto del Usuario en la fecha de la primera instalación o del primer uso de la Aplicación y permanecen vigentes mientras el Usuario continúe utilizándola." },
+        { "c": "La aceptación de las presentes Condiciones se manifiesta mediante la instalación o el uso de la Aplicación. No se requiere firma independiente alguna." },
+        { "c": "El Desarrollador no presta servicios de entrenamiento personal, de supervisión del entrenamiento, de elaboración de programas ni ningún otro servicio profesional, y no revisa, verifica ni aprueba el Contenido del Usuario." },
+        { "c": "La Aplicación está destinada a personas de 13 años de edad o más. El Usuario que no haya alcanzado la mayoría de edad en su jurisdicción deberá obtener el consentimiento de uno de sus progenitores o de su representante legal antes de utilizar la Aplicación." }
+      ]
+    },
+    {
+      "h": "Relación con Apple",
+      "blocks": [
+        { "c": "Las presentes Condiciones se celebran exclusivamente entre el Usuario y el Desarrollador. Apple no es parte de ellas." },
+        { "c": "La Aplicación se licencia, no se vende. El **[[Contrato de Licencia de Usuario Final de Aplicación con Licencia de Apple|https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]]** se aplica con carácter adicional a las presentes Condiciones. Cuando una disposición de las presentes Condiciones entre en conflicto con dicho contrato en una materia regulada por este, prevalecerá dicho contrato." },
+        { "c": "El Desarrollador es el único responsable de la Aplicación, así como de su contenido, mantenimiento y soporte. Apple no asume obligación alguna de prestar servicios de mantenimiento o de soporte respecto de la Aplicación." },
+        { "c": "Toda reclamación por falta de conformidad de la Aplicación con una garantía aplicable deberá dirigirse a Apple, que podrá reembolsar el precio de compra. En la máxima medida permitida por la legislación aplicable, Apple no asume ninguna otra obligación de garantía respecto de la Aplicación." },
+        { "c": "Apple y sus filiales son terceros beneficiarios de las presentes Condiciones, que constituyen a tal efecto una estipulación a favor de tercero, y, una vez aceptadas estas por el Usuario, estarán legitimadas para exigir su cumplimiento frente a él." },
+        { "c": "El Usuario declara que no se encuentra en un país sometido a embargo por el Gobierno de los Estados Unidos ni designado por dicho Gobierno como país que apoya el terrorismo, y que no figura en ninguna lista de partes prohibidas o restringidas elaborada por dicho Gobierno." }
+      ]
+    },
+    {
+      "h": "Concesión de la licencia",
+      "blocks": [
+        { "c": "El Desarrollador concede al Usuario una licencia limitada, personal, no exclusiva, intransferible y revocable para instalar y utilizar la Aplicación en dispositivos de la marca Apple de su propiedad o bajo su control, conforme a las Normas de Uso del App Store." },
+        { "c": "La licencia comprende el uso del software en sí. El uso de la Aplicación para elaborar material de entrenamiento que el Usuario facilite a sus propios clientes está permitido y no constituye incumplimiento de la presente cláusula." },
+        { "c": "El Usuario no podrá vender, alquilar, arrendar, sublicenciar, distribuir ni poner de otro modo la Aplicación a disposición de terceros, ni suprimir o alterar ningún aviso de titularidad contenido en ella." },
+        { "c": "Todos los derechos no concedidos expresamente en las presentes Condiciones quedan reservados al Desarrollador." }
+      ]
+    },
+    {
+      "h": "Salud, seguridad y asunción de riesgos",
+      "blocks": [
+        { "note": "La Aplicación no es un producto sanitario. No proporciona asesoramiento médico, diagnóstico ni tratamiento, y no deberá utilizarse como sustituto de la atención sanitaria profesional." },
+        { "c": "El ejercicio físico, y en particular el entrenamiento de fuerza, conlleva un riesgo inherente de lesión. El Usuario decide por sí mismo qué ejercicios realizar, qué cargas emplear y con qué intensidad entrenar." },
+        { "c": "Antes de iniciar o de modificar sustancialmente un régimen de entrenamiento, el Usuario debería recabar asesoramiento médico, en particular si está embarazada, se encuentra en recuperación de una lesión o enfermedad, o padece una afección cardiovascular, metabólica, articular o de la tensión arterial." },
+        { "c": "Los videos de ejercicios, las descripciones y los entrenamientos contenidos en la Aplicación son creados por el Usuario o por un tercero y no son revisados por el Desarrollador en cuanto a su exactitud, idoneidad o seguridad." },
+        { "c": "El Usuario deberá interrumpir de inmediato el ejercicio y recabar asistencia médica ante la aparición de dolor, mareo, dificultad respiratoria o cualquier otro síntoma anómalo." },
+        { "c": "El Usuario utiliza la Aplicación y entrena enteramente por su cuenta y riesgo, y asume la plena responsabilidad por cualquier lesión o daño para la salud que de ello se derive." }
+      ]
+    },
+    {
+      "h": "Contenido del Usuario",
+      "blocks": [
+        { "c": "Todos los derechos sobre el Contenido del Usuario corresponden al Usuario. El Desarrollador no adquiere titularidad alguna sobre el Contenido del Usuario ni reclama licencia alguna sobre él." },
+        { "c": "El Contenido del Usuario se almacena localmente en el dispositivo del Usuario. El Desarrollador no lo recibe ni tiene acceso a él y, en consecuencia, no realiza moderación alguna sobre el mismo." },
+        { "c": "El Usuario garantiza que ostenta todos los derechos necesarios para importar, almacenar y transmitir cada elemento del Contenido del Usuario y que ninguno de dichos elementos vulnera los derechos de propiedad intelectual, de privacidad o de la personalidad de terceros." },
+        { "c": "Cuando el Contenido del Usuario muestre a una persona identificable distinta del propio Usuario, corresponderá a este obtener el consentimiento de dicha persona antes de almacenarlo o transmitirlo." },
+        { "c": "El Usuario es el único responsable de la licitud del Contenido del Usuario en la jurisdicción de su residencia y en la de cualquier Destinatario." }
+      ]
+    },
+    {
+      "h": "Packs y transmisión a terceros",
+      "blocks": [
+        { "c": "Un Pack contiene el Contenido del Usuario seleccionado por este, junto con su nombre de autor y su Clipset ID público. El Usuario determina el Destinatario y el canal de transmisión." },
+        { "c": "La transmisión se produce directamente entre el Usuario y el Destinatario a través del servicio que aquel elija. El Pack no transita por infraestructura alguna del Desarrollador, quien, en consecuencia, no ejerce control alguno sobre la transmisión ni ofrece garantía alguna respecto de ella." },
+        { "c": "La fecha de caducidad y el bloqueo por destinatario disponibles para un Pack son medidas de protección y no constituyen un sistema de gestión de derechos digitales. Una vez que el contenido multimedia se encuentra en el dispositivo de un Destinatario, puede ser grabado, copiado o redistribuido por otros medios, y el Usuario asume dicho riesgo al decidir transmitir un Pack." },
+        { "c": "Cuando el Usuario facilite Packs a sus propios clientes a título oneroso, dicha operación se celebra exclusivamente entre el Usuario y el cliente. El Desarrollador no es parte de ella, no percibe comisión alguna, no procesa pago alguno y no ofrece garantía alguna respecto de ella. El Usuario es el único responsable de la facturación, de la tributación, de los reembolsos y del cumplimiento de la normativa de protección de los consumidores." },
+        { "c": "El Usuario no podrá utilizar los Packs para distribuir contenido ilícito, contenido que vulnere derechos de terceros ni contenido de pago perteneciente a otra persona sin la autorización de esta." }
+      ]
+    },
+    {
+      "h": "Suscripción Clipset Pro",
+      "blocks": [
+        { "c": "Clipset Pro es una suscripción de renovación automática ofrecida en las modalidades mensual y anual y distribuida exclusivamente por Apple a través del App Store." },
+        { "c": "El precio aplicable en el territorio del Usuario se muestra en la Aplicación y en el App Store antes de la confirmación de la compra. El pago se carga en la cuenta de Apple del Usuario en el momento de confirmar la compra." },
+        { "c": "La Suscripción se renueva automáticamente por periodos sucesivos de igual duración, salvo que el Usuario la cancele con una antelación mínima de 24 horas al fin del periodo en curso. El cargo por renovación se aplica dentro de las 24 horas anteriores al fin de dicho periodo." },
+        { "c": "Cuando se ofrezca un periodo de prueba gratuito de carácter introductorio, este se aplicará únicamente a la primera Suscripción y se convertirá en un periodo de pago a su vencimiento, salvo cancelación previa. La parte no utilizada de un periodo de prueba se pierde con la compra de una Suscripción." },
+        { "c": "La Suscripción puede gestionarse o cancelarse en cualquier momento en **App Store → perfil del Usuario → Suscripciones**. La eliminación de la Aplicación no cancela la Suscripción." },
+        { "c": "Los reembolsos son gestionados por Apple conforme a la política del App Store. El Desarrollador no está en condiciones de conceder, denegar ni tramitar reembolsos." },
+        { "c": "El vencimiento o la cancelación de la Suscripción no elimina el Contenido del Usuario. Las funciones que requieren Suscripción vuelven a quedar bloqueadas y el contenido que exceda los límites de la versión gratuita queda disponible únicamente para su visualización." },
+        { "c": "Cuando el Usuario tenga la condición de consumidor en la Unión Europea o en otra jurisdicción que reconozca un derecho legal de desistimiento, dicho derecho se ejercerá a través de Apple conforme a la política del App Store." }
+      ]
+    },
+    {
+      "h": "Versión gratuita y límites de uso",
+      "blocks": [
+        { "c": "La Aplicación puede utilizarse sin Suscripción, con sujeción a límites cuantitativos en la creación de contenido. A la fecha de las presentes Condiciones, dichos límites son de 12 clips de ejercicios, 2 entrenamientos y 1 Pack compartido. Los límites vigentes se muestran en la Aplicación." },
+        { "c": "La recepción y la importación de un Pack no están sujetas a límite alguno ni requieren Suscripción." },
+        { "c": "El Desarrollador se reserva el derecho de ajustar los límites de la versión gratuita y el alcance de la Suscripción. Dichos ajustes surten efecto con carácter prospectivo y no eliminan el contenido ya creado por el Usuario." }
       ]
     },
     {
       "h": "Uso aceptable",
       "blocks": [
-        { "p": "Le rogamos que no:" },
+        { "p": "El Usuario no podrá:" },
         { "ul": [
-          "realice ingeniería inversa, descompile ni manipule la app, salvo cuando la ley lo permita expresamente;",
-          "eluda la firma del pack, el cifrado, el bloqueo por destinatario o la caducidad, ni ayude a nadie a hacerlo;",
-          "use la app para almacenar o distribuir contenido ilícito;",
-          "revenda, sublicencie ni redistribuya la app en sí;",
-          "se haga pasar por otro autor al compartir packs."
-        ] }
+          "descompilar, desensamblar ni someter la Aplicación a ingeniería inversa, ni intentar obtener su código fuente, salvo en la medida en que tales actos estén expresamente permitidos por normas imperativas;",
+          "eludir, desactivar o interferir de cualquier otro modo en la firma del Pack, en el cifrado, en el bloqueo por destinatario o en el mecanismo de caducidad, ni auxiliar a terceros para ello;",
+          "utilizar la Aplicación para almacenar, tratar o transmitir contenido ilícito;",
+          "falsear la autoría de un Pack ni suplantar la identidad de otra persona;",
+          "utilizar la Aplicación de un modo que vulnere los derechos de terceros o contravenga la legislación aplicable."
+        ] },
+        { "c": "La contravención de la presente cláusula constituye un incumplimiento esencial de las presentes Condiciones." }
       ]
     },
     {
-      "h": "Las copias de seguridad son cosa suya",
+      "h": "Almacenamiento de datos y copias de seguridad",
       "blocks": [
-        { "p": "Como Clipset guarda todo en su dispositivo y no sincroniza con ningún servidor nuestro, no tenemos ninguna copia de su biblioteca. Si pierde el teléfono, lo restablece o elimina la app, sus clips y su historial se van con él." },
-        { "p": "Exporte de vez en cuando una copia de seguridad desde Configuración y guárdela en un lugar seguro. Cualquiera que tenga ese archivo puede restaurar toda su biblioteca, así que trátelo como un documento privado." }
+        { "c": "La Aplicación almacena todos los datos localmente en el dispositivo del Usuario. El Desarrollador no opera servidor alguno en el que se almacene el Contenido del Usuario y, por consiguiente, no conserva copia alguna de este." },
+        { "c": "La pérdida, el restablecimiento, la sustitución o la reparación del dispositivo, así como la eliminación de la Aplicación, conllevan la pérdida irrecuperable de los datos almacenados localmente." },
+        { "c": "El Usuario es el único responsable de crear y custodiar las copias de seguridad. El archivo de copia de seguridad exportado por la Aplicación permite restaurar íntegramente la biblioteca y deberá conservarse de forma segura." },
+        { "c": "El tratamiento de datos personales se rige por la **[[Política de Privacidad|../]]**, que forma parte integrante de las presentes Condiciones." }
       ]
     },
     {
-      "h": "Disponibilidad y cambios",
+      "h": "Propiedad intelectual",
       "blocks": [
-        { "p": "Podemos actualizar la app, añadir o retirar funciones y cambiar el funcionamiento de algunas de sus partes. También podemos dejar de distribuir Clipset. Si alguna vez se descontinúa la app, seguirá funcionando en su dispositivo mientras su versión de iOS la admita, y sus datos seguirán con usted." },
-        { "p": "La app depende de iOS. Los cambios que Apple introduzca en el sistema operativo, en el App Store o en StoreKit pueden afectar al comportamiento de Clipset, y eso está fuera de nuestro control." }
+        { "c": "La Aplicación, su código fuente, su diseño, su interfaz de usuario, su denominación, su logotipo y todos los materiales asociados están protegidos por los derechos de autor y demás derechos de propiedad intelectual e industrial, y son propiedad exclusiva del Desarrollador." },
+        { "c": "Las presentes Condiciones no transfieren al Usuario ningún derecho de propiedad intelectual más allá de la licencia concedida en la cláusula 4." },
+        { "c": "Los componentes de terceros incorporados a la Aplicación permanecen sujetos a sus propias condiciones de licencia." }
       ]
     },
     {
-      "h": "Sin garantía",
+      "h": "Disponibilidad, modificación y cese",
       "blocks": [
-        { "p": "Clipset se ofrece \"tal cual\" y \"según disponibilidad\", sin garantías de ningún tipo, ya sean expresas o implícitas, incluidas las de idoneidad para un fin concreto, funcionamiento ininterrumpido o ausencia de errores. Algunas jurisdicciones no permiten estas exclusiones; en ese caso, esta sección se aplica en la medida en que lo permita la ley y sus derechos legales como consumidor no se ven afectados." }
+        { "c": "El Desarrollador podrá modificar la Aplicación, añadir o suprimir funciones y publicar actualizaciones a su discreción." },
+        { "c": "El Desarrollador podrá cesar en la distribución o en el soporte de la Aplicación. En tal caso, la Aplicación seguirá funcionando en el dispositivo del Usuario mientras la versión instalada siga siendo compatible con el sistema operativo, y los datos del Usuario permanecerán en el dispositivo." },
+        { "c": "La Aplicación depende de iOS y de servicios operados por Apple. Los cambios que Apple introduzca en el sistema operativo, en el App Store o en StoreKit pueden afectar al funcionamiento de la Aplicación y quedan fuera del control del Desarrollador." },
+        { "c": "El Desarrollador no garantiza que la Aplicación funcione de forma ininterrumpida ni libre de errores." }
+      ]
+    },
+    {
+      "h": "Exclusión de garantías",
+      "blocks": [
+        { "c": "En la máxima medida permitida por la legislación aplicable, la Aplicación se suministra «tal cual» y «según disponibilidad», sin garantía de ningún tipo, ya sea expresa, implícita o legal, incluidas, con carácter no limitativo, las garantías implícitas de comerciabilidad, de idoneidad para un fin determinado, de exactitud o de no vulneración de derechos." },
+        { "c": "Ninguna información ni asesoramiento facilitado por el Desarrollador, ya sea verbal o escrito, genera garantía alguna que no esté expresamente prevista en las presentes Condiciones." },
+        { "c": "Determinadas jurisdicciones no permiten la exclusión de garantías implícitas. En dichas jurisdicciones, las exclusiones previstas en la presente cláusula se aplicarán únicamente en la medida permitida por la ley, y los derechos legales imperativos que asisten al Usuario en su condición de consumidor no se verán afectados." }
       ]
     },
     {
       "h": "Limitación de responsabilidad",
       "blocks": [
-        { "p": "En la máxima medida permitida por la ley, el desarrollador no es responsable de daños indirectos, incidentales o consecuentes, del lucro cesante, de las lesiones derivadas de su forma de entrenar ni de la pérdida de datos causada por un fallo del dispositivo, un borrado, un error del sistema operativo o la falta de una copia de seguridad." },
-        { "p": "Nada de lo aquí dispuesto limita la responsabilidad por fallecimiento o daños personales causados por negligencia, por fraude o por cualquier otro supuesto que no pueda limitarse legalmente. Cuando la responsabilidad no pueda excluirse, quedará limitada al importe que usted haya pagado por la app en los doce meses anteriores a la reclamación." }
+        { "c": "En la máxima medida permitida por la legislación aplicable, el Desarrollador no responderá por los daños indirectos, incidentales, especiales, consecuentes o punitivos, ni por el lucro cesante, la pérdida de negocio, la pérdida de datos o la pérdida de oportunidades, derivados del uso o de la imposibilidad de uso de la Aplicación o relacionados con ellos." },
+        { "c": "El Desarrollador no responderá por las lesiones o los daños para la salud derivados de la forma en que el Usuario entrene, por la conducta de cualquier Destinatario, ni por la pérdida de datos ocasionada por un fallo del dispositivo, un borrado, un error del sistema operativo o la falta de copia de seguridad." },
+        { "c": "Nada de lo dispuesto en las presentes Condiciones excluye ni limita la responsabilidad por fallecimiento o daños personales causados por negligencia, por fraude o por manifestaciones fraudulentas, ni cualquier otra responsabilidad que no pueda excluirse o limitarse con arreglo a la legislación aplicable." },
+        { "c": "Cuando la responsabilidad no pueda excluirse, la responsabilidad agregada del Desarrollador por la totalidad de las reclamaciones quedará limitada al importe abonado por el Usuario por la Aplicación y por cualquier Suscripción durante los doce meses anteriores al hecho que dé origen a la reclamación." }
       ]
     },
     {
-      "h": "Fin del acuerdo",
+      "h": "Indemnización",
       "blocks": [
-        { "p": "Usted puede poner fin a este acuerdo en cualquier momento eliminando la app; cancele por separado cualquier suscripción activa en el App Store. Nosotros podemos ponerle fin si usted incumple gravemente estos términos, por ejemplo usando Clipset para distribuir contenido ilícito. Su finalización no afecta a los datos que ya están en su dispositivo." }
+        { "c": "El Usuario indemnizará y mantendrá indemne al Desarrollador frente a cualquier reclamación de terceros, responsabilidad, pérdida, daño, coste o gasto, incluidos los honorarios letrados razonables, que traiga causa del Contenido del Usuario, de la transmisión de un Pack, del incumplimiento de las presentes Condiciones por el Usuario o de la contravención por este de la legislación aplicable o de los derechos de terceros." }
       ]
     },
     {
-      "h": "Legislación aplicable",
+      "h": "Vigencia y resolución",
       "blocks": [
-        { "p": "Estos términos se rigen por las leyes de Ucrania, sin aplicación de sus normas sobre conflicto de leyes. Si usa Clipset como consumidor en otro país, conserva las protecciones imperativas de la legislación de su lugar de residencia y puede presentar demanda ante los tribunales de su localidad." }
+        { "c": "Las presentes Condiciones permanecerán en vigor mientras el Usuario utilice la Aplicación." },
+        { "c": "El Usuario podrá resolverlas en cualquier momento cesando en el uso de la Aplicación y eliminándola. La eliminación de la Aplicación no extingue la Suscripción, que deberá cancelarse por separado a través del App Store." },
+        { "c": "El Desarrollador podrá resolver con efecto inmediato la licencia concedida en virtud de las presentes Condiciones cuando el Usuario incurra en un incumplimiento esencial de estas." },
+        { "c": "Las disposiciones relativas al Contenido del Usuario, a la propiedad intelectual, a la exclusión de garantías, a la limitación de responsabilidad, a la indemnización y a la ley aplicable subsistirán tras la resolución." }
       ]
     },
     {
-      "h": "Cambios en estos términos",
+      "h": "Ley aplicable y controversias",
       "blocks": [
-        { "p": "La versión vigente de estos términos se publica siempre en esta dirección, con la fecha en la parte superior. Si un cambio es sustancial, también se señalará en la app. Seguir usando Clipset después de un cambio significa que lo acepta." }
+        { "c": "Las presentes Condiciones se rigen por la ley de Ucrania, con exclusión de sus normas de conflicto de leyes y de la Convención de las Naciones Unidas sobre los Contratos de Compraventa Internacional de Mercaderías." },
+        { "c": "Cuando el Usuario tenga la condición de consumidor con residencia habitual en otro Estado, seguirán siendo aplicables las disposiciones imperativas de protección de los consumidores de la ley de dicho Estado, y el Usuario conservará el derecho a promover acciones ante los tribunales de su lugar de residencia." },
+        { "c": "Las partes procurarán resolver amistosamente cualquier controversia antes de iniciar acciones judiciales. La solicitud a tal efecto se dirigirá al Desarrollador a la dirección indicada en la cláusula final de las presentes Condiciones." }
+      ]
+    },
+    {
+      "h": "Modificación de las presentes Condiciones",
+      "blocks": [
+        { "c": "El Desarrollador podrá modificar las presentes Condiciones, en particular para reflejar cambios en la Aplicación, en la legislación aplicable o en la política del App Store." },
+        { "c": "La versión vigente se publica en esta dirección e indica la fecha de su entrada en vigor. Las modificaciones sustanciales se comunican además dentro de la Aplicación." },
+        { "c": "El uso continuado de la Aplicación tras la entrada en vigor de una modificación constituye la aceptación de las Condiciones modificadas. El Usuario que no las acepte deberá cesar en el uso de la Aplicación." }
+      ]
+    },
+    {
+      "h": "Disposiciones generales",
+      "blocks": [
+        { "c": "Si alguna disposición de las presentes Condiciones fuera declarada nula o inexigible, las restantes disposiciones conservarán plena vigencia conforme a la cláusula de divisibilidad, y la disposición nula será sustituida por otra válida que se aproxime en la mayor medida posible a su finalidad económica." },
+        { "c": "La falta de ejercicio o el retraso en el ejercicio por el Desarrollador de un derecho previsto en las presentes Condiciones no constituye renuncia a dicho derecho." },
+        { "c": "El Usuario no podrá ceder ni transmitir sus derechos u obligaciones derivados de las presentes Condiciones. El Desarrollador podrá cederlos en el marco de una transmisión de la Aplicación." },
+        { "c": "Las presentes Condiciones, junto con la Política de Privacidad y el Contrato de Licencia de Usuario Final de Aplicación con Licencia de Apple, constituyen el acuerdo íntegro entre las partes respecto de la Aplicación y sustituyen a cualquier entendimiento previo relativo a ella." },
+        { "c": "Las presentes Condiciones se redactan en inglés. Las traducciones se facilitan únicamente a título informativo; en caso de divergencia, prevalecerá la versión inglesa." }
       ]
     },
     {
       "h": "Contacto",
       "blocks": [
-        { "p": "Las preguntas, los informes de errores y las solicitudes los lee una persona, no un servicio de asistencia:" },
-        { "p": "**Correo electrónico:** [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20terms]]" }
+        { "c": "Las preguntas, notificaciones y solicitudes derivadas de las presentes Condiciones se dirigirán al Desarrollador por correo electrónico a [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20terms]]." }
       ]
     }
   ]

@@ -94,13 +94,24 @@ h1 { font-size: 34px; line-height: 1.15; letter-spacing: -.03em; margin: 0 0 10p
   padding: 18px 20px; background: var(--chip); border-radius: 18px;
 }
 article { counter-reset: sec; }
-section { counter-increment: sec; margin-top: 32px; }
+section { counter-increment: sec; counter-reset: clause; margin-top: 32px; }
 section > h2 {
   font-size: 20px; letter-spacing: -.02em; margin: 0 0 12px;
   padding-top: 26px; border-top: 1px solid var(--line);
 }
 section > h2::before { content: counter(sec) ". "; color: var(--muted); font-weight: 600; }
 p { margin: 0 0 14px; color: var(--ink-soft); }
+p.clause { padding-left: 3.2em; text-indent: -3.2em; margin-bottom: 12px; }
+p.clause::before {
+  counter-increment: clause;
+  content: counter(sec) "." counter(clause);
+  display: inline-block; width: 3.2em; text-indent: 0;
+  color: var(--muted); font-weight: 600; font-variant-numeric: tabular-nums;
+}
+@media (max-width: 560px) {
+  p.clause { padding-left: 2.9em; text-indent: -2.9em; }
+  p.clause::before { width: 2.9em; }
+}
 ul { margin: 0 0 16px; padding-left: 20px; color: var(--ink-soft); }
 li { margin-bottom: 8px; }
 li::marker { color: var(--muted); }
@@ -392,7 +403,7 @@ a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset:
       </div>
     </div>
   </article>
-  <article id="doc-es" data-title="Política de Privacidad — Clipset" data-other="Términos de Uso" hidden>
+  <article id="doc-es" data-title="Política de Privacidad — Clipset" data-other="Condiciones de Uso" hidden>
     <div class="card">
       <span class="kicker">Clipset</span>
       <h1>Política de Privacidad</h1>
@@ -473,11 +484,11 @@ a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset:
     </section>
       <div class="foot">
         <span>¿Tiene preguntas sobre esta política? Escriba a tesserly.dev@gmail.com</span>
-        <a href="./terms/" data-keep-lang data-href="./terms/">Términos de Uso</a>
+        <a href="./terms/" data-keep-lang data-href="./terms/">Condiciones de Uso</a>
       </div>
     </div>
   </article>
-  <article id="doc-fr" data-title="Politique de confidentialité — Clipset" data-other="Conditions d&#x27;utilisation" hidden>
+  <article id="doc-fr" data-title="Politique de confidentialité — Clipset" data-other="Conditions Générales d&#x27;Utilisation" hidden>
     <div class="card">
       <span class="kicker">Clipset</span>
       <h1>Politique de confidentialité</h1>
@@ -558,11 +569,11 @@ a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset:
     </section>
       <div class="foot">
         <span>Des questions sur cette politique ? Écrivez-nous à tesserly.dev@gmail.com</span>
-        <a href="./terms/" data-keep-lang data-href="./terms/">Conditions d'utilisation</a>
+        <a href="./terms/" data-keep-lang data-href="./terms/">Conditions Générales d'Utilisation</a>
       </div>
     </div>
   </article>
-  <article id="doc-it" data-title="Informativa sulla privacy — Clipset" data-other="Condizioni d&#x27;uso" hidden>
+  <article id="doc-it" data-title="Informativa sulla privacy — Clipset" data-other="Condizioni d&#x27;Uso" hidden>
     <div class="card">
       <span class="kicker">Clipset</span>
       <h1>Informativa sulla privacy</h1>
@@ -643,7 +654,7 @@ a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset:
     </section>
       <div class="foot">
         <span>Domande su questa informativa? Scriva a tesserly.dev@gmail.com</span>
-        <a href="./terms/" data-keep-lang data-href="./terms/">Condizioni d'uso</a>
+        <a href="./terms/" data-keep-lang data-href="./terms/">Condizioni d'Uso</a>
       </div>
     </div>
   </article>

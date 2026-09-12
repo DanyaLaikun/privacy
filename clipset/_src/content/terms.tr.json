@@ -4,138 +4,211 @@
   "docTitle": "Kullanım Koşulları — Clipset",
   "kicker": "Clipset",
   "title": "Kullanım Koşulları",
-  "updated": "Yürürlük tarihi: 12 Eylül 2026 · Son güncelleme: 12 Eylül 2026",
+  "updated": "Sürüm 1.0 · 12 Eylül 2026 tarihinden itibaren yürürlüktedir",
   "otherLabel": "Gizlilik Politikası",
-  "footer": "Bu koşullarla ilgili sorularınız mı var? tesserly.dev@gmail.com adresine yazın",
-  "lead": "Bu koşullar, sizinle Clipset'in geliştiricisi arasındaki sözleşmedir. Uygulamayı indirerek veya kullanarak bunları kabul edersiniz. Okunmak için yazıldılar, atlatılmak için değil; bu yüzden konunun elverdiği ölçüde kısa ve sade tutuldular.",
+  "footer": "Clipset · Kullanım Koşulları · Sürüm 1.0",
+  "lead": "İşbu Kullanım Koşulları (\"Koşullar\"), uygulamayı kuran veya kullanan gerçek kişi (\"Kullanıcı\") ile Clipset mobil uygulamasının bağımsız geliştiricisi (\"Geliştirici\") arasında bağlayıcı bir sözleşme teşkil eder. Koşullar, uygulamanın indirilmesini, kurulmasını ve kullanılmasını düzenler. Kullanıcı, uygulamayı kurmakla veya kullanmakla işbu Koşulları okuduğunu, anladığını ve tümüyle kabul ettiğini teyit eder. İşbu Koşulları kabul etmeyen Kullanıcı, uygulamayı kuramaz ve kullanamaz.",
   "sections": [
     {
-      "h": "Clipset nedir",
+      "h": "Tanımlar",
       "blocks": [
-        { "p": "Clipset, kendi videolarınızdan kişisel bir egzersiz kitaplığı kurmanız için yapılmış bir iOS uygulamasıdır. Bir videoyu içe aktarır, klip olarak kırpar, egzersizi tanımlar, klipleri antrenmanlar ve programlar hâlinde düzenler, dinlenme sayacıyla seans yapar ve gelişiminizi fotoğraflar ve istatistiklerle izlersiniz." },
-        { "p": "Ayrıca antrenmanları tek bir imzalı dosyada paketleyip başka birine — bir danışana, bir antrenman arkadaşına, bir dosta — gönderebilirsiniz; o kişi dosyayı kendi Clipset uygulamasında açar." },
-        { "p": "Clipset bağımsız bir geliştirici tarafından yapılmıştır. Bir koçluk hizmeti değil, bir araçtır: kimse antrenmanınızı incelemez, formunuzu kontrol etmez ya da sizin için program yazmaz." }
-      ]
-    },
-    {
-      "h": "Lisansınız",
-      "blocks": [
-        { "p": "Bu koşullara uyduğunuz sürece, sahip olduğunuz veya kontrol ettiğiniz cihazlarda Clipset'i kullanmanız için kişisel, münhasır olmayan ve devredilemez bir lisans alırsınız. Uygulama, adı, tasarımı, simgeleri ve kodu geliştiricinin mülkiyetinde kalır." },
-        { "p": "Uygulama App Store üzerinden dağıtıldığı için, bu koşullara ek olarak Apple'ın **[[Lisanslı Uygulama Son Kullanıcı Lisans Sözleşmesi|https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]]** metni de geçerlidir. İkisi, Apple'ın sözleşmesinin kapsadığı bir konuda çelişirse Apple'ın sözleşmesi üstün gelir. Apple bu koşulların tarafı değildir ve uygulamadan sorumlu değildir; ancak Apple ve bağlı kuruluşları, üçüncü taraf lehtar sıfatıyla bu koşulları size karşı ileri sürebilir." }
-      ]
-    },
-    {
-      "h": "Sağlık ve güvenlik",
-      "blocks": [
-        { "note": "Clipset bir tıbbi cihaz değildir ve tıbbi tavsiye vermez. Uygulamadaki hiçbir şey teşhis, tedavi planı ya da profesyonel yönlendirme niteliği taşımaz." },
-        { "p": "Kuvvet antrenmanı sakatlanma riski taşır. Neyi çalışacağınıza, ne kadar ağırlık kaldıracağınıza ve kendinizi ne kadar zorlayacağınıza siz karar verirsiniz. Bir antrenman programına başlamadan veya programınızı değiştirmeden önce — özellikle hamileyseniz, bir sakatlık ya da hastalık sonrası iyileşiyorsanız veya kalp, eklem ya da tansiyon rahatsızlığınız varsa — bir doktora ya da nitelikli bir uzmana danışın." },
-        { "p": "Uygulamadaki egzersiz videoları ve antrenmanlar, sizin ya da başka bir kullanıcının oluşturduğu içeriklerdir. Güvenlik veya doğruluk açısından bizim tarafımızdan denetlenmezler. Ağrı, baş dönmesi ya da olağan dışı bir şey hissederseniz hemen durun ve tıbbi yardım alın." },
-        { "p": "Clipset'i kullanmak ve antrenman yapmak sizin kendi sorumluluğunuzdadır." }
-      ]
-    },
-    {
-      "h": "İçerikleriniz",
-      "blocks": [
-        { "p": "Clipset'e koyduğunuz her şey sizin kalır. Videolarınız, fotoğraflarınız, notlarınız veya programlarınız üzerinde hiçbir mülkiyet ya da lisans iddiamız yoktur ve bunlar hiçbir zaman bize ulaşmaz — cihazınızda dururlar." },
-        { "p": "İçe aktardıklarınızdan siz sorumlusunuz. Yalnızca kendi çektiğiniz ya da kullanma hakkına sahip olduğunuz videoları ekleyin. Başkasının telif hakkını ihlal eden, rıza alınmadan çekilmiş veya yaşadığınız yerde hukuka aykırı olan materyalleri içe aktarmayın." },
-        { "p": "Başka bir kişiyi çekiyorsanız, onun iznini almak size düşer — özellikle de o kişinin yer aldığı bir paketi paylaşmadan önce." }
-      ]
-    },
-    {
-      "h": "Paketleri başkalarıyla paylaşmak",
-      "blocks": [
-        { "p": "Paylaştığınız bir paket; kliplerinizi, antrenmanlarınızı, yazar adınızı ve herkese açık Clipset ID'nizi taşır. Paketi göndermek sizin kararınız ve sizin sorumluluğunuzdur: alıcıyı da kanalı da siz seçersiniz." },
-        { "p": "Bir pakete son kullanma tarihi verilebilir ve paket tek bir alıcıya kilitlenebilir. Bunlar makul güvenlik önlemleridir, kopya koruması değil. Medya bir kez birinin cihazına ulaştığında, o kişi başka yollarla kayıt alabilir, kopyalayabilir ya da yeniden paylaşabilir. Kopyalanmasını göze alamayacağınız hiçbir şeyi Clipset üzerinden dağıtmayın." },
-        { "p": "Antrenman programı satıyorsanız, bu satış sizinle danışanınız arasındadır. Biz tarafı değiliz, komisyon almayız, ödeme işlemeyiz ve bu satışa ilişkin hiçbir garanti vermeyiz. Kendi faturalandırmanızdan, vergilerinizden, iadelerinizden ve tüketici yükümlülüklerinizden siz sorumlusunuz." },
-        { "p": "Paketleri hukuka aykırı, nefret içerikli ya da zararlı materyalleri veya başkasının ücretli içeriğini izni olmadan dağıtmak için kullanmayın." }
-      ]
-    },
-    {
-      "h": "Clipset Pro",
-      "blocks": [
-        { "p": "Clipset Pro, Apple tarafından satılan, otomatik yenilenen bir aboneliktir. Sınırsız kitaplığın, sınırsız antrenman ve paketin, eksiksiz istatistiklerin, gelişim fotoğrafları ve hızlandırılmış videoların, paket son kullanma tarihi ile alıcı kilidinin kilidini açar." },
+        { "p": "İşbu Koşullarda geçen aşağıdaki ifadeler, karşılarında belirtilen anlamları taşır." },
         { "ul": [
-          "Planlar **aylık** ve **yıllık**tır. Ülkeniz için geçerli fiyat, siz onaylamadan önce uygulamada ve App Store'da gösterilir.",
-          "Ödeme, satın almayı onayladığınızda Apple Hesabınızdan tahsil edilir.",
-          "Abonelik, mevcut dönem bitmeden en az 24 saat önce iptal etmediğiniz sürece **otomatik olarak yenilenir**. Yenileme ücreti, dönemin bitimine kalan 24 saat içinde tahsil edilir.",
-          "İlk abonelikte ücretsiz deneme sunulabilir. Deneme bitmeden iptal ederseniz sizden ücret alınmaz. Bir abonelik satın aldığınızda denemenin kullanılmayan kısmı geçersiz olur.",
-          "Aboneliğinizi dilediğiniz zaman **App Store → profiliniz → Abonelikler** yolundan yönetebilir veya iptal edebilirsiniz. Uygulamayı silmek aboneliği iptal etmez.",
-          "İadeler, App Store kuralları çerçevesinde Apple tarafından yürütülür; biz kendimiz iade yapamayız."
-        ] },
-        { "p": "Bir abonelik sona erdiğinde kitaplığınız cihazınızda kalır ve hiçbir şey silinmez. Pro gerektiren özellikler yalnızca yeniden kilitlenir; ücretsiz sınırları aşan içerikler ise kaybolmaz, salt okunur hâle gelir." }
+          "**Uygulama** veya **App**, tüm sürümleri, güncellemeleri, bileşenleri ve beraberindeki materyaller dâhil olmak üzere iOS için Clipset yazılımını ifade eder.",
+          "**Geliştirici**, Uygulamanın hak sahibi olan ve Uygulamayı dağıtan, tesserly.dev@gmail.com adresinden kendisine ulaşılabilen bağımsız geliştiriciyi ifade eder.",
+          "**Kullanıcı**, Uygulamayı kuran veya kullanan her gerçek kişiyi ifade eder.",
+          "**Kullanıcı İçeriği**, Kullanıcının Uygulamaya aktardığı veya Uygulama içinde oluşturduğu videoları, görselleri, metinleri, egzersizleri, antrenmanları, programları ve diğer her türlü materyali ifade eder.",
+          "**Paket**, Uygulama tarafından oluşturulan, Kullanıcının üçüncü kişiye aktarmak üzere seçtiği Kullanıcı İçeriğini barındıran, imzalı ve şifreli tek bir `.clipset` dosyasını ifade eder.",
+          "**Alıcı**, Kullanıcının bir Paketi aktardığı kişiyi ifade eder.",
+          "**Abonelik**, App Store aracılığıyla dağıtılan, otomatik olarak yenilenen abonelik olan Clipset Pro'yu ifade eder.",
+          "**App Store**, Apple Inc. ve bağlı kuruluşları (**Apple**) tarafından işletilen dijital dağıtım platformunu ifade eder."
+        ] }
       ]
     },
     {
-      "h": "Ücretsiz sürüm",
+      "h": "Sözleşmenin konusu ve kabul",
       "blocks": [
-        { "p": "Clipset ücretsiz olarak kullanılabilir; yalnızca ne kadar içerik oluşturabileceğiniz sınırlıdır: bu metnin yazıldığı tarihte 12 egzersiz klibi, 2 antrenman ve 1 paylaşılan paket. Güncel sınırlar, onlara ulaştığınızda her zaman uygulamada gösterilir." },
-        { "p": "Başka birinden paket almak ve içe aktarmak hiçbir zaman sınırlı değildir ve hiçbir zaman abonelik gerektirmez. Bir danışan, antrenörünün gönderdiği programı her zaman açabilmelidir." },
-        { "p": "Uygulamanın sürdürülebilir kalması için ücretsiz sınırları ve Pro'nun kapsamını zaman içinde değiştirebiliriz. Değişiklikler ileriye dönük olarak geçerlidir ve halihazırda oluşturduklarınızı asla silmez." }
+        { "c": "Uygulama; Kullanıcının kendi video materyalinden bir egzersiz kitaplığı oluşturmasına, bu materyali antrenmanlar ve programlar hâlinde düzenlemesine, antrenman seansları yürütmesine ve antrenman gelişimini kaydetmesine imkân tanıyan kişisel bir araçtır." },
+        { "c": "İşbu Koşullar, Kullanıcı bakımından Uygulamanın ilk kurulduğu veya ilk kullanıldığı tarihte yürürlüğe girer ve Kullanıcı Uygulamayı kullanmayı sürdürdüğü sürece yürürlükte kalır." },
+        { "c": "İşbu Koşulların kabulü, Uygulamanın kurulması veya kullanılması suretiyle beyan edilir. Ayrıca bir imza aranmaz." },
+        { "c": "Geliştirici; koçluk, antrenman gözetimi, program hazırlama veya başkaca bir profesyonel hizmet sunmaz ve Kullanıcı İçeriğini incelemez, doğrulamaz veya onaylamaz." },
+        { "c": "Uygulama, 13 yaşını doldurmuş kişilere yöneliktir. Tabi olduğu hukuk uyarınca ergin olmayan Kullanıcı, Uygulamayı kullanmadan önce ebeveyninin veya yasal temsilcisinin rızasını alır." }
+      ]
+    },
+    {
+      "h": "Apple ile ilişki",
+      "blocks": [
+        { "c": "İşbu Koşullar yalnızca Kullanıcı ile Geliştirici arasında akdedilmiştir. Apple, Koşulların tarafı değildir." },
+        { "c": "Uygulama satılmamakta, lisanslanmaktadır. İşbu Koşullara ek olarak **[[Apple Lisanslı Uygulama Son Kullanıcı Lisans Sözleşmesi|https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]]** uygulanır. İşbu Koşulların bir hükmü, anılan sözleşmenin düzenlediği bir konuda o sözleşmeyle çelişirse anılan sözleşme üstün tutulur." },
+        { "c": "Uygulamadan ve Uygulamanın içeriğinden, bakımından ve desteğinden yalnızca Geliştirici sorumludur. Apple'ın, Uygulamaya ilişkin herhangi bir bakım veya destek hizmeti sunma yükümlülüğü bulunmamaktadır." },
+        { "c": "Uygulamanın geçerli bir garantiye uygun olmadığına ilişkin her türlü talep, satın alma bedelini iade edebilecek olan Apple'a yöneltilir. Yürürlükteki hukukun izin verdiği azami ölçüde Apple'ın Uygulamaya ilişkin başkaca hiçbir garanti yükümlülüğü yoktur." },
+        { "c": "Apple ve bağlı kuruluşları, işbu Koşullar bakımından üçüncü kişi yararına sözleşmenin lehtarı olup Kullanıcının Koşulları kabul etmesiyle birlikte Koşulları Kullanıcıya karşı ileri sürme hakkını haizdir." },
+        { "c": "Kullanıcı; Amerika Birleşik Devletleri Hükûmeti tarafından ambargo uygulanan ya da anılan Hükûmetçe terörü destekleyen ülke olarak ilan edilen bir ülkede bulunmadığını ve anılan Hükûmetçe tutulan yasaklı veya kısıtlı taraflar listelerinin hiçbirinde yer almadığını beyan eder." }
+      ]
+    },
+    {
+      "h": "Lisansın verilmesi",
+      "blocks": [
+        { "c": "Geliştirici, Kullanıcıya; App Store Kullanım Kuralları'na uygun olarak, Kullanıcının mülkiyetinde veya kontrolünde bulunan Apple markalı cihazlara Uygulamayı kurma ve Uygulamayı bu cihazlarda kullanma hususunda sınırlı, kişisel, münhasır olmayan, devredilemez ve geri alınabilir bir lisans verir." },
+        { "c": "Lisans, yazılımın kendisinin kullanımını kapsar. Uygulamanın, Kullanıcının kendi danışanlarına sunduğu antrenman materyalini hazırlamak amacıyla kullanılması serbesttir ve işbu maddenin ihlali sayılmaz." },
+        { "c": "Kullanıcı, Uygulamayı üçüncü kişilere satamaz, kiralayamaz, finansal kiralamaya konu edemez, alt lisansa veremez, dağıtamaz veya başka bir biçimde erişime açamaz; Uygulamada yer alan hak sahipliğine ilişkin bildirimleri kaldıramaz veya değiştiremez." },
+        { "c": "İşbu Koşullarla açıkça verilmeyen tüm haklar Geliştirici bakımından saklıdır." }
+      ]
+    },
+    {
+      "h": "Sağlık, güvenlik ve riskin üstlenilmesi",
+      "blocks": [
+        { "note": "Uygulama bir tıbbi cihaz değildir. Tıbbi tavsiye, teşhis veya tedavi sunmaz ve profesyonel sağlık hizmetinin yerine geçecek şekilde esas alınamaz." },
+        { "c": "Fiziksel egzersiz, özellikle de direnç antrenmanı, doğası gereği yaralanma riski taşır. Hangi egzersizlerin yapılacağını, hangi yüklerin kullanılacağını ve hangi yoğunlukta çalışılacağını Kullanıcı kendi başına belirler." },
+        { "c": "Kullanıcının, bir antrenman programına başlamadan veya programında esaslı değişiklik yapmadan önce; özellikle hamilelik hâlinde, bir yaralanma ya da hastalık sonrası iyileşme sürecinde veyahut kalp-damar, metabolik, eklem ya da tansiyon rahatsızlığının bulunması hâlinde tıbbi görüş alması gerekir." },
+        { "c": "Uygulamadaki egzersiz videoları, açıklamalar ve antrenmanlar Kullanıcı veya üçüncü bir kişi tarafından oluşturulur; doğruluk, uygunluk veya güvenlik bakımından Geliştirici tarafından incelenmez." },
+        { "c": "Ağrı, baş dönmesi, nefes darlığı veya olağan dışı başka bir belirtinin ortaya çıkması hâlinde Kullanıcı egzersizi derhâl bırakır ve tıbbi yardım alır." },
+        { "c": "Kullanıcı, Uygulamayı tamamen kendi riski altında kullanır ve tamamen kendi riski altında antrenman yapar; bundan doğacak her türlü yaralanma ve sağlık zararının sorumluluğunu tümüyle üstlenir." }
+      ]
+    },
+    {
+      "h": "Kullanıcı İçeriği",
+      "blocks": [
+        { "c": "Kullanıcı İçeriği üzerindeki tüm haklar Kullanıcıya ait olmaya devam eder. Geliştirici, Kullanıcı İçeriği üzerinde mülkiyet edinmez ve herhangi bir lisans iddiasında bulunmaz." },
+        { "c": "Kullanıcı İçeriği, Kullanıcının cihazında yerel olarak saklanır. Geliştirici bu içeriği almadığı ve bu içeriğe erişimi bulunmadığı için içerik üzerinde herhangi bir moderasyon yapmaz." },
+        { "c": "Kullanıcı, her bir Kullanıcı İçeriğini içe aktarmak, saklamak ve aktarmak için gerekli tüm haklara sahip olduğunu ve bu içeriklerin hiçbirinin üçüncü kişilerin fikrî mülkiyet, özel hayatın gizliliği veya kişilik haklarını ihlal etmediğini taahhüt eder." },
+        { "c": "Kullanıcı İçeriğinde Kullanıcı dışında kimliği belirlenebilir bir kişinin yer alması hâlinde, içeriğin saklanmasından veya aktarılmasından önce söz konusu kişinin rızasının alınması Kullanıcının sorumluluğundadır." },
+        { "c": "Kullanıcı İçeriğinin, Kullanıcının yerleşim yeri hukuku ile Alıcının tabi olduğu hukuk bakımından hukuka uygunluğundan yalnızca Kullanıcı sorumludur." }
+      ]
+    },
+    {
+      "h": "Paketler ve üçüncü kişilere aktarım",
+      "blocks": [
+        { "c": "Paket; Kullanıcının seçtiği Kullanıcı İçeriğini, Kullanıcının yazar adı ve herkese açık Clipset kimliği ile birlikte barındırır. Alıcıyı ve iletim kanalını Kullanıcı belirler." },
+        { "c": "İletim, Kullanıcının seçtiği bir hizmet aracılığıyla doğrudan Kullanıcı ile Alıcı arasında gerçekleşir. Paket, Geliştiriciye ait hiçbir altyapıdan geçmez; bu nedenle Geliştirici aktarım üzerinde hiçbir kontrol uygulamaz ve aktarıma ilişkin hiçbir garanti vermez." },
+        { "c": "Paket için sunulan son kullanma tarihi ve alıcı kilidi birer koruyucu önlem olup dijital hak yönetimi niteliği taşımaz. Medya bir kez Alıcının cihazına ulaştıktan sonra başka yollarla kaydedilebilir, kopyalanabilir veya yeniden dağıtılabilir; Kullanıcı, bir Paketi aktarmaya karar vermekle bu riski kabul etmiş olur." },
+        { "c": "Kullanıcının kendi danışanlarına bedel karşılığında Paket sunması hâlinde bu işlem, münhasıran Kullanıcı ile danışan arasında kurulur. Geliştirici işlemin tarafı değildir; komisyon almaz, ödeme işlemez ve işleme ilişkin hiçbir garanti vermez. Faturalandırma, vergilendirme, iadeler ve tüketicinin korunmasına ilişkin mevzuata uyum yalnızca Kullanıcının sorumluluğundadır." },
+        { "c": "Kullanıcı, Paketleri; hukuka aykırı içeriğin, üçüncü kişilerin haklarını ihlal eden içeriğin veya başkasına ait ücretli içeriğin o kişinin izni olmaksızın dağıtılması amacıyla kullanamaz." }
+      ]
+    },
+    {
+      "h": "Clipset Pro aboneliği",
+      "blocks": [
+        { "c": "Clipset Pro; aylık ve yıllık dönemler hâlinde sunulan, App Store aracılığıyla münhasıran Apple tarafından dağıtılan, otomatik olarak yenilenen bir aboneliktir." },
+        { "c": "Kullanıcının bulunduğu ülkede geçerli olan fiyat, satın alma onaylanmadan önce Uygulamada ve App Store'da gösterilir. Bedel, satın almanın onaylanması üzerine Kullanıcının Apple Hesabından tahsil edilir." },
+        { "c": "Kullanıcı, içinde bulunulan dönemin bitiminden en geç 24 saat önce iptal etmediği takdirde Abonelik, eşit süreli dönemler hâlinde kendiliğinden yenilenir. Yenileme bedeli, anılan dönemin bitiminden önceki 24 saat içinde tahsil edilir." },
+        { "c": "Tanıtım amaçlı ücretsiz deneme sunulması hâlinde deneme yalnızca ilk Abonelik bakımından geçerlidir ve önceden iptal edilmediği takdirde süresinin dolmasıyla ücretli döneme dönüşür. Bir Abonelik satın alınması hâlinde denemenin kullanılmayan kısmı hükümsüz kalır." },
+        { "c": "Abonelik, dilenildiği zaman **App Store → Kullanıcının profili → Abonelikler** yolundan yönetilebilir veya iptal edilebilir. Uygulamanın silinmesi Aboneliği sona erdirmez." },
+        { "c": "İadeler, App Store politikası uyarınca Apple tarafından yürütülür. Geliştiricinin iade taleplerini kabul etme, reddetme veya işleme alma imkânı bulunmamaktadır." },
+        { "c": "Aboneliğin sona ermesi veya iptal edilmesi Kullanıcı İçeriğini silmez. Abonelik gerektiren özellikler yeniden kilitlenir; ücretsiz sürümün sınırlarını aşan içerik ise yalnızca görüntülenebilir hâle gelir." },
+        { "c": "Kullanıcının Avrupa Birliği'nde veya kanuni cayma hakkı tanıyan başka bir hukuk düzeninde tüketici sıfatını taşıması hâlinde bu hak, App Store politikası uyarınca Apple üzerinden kullanılır." }
+      ]
+    },
+    {
+      "h": "Ücretsiz sürüm ve kullanım sınırları",
+      "blocks": [
+        { "c": "Uygulama, içerik oluşturulmasına ilişkin sayısal sınırlara tabi olmak kaydıyla Abonelik olmaksızın kullanılabilir. İşbu Koşulların tarihi itibarıyla bu sınırlar 12 egzersiz klibi, 2 antrenman ve 1 paylaşılan Pakettir. Yürürlükteki sınırlar Uygulamada gösterilir." },
+        { "c": "Paketin alınması ve içe aktarılması hiçbir sınıra tabi değildir ve Abonelik gerektirmez." },
+        { "c": "Geliştirici, ücretsiz sürümün sınırlarını ve Aboneliğin kapsamını değiştirme hakkını saklı tutar. Bu değişiklikler ileriye etkili olarak hüküm doğurur ve Kullanıcının hâlihazırda oluşturduğu içeriği silmez." }
       ]
     },
     {
       "h": "Kabul edilebilir kullanım",
       "blocks": [
-        { "p": "Lütfen şunları yapmayın:" },
+        { "p": "Kullanıcı aşağıdaki fiillerde bulunamaz:" },
         { "ul": [
-          "yasanın açıkça izin verdiği hâller dışında uygulamaya tersine mühendislik uygulamak, uygulamayı kaynak koda dönüştürmek veya kurcalamak;",
-          "paket imzasını, şifrelemeyi, alıcı kilidini ya da son kullanma tarihini aşmak veya başkasının bunu yapmasına yardım etmek;",
-          "uygulamayı hukuka aykırı içerik saklamak veya dağıtmak için kullanmak;",
-          "uygulamanın kendisini yeniden satmak, alt lisanslamak veya yeniden dağıtmak;",
-          "paket paylaşırken başka bir yazarın kimliğine bürünmek."
-        ] }
+          "emredici hukuk kurallarının açıkça izin verdiği hâller saklı kalmak üzere, Uygulamayı kaynak koda dönüştürmek, parçalarına ayırmak veya tersine mühendisliğe tabi tutmak ya da Uygulamanın kaynak kodunu elde etmeye teşebbüs etmek;",
+          "Paket imzasını, şifrelemeyi, alıcı kilidini veya son kullanma mekanizmasını aşmak, devre dışı bırakmak ya da bunlara başka bir biçimde müdahale etmek veyahut üçüncü bir kişiye bu konuda yardım etmek;",
+          "Uygulamayı, hukuka aykırı içeriğin saklanması, işlenmesi veya aktarılması amacıyla kullanmak;",
+          "bir Paketin yazarlığı konusunda gerçeğe aykırı beyanda bulunmak veya başka bir kişinin kimliğine bürünmek;",
+          "Uygulamayı, üçüncü kişilerin haklarını ihlal eden veya yürürlükteki mevzuata aykırılık teşkil eden bir biçimde kullanmak."
+        ] },
+        { "c": "İşbu maddeye aykırılık, Koşulların esaslı ihlali niteliğindedir." }
       ]
     },
     {
-      "h": "Yedekleme sizin işiniz",
+      "h": "Verilerin saklanması ve yedekleme",
       "blocks": [
-        { "p": "Clipset her şeyi cihazınızda tuttuğu ve bize ait hiçbir sunucuyla eşitlemediği için, kitaplığınızın bizde bir kopyası yoktur. Telefonunuzu kaybeder, sıfırlar ya da uygulamayı silerseniz klipleriniz ve geçmişiniz de onunla birlikte gider." },
-        { "p": "Ayarlar'dan zaman zaman bir yedek dışa aktarın ve güvenli bir yerde saklayın. Bu dosyaya sahip olan herkes kitaplığınızın tamamını geri yükleyebilir; bu yüzden ona özel bir belge gibi davranın." }
+        { "c": "Uygulama, tüm verileri Kullanıcının cihazında yerel olarak saklar. Geliştirici, Kullanıcı İçeriğinin saklandığı herhangi bir sunucu işletmez ve dolayısıyla bu içeriğin hiçbir kopyasını elinde bulundurmaz." },
+        { "c": "Cihazın kaybı, sıfırlanması, değiştirilmesi veya onarımı ya da Uygulamanın silinmesi, yerel olarak saklanan verilerin geri dönüşü olmaksızın kaybedilmesi sonucunu doğurur." },
+        { "c": "Yedeklerin oluşturulmasından ve korunmasından yalnızca Kullanıcı sorumludur. Uygulama tarafından dışa aktarılan yedek dosyası kitaplığın tümüyle geri yüklenmesine imkân tanır ve güvenli biçimde saklanır." },
+        { "c": "Kişisel verilerin işlenmesi, işbu Koşulların ayrılmaz bir parçasını oluşturan **[[Gizlilik Politikası|../]]** ile düzenlenir." }
       ]
     },
     {
-      "h": "Kullanılabilirlik ve değişiklikler",
+      "h": "Fikrî mülkiyet",
       "blocks": [
-        { "p": "Uygulamayı güncelleyebilir, özellik ekleyebilir ya da kaldırabilir ve bazı bölümlerinin çalışma biçimini değiştirebiliriz. Clipset'i dağıtmayı büsbütün bırakabiliriz de. Uygulama bir gün sonlandırılırsa, iOS sürümünüz desteklediği sürece cihazınızda çalışmaya devam eder ve verileriniz sizde kalır." },
-        { "p": "Uygulama iOS'a bağımlıdır. Apple'ın işletim sisteminde, App Store'da veya StoreKit'te yaptığı değişiklikler Clipset'in davranışını etkileyebilir ve bu bizim kontrolümüz dışındadır." }
+        { "c": "Uygulama, kaynak kodu, tasarımı, kullanıcı arayüzü, adı, logosu ve ilgili tüm materyaller telif hakkı ve diğer fikrî mülkiyet haklarıyla korunmakta olup Geliştiricinin münhasır mülkiyetinde kalır." },
+        { "c": "İşbu Koşullar, 4. maddede tanınan lisansın ötesinde Kullanıcıya herhangi bir fikrî mülkiyet hakkı devretmez." },
+        { "c": "Uygulamaya dâhil edilen üçüncü kişi bileşenleri kendi lisans koşullarına tabi olmaya devam eder." }
       ]
     },
     {
-      "h": "Garanti verilmemesi",
+      "h": "Erişilebilirlik, değişiklik ve dağıtımın sona erdirilmesi",
       "blocks": [
-        { "p": "Clipset, açık ya da zımni hiçbir garanti verilmeksizin \"olduğu gibi\" ve \"mevcut hâliyle\" sunulur; belirli bir amaca uygunluk, kesintisiz çalışma veya hatasızlık garantileri de buna dahildir. Bazı ülkelerin hukuku bu tür sınırlamalara izin vermez; böyle bir durumda bu bölüm yasanın izin verdiği ölçüde uygulanır ve kanundan doğan tüketici haklarınız etkilenmez." }
+        { "c": "Geliştirici, kendi takdirine göre Uygulamada değişiklik yapabilir, özellik ekleyebilir veya kaldırabilir ve güncelleme yayımlayabilir." },
+        { "c": "Geliştirici, Uygulamayı dağıtmayı veya desteklemeyi bırakabilir. Bu hâlde Uygulama, kurulu sürüm işletim sistemiyle uyumlu kaldığı sürece Kullanıcının cihazında çalışmaya devam eder ve Kullanıcının verileri cihazda kalır." },
+        { "c": "Uygulama, iOS'a ve Apple tarafından işletilen hizmetlere bağımlıdır. Apple'ın işletim sisteminde, App Store'da veya StoreKit'te yaptığı değişiklikler Uygulamanın işleyişini etkileyebilir ve Geliştiricinin kontrolü dışındadır." },
+        { "c": "Geliştirici, Uygulamanın kesintisiz veya hatasız çalışacağını garanti etmez." }
+      ]
+    },
+    {
+      "h": "Garanti reddi",
+      "blocks": [
+        { "c": "Yürürlükteki hukukun izin verdiği azami ölçüde Uygulama; satılabilirlik, belirli bir amaca uygunluk, doğruluk veya hak ihlali oluşturmama yönündeki zımni garantiler bunlarla sınırlı olmaksızın dâhil olmak üzere, açık, zımni veya kanundan doğan hiçbir garanti verilmeksizin \"olduğu gibi\" ve \"mevcut hâliyle\" sunulur." },
+        { "c": "Geliştirici tarafından sözlü veya yazılı olarak verilen hiçbir bilgi ya da tavsiye, işbu Koşullarda açıkça öngörülmeyen bir garanti doğurmaz." },
+        { "c": "Bazı hukuk düzenleri zımni garantilerin bertaraf edilmesine izin vermez. Bu hukuk düzenlerinde işbu maddede öngörülen bertaraf kayıtları yalnızca hukukun izin verdiği ölçüde uygulanır ve Kullanıcının tüketici sıfatından doğan emredici yasal hakları saklıdır." }
       ]
     },
     {
       "h": "Sorumluluğun sınırlandırılması",
       "blocks": [
-        { "p": "Yasanın izin verdiği en geniş ölçüde geliştirici; dolaylı, arızi veya sonuç niteliğindeki zararlardan, kâr kaybından, antrenman yapma biçiminizden doğan yaralanmalardan ya da cihaz arızası, silme işlemi, işletim sistemi hatası veya eksik yedek nedeniyle oluşan veri kaybından sorumlu değildir." },
-        { "p": "Buradaki hiçbir hüküm; ihmalden kaynaklanan ölüm ya da bedensel zarara ilişkin sorumluluğu, hileyi veya yasa gereği sınırlandırılamayacak başka bir hususu sınırlamaz. Sorumluluğun tamamen kaldırılamadığı hâllerde sorumluluk, talepten önceki on iki ay içinde uygulama için ödediğiniz tutarla sınırlıdır." }
+        { "c": "Yürürlükteki hukukun izin verdiği azami ölçüde Geliştirici; Uygulamanın kullanılmasından veya kullanılamamasından doğan ya da bunlarla bağlantılı dolaylı, arızi, özel, sonuç niteliğindeki veya cezai zararlardan, kâr kaybından, ticari kayıptan, veri kaybından ya da fırsat kaybından sorumlu değildir." },
+        { "c": "Geliştirici; Kullanıcının antrenman yapma biçiminden doğan yaralanma ve sağlık zararlarından, Alıcının davranışlarından ya da cihaz arızası, silme işlemi, işletim sistemi hatası veya yedek bulunmaması nedeniyle oluşan veri kaybından sorumlu değildir." },
+        { "c": "İşbu Koşullardaki hiçbir hüküm; ihmalden kaynaklanan ölüm veya bedensel zarara ilişkin sorumluluğu, hile ya da hileli beyana ilişkin sorumluluğu veyahut yürürlükteki hukuka göre bertaraf edilemeyecek veya sınırlandırılamayacak başka bir sorumluluğu ortadan kaldırmaz veya sınırlandırmaz." },
+        { "c": "Sorumluluğun bertaraf edilemediği hâllerde Geliştiricinin tüm talepler bakımından toplam sorumluluğu, talebe konu olayın gerçekleşmesinden önceki on iki ay içinde Kullanıcının Uygulama ve Abonelik için ödediği tutarla sınırlıdır." }
       ]
     },
     {
-      "h": "Sözleşmenin sona ermesi",
+      "h": "Tazminat",
       "blocks": [
-        { "p": "Bu sözleşmeyi uygulamayı silerek dilediğiniz zaman sonlandırabilirsiniz; etkin bir aboneliğiniz varsa onu App Store'dan ayrıca iptal edin. Bu koşulları ağır biçimde ihlal etmeniz — örneğin Clipset'i hukuka aykırı içerik dağıtmak için kullanmanız — hâlinde sözleşmeyi biz de sonlandırabiliriz. Sözleşmenin sona ermesi, cihazınızda halihazırda bulunan verilere dokunmaz." }
+        { "c": "Kullanıcı; Kullanıcı İçeriğinden, bir Paketin aktarılmasından, Kullanıcının işbu Koşulları ihlal etmesinden ya da Kullanıcının yürürlükteki mevzuata veya üçüncü kişilerin haklarına aykırı davranmasından doğan her türlü üçüncü kişi talebini, sorumluluğu, kaybı, zararı, masraf ve gideri, makul avukatlık ücretleri dâhil olmak üzere Geliştiriciye tazmin eder ve Geliştiriciyi bunlardan âri tutar." }
       ]
     },
     {
-      "h": "Uygulanacak hukuk",
+      "h": "Süre ve fesih",
       "blocks": [
-        { "p": "Bu koşullar, kanunlar ihtilafı kurallarına bakılmaksızın Ukrayna hukukuna tabidir. Clipset'i başka bir ülkede tüketici olarak kullanıyorsanız, yaşadığınız yerin hukukunun emredici korumaları saklı kalır ve dava yoluna kendi yerel mahkemelerinizde başvurabilirsiniz." }
+        { "c": "İşbu Koşullar, Kullanıcı Uygulamayı kullandığı sürece yürürlükte kalır." },
+        { "c": "Kullanıcı, Uygulamayı kullanmayı bırakmak ve Uygulamayı silmek suretiyle Koşulları dilediği zaman feshedebilir. Uygulamanın silinmesi Aboneliği sona erdirmez; Abonelik, App Store üzerinden ayrıca iptal edilir." },
+        { "c": "Kullanıcının işbu Koşulları esaslı biçimde ihlal etmesi hâlinde Geliştirici, Koşullar uyarınca verilen lisansı derhâl hüküm doğuracak şekilde feshedebilir." },
+        { "c": "Kullanıcı İçeriğine, fikrî mülkiyete, garanti reddine, sorumluluğun sınırlandırılmasına, tazminata ve uygulanacak hukuka ilişkin hükümler fesihten sonra da yürürlükte kalır." }
       ]
     },
     {
-      "h": "Bu koşullardaki değişiklikler",
+      "h": "Uygulanacak hukuk ve uyuşmazlıklar",
       "blocks": [
-        { "p": "Bu koşulların güncel sürümü, üstünde tarihiyle birlikte her zaman bu adreste yayımlanır. Bir değişiklik önemliyse ayrıca uygulama içinde de belirtilir. Bir değişiklikten sonra Clipset'i kullanmayı sürdürmeniz, o değişikliği kabul ettiğiniz anlamına gelir." }
+        { "c": "İşbu Koşullar, kanunlar ihtilafı kuralları ile Milletlerarası Mal Satımına İlişkin Sözleşmeler Hakkında Birleşmiş Milletler Antlaşması hariç olmak üzere Ukrayna hukukuna tabidir." },
+        { "c": "Kullanıcının mutat meskeni başka bir devlette bulunan tüketici olması hâlinde, o devlet hukukunun tüketicinin korunmasına ilişkin emredici hükümleri uygulanmaya devam eder ve Kullanıcı, yerleşim yeri mahkemelerinde dava açma hakkını korur." },
+        { "c": "Taraflar, dava yoluna başvurmadan önce uyuşmazlığı sulh yoluyla çözmek için gayret gösterir. Bu yöndeki talep, işbu Koşulların son maddesinde belirtilen adres üzerinden Geliştiriciye iletilir." }
+      ]
+    },
+    {
+      "h": "Koşullarda değişiklik",
+      "blocks": [
+        { "c": "Geliştirici, özellikle Uygulamadaki, yürürlükteki mevzuattaki veya App Store politikasındaki değişiklikleri yansıtmak amacıyla işbu Koşullarda değişiklik yapabilir." },
+        { "c": "Yürürlükteki sürüm bu adreste yayımlanır ve yürürlüğe giriş tarihini taşır. Esaslı değişiklikler ayrıca Uygulama içinde bildirilir." },
+        { "c": "Bir değişikliğin yürürlüğe girmesinden sonra Uygulamanın kullanılmaya devam edilmesi, değiştirilmiş Koşulların kabulü anlamına gelir. Bunları kabul etmeyen Kullanıcı, Uygulamayı kullanmayı bırakır." }
+      ]
+    },
+    {
+      "h": "Çeşitli hükümler",
+      "blocks": [
+        { "c": "İşbu Koşulların herhangi bir hükmünün geçersiz veya icra edilemez sayılması hâlinde diğer hükümler tüm hüküm ve sonuçlarıyla yürürlükte kalır; geçersiz hüküm, ekonomik amacına mümkün olduğunca yaklaşan geçerli bir hükümle değiştirilir." },
+        { "c": "Geliştiricinin işbu Koşullardan doğan bir hakkını kullanmaması veya kullanmakta gecikmesi, o haktan feragat ettiği anlamına gelmez." },
+        { "c": "Kullanıcı, işbu Koşullardan doğan hak ve yükümlülüklerini devir veya temlik edemez. Geliştirici, Uygulamanın devriyle bağlantılı olarak bunları devredebilir." },
+        { "c": "İşbu Koşullar, Gizlilik Politikası ve Apple Lisanslı Uygulama Son Kullanıcı Lisans Sözleşmesi ile birlikte, Uygulamaya ilişkin olarak taraflar arasındaki sözleşmenin tamamını oluşturur ve Uygulamaya ilişkin önceki tüm mutabakatların yerine geçer." },
+        { "c": "İşbu Koşullar İngilizce olarak düzenlenmiştir. Çeviriler yalnızca kolaylık sağlamak amacıyla sunulmuştur; farklılık hâlinde İngilizce metin esas alınır." }
       ]
     },
     {
       "h": "İletişim",
       "blocks": [
-        { "p": "Sorularınızı, hata bildirimlerinizi ve taleplerinizi bir yardım masası değil, bir insan okuyor:" },
-        { "p": "**E-posta:** [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20terms]]" }
+        { "c": "İşbu Koşullardan doğan sorular, bildirimler ve talepler, [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20terms]] adresine elektronik posta yoluyla Geliştiriciye iletilir." }
       ]
     }
   ]

@@ -97,13 +97,24 @@ h1 { font-size: 34px; line-height: 1.15; letter-spacing: -.03em; margin: 0 0 10p
   padding: 18px 20px; background: var(--chip); border-radius: 18px;
 }
 article { counter-reset: sec; }
-section { counter-increment: sec; margin-top: 32px; }
+section { counter-increment: sec; counter-reset: clause; margin-top: 32px; }
 section > h2 {
   font-size: 20px; letter-spacing: -.02em; margin: 0 0 12px;
   padding-top: 26px; border-top: 1px solid var(--line);
 }
 section > h2::before { content: counter(sec) ". "; color: var(--muted); font-weight: 600; }
 p { margin: 0 0 14px; color: var(--ink-soft); }
+p.clause { padding-left: 3.2em; text-indent: -3.2em; margin-bottom: 12px; }
+p.clause::before {
+  counter-increment: clause;
+  content: counter(sec) "." counter(clause);
+  display: inline-block; width: 3.2em; text-indent: 0;
+  color: var(--muted); font-weight: 600; font-variant-numeric: tabular-nums;
+}
+@media (max-width: 560px) {
+  p.clause { padding-left: 2.9em; text-indent: -2.9em; }
+  p.clause::before { width: 2.9em; }
+}
 ul { margin: 0 0 16px; padding-left: 20px; color: var(--ink-soft); }
 li { margin-bottom: 8px; }
 li::marker { color: var(--muted); }
@@ -232,6 +243,8 @@ def render_blocks(blocks):
     for block in blocks:
         if "p" in block:
             chunks.append("      <p>%s</p>" % esc(block["p"]))
+        elif "c" in block:
+            chunks.append('      <p class="clause">%s</p>' % esc(block["c"]))
         elif "note" in block:
             chunks.append('      <p class="note">%s</p>' % esc(block["note"]))
         elif "ul" in block:
@@ -240,7 +253,7 @@ def render_blocks(blocks):
     return "\n".join(chunks)
 
 
-def render_doc(data, other_href):
+def render_doc(data, other_href, other_label):
     sections = []
     for section in data["sections"]:
         sections.append(
@@ -262,7 +275,7 @@ def render_doc(data, other_href):
   </article>""" % {
         "lang": data["lang"],
         "title": html.escape(data["docTitle"], quote=True),
-        "other_attr": html.escape(data["otherLabel"], quote=True),
+        "other_attr": html.escape(other_label, quote=True),
         "kicker": esc(data["kicker"]),
         "heading": esc(data["title"]),
         "updated": esc(data["updated"]),
@@ -270,23 +283,26 @@ def render_doc(data, other_href):
         "sections": "\n".join(sections),
         "footer": esc(data["footer"]),
         "other_href": other_href,
-        "other_label": esc(data["otherLabel"]),
+        "other_label": esc(other_label),
     }
 
 
-def build(doc, out_path, home, other_href):
-    langs, docs, options, english = [], [], [], None
+def build(doc, other_doc, out_path, home, other_href):
+    langs, docs, options, english, english_other = [], [], [], None, ""
     for code in LANGS:
         path = SRC / "content" / ("%s.%s.json" % (doc, code))
         if not path.exists():
             print("  missing: %s" % path.name)
             continue
         data = json.loads(path.read_text(encoding="utf-8"))
+        sibling = SRC / "content" / ("%s.%s.json" % (other_doc, code))
+        label = json.loads(sibling.read_text(encoding="utf-8"))["title"] if sibling.exists() else data["otherLabel"]
         langs.append(code)
-        docs.append(render_doc(data, other_href))
+        docs.append(render_doc(data, other_href, label))
         options.append('<option value="%s">%s</option>' % (code, html.escape(data["langName"], quote=True)))
         if code == "en":
             english = data
+            english_other = label
     page = PAGE % {
         "title": html.escape(english["docTitle"], quote=True),
         "description": html.escape(BOLD.sub(r"\1", english["lead"])[:180], quote=True),
@@ -296,7 +312,7 @@ def build(doc, out_path, home, other_href):
         "options": "".join(options),
         "home": home,
         "other": other_href,
-        "other_label": html.escape(english["otherLabel"], quote=True),
+        "other_label": html.escape(english_other, quote=True),
     }
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(page, encoding="utf-8")
@@ -304,5 +320,5 @@ def build(doc, out_path, home, other_href):
 
 
 if __name__ == "__main__":
-    build("privacy", ROOT / "index.html", "./", "./terms/")
-    build("terms", ROOT / "terms" / "index.html", "../", "../")
+    build("privacy", "terms", ROOT / "index.html", "./", "./terms/")
+    build("terms", "privacy", ROOT / "terms" / "index.html", "../", "../")
