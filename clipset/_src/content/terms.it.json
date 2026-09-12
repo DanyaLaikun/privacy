@@ -1,0 +1,142 @@
+{
+  "lang": "it",
+  "langName": "Italiano",
+  "docTitle": "Condizioni d'uso — Clipset",
+  "kicker": "Clipset",
+  "title": "Condizioni d'uso",
+  "updated": "In vigore dal 12 settembre 2026 · Ultimo aggiornamento: 12 settembre 2026",
+  "otherLabel": "Informativa sulla privacy",
+  "footer": "Domande su queste condizioni? Scriva a tesserly.dev@gmail.com",
+  "lead": "Queste condizioni costituiscono l'accordo tra lei e lo sviluppatore di Clipset. Scaricando o utilizzando l'app, lei le accetta. Sono scritte per essere lette, non per essere sopportate, quindi sono brevi e semplici quanto l'argomento consente.",
+  "sections": [
+    {
+      "h": "Che cos'è Clipset",
+      "blocks": [
+        { "p": "Clipset è un'app per iOS che permette di costruire una libreria personale di esercizi a partire dai propri video. Lei importa un video, lo ritaglia in una clip, descrive l'esercizio, organizza le clip in allenamenti e programmi, svolge una sessione con il timer di recupero e monitora i progressi con foto e statistiche." },
+        { "p": "Può anche raccogliere gli allenamenti in un unico file firmato e inviarlo a qualcun altro — un cliente, un compagno di allenamento, un amico — che lo aprirà nella propria copia di Clipset." },
+        { "p": "Clipset è realizzata da uno sviluppatore indipendente. È uno strumento, non un servizio di coaching: nessuno esamina i suoi allenamenti, controlla la sua esecuzione o scrive il programma al posto suo." }
+      ]
+    },
+    {
+      "h": "La sua licenza",
+      "blocks": [
+        { "p": "Le viene concessa una licenza personale, non esclusiva e non trasferibile per utilizzare Clipset sui dispositivi che possiede o controlla, per tutto il tempo in cui rispetta queste condizioni. L'app, il suo nome, il design, le icone e il codice restano di proprietà dello sviluppatore." },
+        { "p": "L'app è distribuita tramite l'App Store, pertanto, oltre a queste condizioni, si applica il **[[Contratto di licenza con l'utente finale per le applicazioni concesse in licenza|https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]]** di Apple. Laddove i due testi siano in contrasto su un punto coperto dal contratto di Apple, prevale il contratto di Apple. Apple non è parte di queste condizioni e non è responsabile dell'app, ma Apple e le sue società controllate possono farle valere nei suoi confronti in qualità di terzi beneficiari." }
+      ]
+    },
+    {
+      "h": "Salute e sicurezza",
+      "blocks": [
+        { "note": "Clipset non è un dispositivo medico e non fornisce alcun consiglio medico. Nulla di quanto contenuto nell'app costituisce una diagnosi, un piano terapeutico o una consulenza professionale." },
+        { "p": "L'allenamento con i pesi comporta un rischio di infortunio. È lei a decidere cosa allenare, quanto carico sollevare e fin dove spingersi. Prima di iniziare o modificare un programma di allenamento — soprattutto in caso di gravidanza, di recupero da un infortunio o da una malattia, o di problemi cardiaci, articolari o di pressione arteriosa — consulti un medico o un professionista qualificato." },
+        { "p": "I video degli esercizi e gli allenamenti presenti nell'app sono contenuti creati da lei o da un altro utente. Non vengono da noi verificati quanto a sicurezza o correttezza. Interrompa immediatamente se avverte dolore, capogiri o qualcosa di insolito, e richieda assistenza medica." },
+        { "p": "Utilizza Clipset e si allena a suo rischio." }
+      ]
+    },
+    {
+      "h": "I suoi contenuti",
+      "blocks": [
+        { "p": "Tutto ciò che inserisce in Clipset resta suo. Non rivendichiamo alcuna proprietà né alcuna licenza sui suoi video, sulle sue foto, sulle sue note o sui suoi programmi, e non li riceviamo mai: risiedono sul suo dispositivo." },
+        { "p": "Lei è responsabile di ciò che importa. Aggiunga solo i video che ha girato o che ha il diritto di utilizzare. Non importi materiale che violi il diritto d'autore altrui, che sia stato ripreso senza consenso o che sia illecito nel luogo in cui risiede." },
+        { "p": "Se riprende un'altra persona, spetta a lei averne il permesso — soprattutto prima di condividere un pacchetto che la contiene." }
+      ]
+    },
+    {
+      "h": "Condividere i pacchetti con altri",
+      "blocks": [
+        { "p": "Un pacchetto che condivide contiene le sue clip, i suoi allenamenti, il suo nome autore e il suo Clipset ID pubblico. Inviarlo è una sua decisione e una sua responsabilità: è lei a scegliere il destinatario e il canale." },
+        { "p": "A un pacchetto si possono assegnare una data di scadenza e un vincolo a un unico destinatario. Sono tutele ragionevoli, non una protezione contro la copia. Una volta che qualcuno ha i contenuti multimediali sul proprio dispositivo, può registrarli, copiarli o ricondividerli con altri mezzi. Non distribuisca tramite Clipset nulla che non possa permettersi di veder copiato." },
+        { "p": "Se vende programmi di allenamento, la vendita avviene tra lei e il suo cliente. Non ne siamo parte, non percepiamo alcuna commissione, non gestiamo alcun pagamento e non forniamo alcuna garanzia al riguardo. Lei è responsabile della propria fatturazione, delle imposte, dei rimborsi e degli obblighi verso i consumatori." },
+        { "p": "Non utilizzi i pacchetti per distribuire materiale illecito, offensivo o dannoso, né contenuti a pagamento di altri senza il loro permesso." }
+      ]
+    },
+    {
+      "h": "Clipset Pro",
+      "blocks": [
+        { "p": "Clipset Pro è un abbonamento con rinnovo automatico venduto da Apple. Sblocca una libreria illimitata, allenamenti e pacchetti illimitati, le statistiche complete, le foto dei progressi e i video timelapse, oltre alla scadenza dei pacchetti e al vincolo al destinatario." },
+        { "ul": [
+          "I piani sono **mensile** e **annuale**. Il prezzo per il suo Paese è indicato nell'app e nell'App Store prima della conferma.",
+          "Il pagamento viene addebitato sul suo Account Apple al momento della conferma dell'acquisto.",
+          "L'abbonamento **si rinnova automaticamente** salvo disdetta almeno 24 ore prima del termine del periodo in corso. Il rinnovo viene addebitato nelle 24 ore precedenti il termine del periodo.",
+          "Al primo abbonamento può essere offerto un periodo di prova gratuito. Se disdice prima del termine della prova, non le viene addebitato nulla. L'eventuale parte non utilizzata di una prova decade con l'acquisto di un abbonamento.",
+          "Può gestire o disdire l'abbonamento in qualsiasi momento in **App Store → il suo profilo → Abbonamenti**. Eliminare l'app non annulla l'abbonamento.",
+          "I rimborsi sono gestiti da Apple secondo le regole dell'App Store; non possiamo emetterli noi."
+        ] },
+        { "p": "Se un abbonamento termina, la sua libreria resta sul suo dispositivo e nulla viene eliminato. Le funzioni che richiedono Pro tornano semplicemente a essere bloccate e i contenuti che eccedono i limiti della versione gratuita diventano di sola lettura anziché sparire." }
+      ]
+    },
+    {
+      "h": "La versione gratuita",
+      "blocks": [
+        { "p": "Clipset è utilizzabile gratuitamente, con dei limiti su quanto si può creare: al momento della stesura, 12 clip di esercizi, 2 allenamenti e 1 pacchetto condiviso. I limiti in vigore sono sempre indicati nell'app nel momento in cui li raggiunge." },
+        { "p": "Ricevere e importare un pacchetto da qualcun altro non è mai soggetto a limiti e non richiede mai un abbonamento. Un cliente deve sempre poter aprire il programma che il suo trainer gli ha inviato." },
+        { "p": "Potremo adeguare nel tempo i limiti della versione gratuita e i contenuti di Pro, per mantenere l'app sostenibile. Le modifiche valgono per il futuro e non eliminano mai ciò che ha già creato." }
+      ]
+    },
+    {
+      "h": "Uso consentito",
+      "blocks": [
+        { "p": "La preghiamo di non:" },
+        { "ul": [
+          "decodificare, decompilare o manomettere l'app, salvo nei casi espressamente consentiti dalla legge;",
+          "aggirare la firma dei pacchetti, la cifratura, il vincolo al destinatario o la scadenza, né aiutare altri a farlo;",
+          "utilizzare l'app per conservare o distribuire contenuti illeciti;",
+          "rivendere, concedere in sublicenza o ridistribuire l'app stessa;",
+          "spacciarsi per un altro autore quando condivide i pacchetti."
+        ] }
+      ]
+    },
+    {
+      "h": "I backup sono una sua responsabilità",
+      "blocks": [
+        { "p": "Poiché Clipset conserva tutto sul suo dispositivo e non si sincronizza con alcun nostro server, non abbiamo alcuna copia della sua libreria. Se perde il telefono, lo ripristina o elimina l'app, le sue clip e la sua cronologia se ne vanno con esso." },
+        { "p": "Esporti di tanto in tanto un backup da Impostazioni e lo conservi in un luogo sicuro. Chiunque disponga di quel file può ripristinare l'intera libreria, quindi lo tratti come un documento riservato." }
+      ]
+    },
+    {
+      "h": "Disponibilità e modifiche",
+      "blocks": [
+        { "p": "Potremo aggiornare l'app, aggiungere o rimuovere funzioni e modificare il funzionamento di alcune sue parti. Potremo anche interrompere la distribuzione di Clipset. Se l'app dovesse essere ritirata, continuerà a funzionare sul suo dispositivo finché la sua versione di iOS lo consente, e i suoi dati resteranno con lei." },
+        { "p": "L'app dipende da iOS. Le modifiche apportate da Apple al sistema operativo, all'App Store o a StoreKit possono influire sul comportamento di Clipset, e questo esula dal nostro controllo." }
+      ]
+    },
+    {
+      "h": "Assenza di garanzie",
+      "blocks": [
+        { "p": "Clipset è fornita \"così com'è\" e \"come disponibile\", senza garanzie di alcun tipo, esplicite o implicite, comprese quelle di idoneità a uno scopo specifico, di funzionamento ininterrotto o di assenza di errori. Alcune giurisdizioni non consentono tali esclusioni; in tal caso, la presente sezione si applica nei limiti consentiti dalla legge e i suoi diritti di consumatore previsti dalla legge restano impregiudicati." }
+      ]
+    },
+    {
+      "h": "Limitazione di responsabilità",
+      "blocks": [
+        { "p": "Nella massima misura consentita dalla legge, lo sviluppatore non è responsabile per danni indiretti, incidentali o consequenziali, per mancati guadagni, per lesioni derivanti dal modo in cui si allena, né per la perdita di dati causata da un guasto del dispositivo, da una cancellazione, da un errore del sistema operativo o dalla mancanza di un backup." },
+        { "p": "Nulla di quanto qui previsto limita la responsabilità per morte o lesioni personali causate da negligenza, per frode o per qualsiasi altra ipotesi che non possa essere limitata per legge. Laddove la responsabilità non possa essere esclusa, essa è limitata all'importo che ha pagato per l'app nei dodici mesi precedenti la richiesta." }
+      ]
+    },
+    {
+      "h": "Cessazione dell'accordo",
+      "blocks": [
+        { "p": "Può porre fine a questo accordo in qualsiasi momento eliminando l'app; disdica separatamente nell'App Store ogni abbonamento attivo. Noi potremo porvi fine in caso di grave violazione di queste condizioni da parte sua, ad esempio se utilizza Clipset per distribuire contenuti illeciti. La cessazione non incide sui dati già presenti sul suo dispositivo." }
+      ]
+    },
+    {
+      "h": "Legge applicabile",
+      "blocks": [
+        { "p": "Queste condizioni sono regolate dalle leggi dell'Ucraina, senza riguardo alle norme sui conflitti di legge. Se utilizza Clipset in qualità di consumatore in un altro Paese, conserva le tutele inderogabili previste dalla legge del luogo in cui risiede e può agire in giudizio davanti ai tribunali locali." }
+      ]
+    },
+    {
+      "h": "Modifiche a queste condizioni",
+      "blocks": [
+        { "p": "La versione corrente di queste condizioni è sempre pubblicata a questo indirizzo, con la data in alto. Se una modifica è sostanziale, verrà segnalata anche nell'app. Continuare a usare Clipset dopo una modifica significa accettarla." }
+      ]
+    },
+    {
+      "h": "Contatti",
+      "blocks": [
+        { "p": "Le domande, le segnalazioni di bug e le richieste sono lette da una persona, non da un helpdesk:" },
+        { "p": "**E-mail:** [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20terms]]" }
+      ]
+    }
+  ]
+}

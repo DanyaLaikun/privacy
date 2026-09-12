@@ -1,0 +1,142 @@
+{
+  "lang": "en",
+  "langName": "English",
+  "docTitle": "Terms of Use — Clipset",
+  "kicker": "Clipset",
+  "title": "Terms of Use",
+  "updated": "Effective 12 September 2026 · Last updated 12 September 2026",
+  "otherLabel": "Privacy Policy",
+  "footer": "Questions about these terms? Write to tesserly.dev@gmail.com",
+  "lead": "These terms are the agreement between you and the developer of Clipset. By downloading or using the app you accept them. They are written to be read, not to be survived, so they are kept as short and plain as the subject allows.",
+  "sections": [
+    {
+      "h": "What Clipset is",
+      "blocks": [
+        { "p": "Clipset is an iOS app for building a personal exercise library out of your own videos. You import a video, trim it into a clip, describe the exercise, arrange clips into workouts and programs, run a session with a rest timer, and track progress with photos and statistics." },
+        { "p": "You can also pack workouts into a single signed file and send it to someone else — a client, a training partner, a friend — who opens it in their own copy of Clipset." },
+        { "p": "Clipset is made by an independent developer. It is a tool, not a coaching service: nobody reviews your training, checks your form or writes your program for you." }
+      ]
+    },
+    {
+      "h": "Your licence",
+      "blocks": [
+        { "p": "You get a personal, non-exclusive, non-transferable licence to use Clipset on devices you own or control, for as long as you follow these terms. The app, its name, design, icons and code stay the property of the developer." },
+        { "p": "The app is distributed through the App Store, so Apple's **[[Licensed Application End User License Agreement|https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]]** applies in addition to these terms. Where the two disagree on a point Apple's agreement covers, Apple's agreement wins. Apple is not a party to these terms and is not responsible for the app, but Apple and its subsidiaries may enforce these terms against you as a third-party beneficiary." }
+      ]
+    },
+    {
+      "h": "Health and safety",
+      "blocks": [
+        { "note": "Clipset is not a medical device and gives no medical advice. Nothing in the app is a diagnosis, a treatment plan or professional guidance." },
+        { "p": "Strength training carries risk of injury. You decide what to train, how heavy to lift and how far to push. Before starting or changing a training program — especially if you are pregnant, recovering from injury or illness, or have a heart, joint or blood pressure condition — talk to a doctor or a qualified professional." },
+        { "p": "Exercise videos and workouts inside the app are content that you or another user created. They are not vetted by us for safety or correctness. Stop immediately if you feel pain, dizziness or anything unusual, and seek medical help." },
+        { "p": "You use Clipset and train at your own risk." }
+      ]
+    },
+    {
+      "h": "Your content",
+      "blocks": [
+        { "p": "Everything you put into Clipset stays yours. We claim no ownership and no licence over your videos, photos, notes or programs, and we never receive them — they live on your device." },
+        { "p": "You are responsible for what you import. Only add videos you filmed or have the right to use. Do not import material that infringes someone else's copyright, was taken without consent, or is unlawful where you live." },
+        { "p": "If you film another person, it is on you to have their permission — especially before sharing a pack that contains them." }
+      ]
+    },
+    {
+      "h": "Sharing packs with others",
+      "blocks": [
+        { "p": "A pack you share carries your clips, your workouts, your author name and your public Clipset ID. Sending it is your decision and your responsibility: you pick the recipient and the channel." },
+        { "p": "A pack can be given an expiry date and locked to a single recipient. These are sensible safeguards, not copy protection. Once someone has the media on their device they can record, copy or re-share it by other means. Do not distribute anything through Clipset that you could not afford to have copied." },
+        { "p": "If you sell training programs, the sale is between you and your client. We are not a party to it, take no commission, process no payment and provide no guarantee about it. You are responsible for your own invoicing, taxes, refunds and consumer obligations." },
+        { "p": "Do not use packs to distribute unlawful, hateful or harmful material, or anyone else's paid content without their permission." }
+      ]
+    },
+    {
+      "h": "Clipset Pro",
+      "blocks": [
+        { "p": "Clipset Pro is an auto-renewable subscription sold by Apple. It unlocks an unlimited library, unlimited workouts and packs, full statistics, progress photos and timelapse videos, and pack expiry and recipient locks." },
+        { "ul": [
+          "Plans are **monthly** and **yearly**. The price for your country is shown in the app and in the App Store before you confirm.",
+          "Payment is charged to your Apple Account when you confirm the purchase.",
+          "The subscription **renews automatically** unless you cancel at least 24 hours before the current period ends. The renewal is charged within the 24 hours before the period ends.",
+          "A free trial may be offered on the first subscription. If you cancel before the trial ends, you are not charged. Any unused part of a trial is forfeited when you buy a subscription.",
+          "Manage or cancel at any time in **App Store → your profile → Subscriptions**. Deleting the app does not cancel a subscription.",
+          "Refunds are handled by Apple under App Store rules; we cannot issue them ourselves."
+        ] },
+        { "p": "If a subscription ends, your library stays on your device and nothing is deleted. Features that need Pro simply lock again, and content over the free limits becomes read-only rather than disappearing." }
+      ]
+    },
+    {
+      "h": "The free version",
+      "blocks": [
+        { "p": "Clipset is usable for free, with limits on how much you can create: at the time of writing, 12 exercise clips, 2 workouts and 1 shared pack. The current limits are always shown in the app when you reach them." },
+        { "p": "Receiving and importing a pack from someone else is never limited, and never requires a subscription. A client should always be able to open the program their trainer sent." },
+        { "p": "We may adjust free limits and the contents of Pro over time to keep the app sustainable. Changes apply going forward and never delete what you have already created." }
+      ]
+    },
+    {
+      "h": "Acceptable use",
+      "blocks": [
+        { "p": "Please do not:" },
+        { "ul": [
+          "reverse-engineer, decompile or tamper with the app, except where the law expressly permits it;",
+          "work around the pack signature, encryption, recipient lock or expiry, or help anyone else do so;",
+          "use the app to store or distribute unlawful content;",
+          "resell, sublicense or redistribute the app itself;",
+          "impersonate another author when sharing packs."
+        ] }
+      ]
+    },
+    {
+      "h": "Backups are your job",
+      "blocks": [
+        { "p": "Because Clipset keeps everything on your device and syncs to no server of ours, we have no copy of your library. If you lose your phone, reset it or delete the app, your clips and history go with it." },
+        { "p": "Export a backup from Settings from time to time and keep it somewhere safe. Anyone who has that file can restore your whole library, so treat it like a private document." }
+      ]
+    },
+    {
+      "h": "Availability and changes",
+      "blocks": [
+        { "p": "We may update the app, add or remove features, and change how parts of it work. We may also stop distributing Clipset. If the app is ever discontinued, it keeps working on your device as long as your iOS version supports it, and your data stays with you." },
+        { "p": "The app depends on iOS. Apple's changes to the operating system, to the App Store or to StoreKit may affect how Clipset behaves, and that is outside our control." }
+      ]
+    },
+    {
+      "h": "No warranty",
+      "blocks": [
+        { "p": "Clipset is provided \"as is\" and \"as available\", without warranties of any kind, whether express or implied, including fitness for a particular purpose, uninterrupted operation or freedom from errors. Some jurisdictions do not allow such exclusions; where that is the case, this section applies to the extent permitted by law and your statutory consumer rights are unaffected." }
+      ]
+    },
+    {
+      "h": "Limitation of liability",
+      "blocks": [
+        { "p": "To the fullest extent allowed by law, the developer is not liable for indirect, incidental or consequential damages, for lost profits, for injury arising from how you train, or for loss of data caused by device failure, deletion, an operating system fault or a missing backup." },
+        { "p": "Nothing here limits liability for death or personal injury caused by negligence, for fraud, or for anything else that cannot be limited by law. Where liability cannot be excluded, it is limited to the amount you paid for the app in the twelve months before the claim." }
+      ]
+    },
+    {
+      "h": "Ending the agreement",
+      "blocks": [
+        { "p": "You can end this agreement at any time by deleting the app; cancel any active subscription separately in the App Store. We may end it if you seriously breach these terms, for example by using Clipset to distribute unlawful content. Ending it does not touch the data already on your device." }
+      ]
+    },
+    {
+      "h": "Governing law",
+      "blocks": [
+        { "p": "These terms are governed by the laws of Ukraine, without regard to conflict-of-law rules. If you use Clipset as a consumer in another country, you keep the mandatory protections of the law where you live, and you may bring proceedings in your local courts." }
+      ]
+    },
+    {
+      "h": "Changes to these terms",
+      "blocks": [
+        { "p": "The current version of these terms is always published at this address, with the date at the top. If a change is material, it will also be pointed out in the app. Continuing to use Clipset after a change means you accept it." }
+      ]
+    },
+    {
+      "h": "Contact",
+      "blocks": [
+        { "p": "Questions, bug reports and requests are read by a person, not a helpdesk:" },
+        { "p": "**Email:** [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20terms]]" }
+      ]
+    }
+  ]
+}

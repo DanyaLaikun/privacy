@@ -1,0 +1,141 @@
+{
+  "lang": "pt-BR",
+  "langName": "Português (Brasil)",
+  "docTitle": "Política de Privacidade — Clipset",
+  "kicker": "Clipset",
+  "title": "Política de Privacidade",
+  "updated": "Em vigor desde 12 de setembro de 2026 · Última atualização: 12 de setembro de 2026",
+  "otherLabel": "Termos de Uso",
+  "footer": "Dúvidas sobre esta política? Escreva para tesserly.dev@gmail.com",
+  "lead": "O Clipset não tem contas, nem servidores, nem análise de uso. Seus vídeos, treinos e fotos de progresso ficam guardados no seu iPhone e em nenhum outro lugar. Não conseguimos vê-los e nunca os recebemos.",
+  "sections": [
+    {
+      "h": "A versão curta",
+      "blocks": [
+        { "p": "O Clipset é um app de treino que fica só com você. Você importa seus próprios vídeos, recorta cada um em um exercício, monta programas, executa sessões e tira fotos de progresso. Tudo isso é gravado na pasta privada do app no seu dispositivo." },
+        { "p": "Não há cadastro, nenhum perfil do nosso lado e nenhum banco de dados com o seu nome. Não mantemos um servidor que armazene o seu conteúdo, então simplesmente não existe nada para olharmos, perdermos ou entregarmos." },
+        { "p": "As únicas coisas que saem do seu iPhone são os arquivos que **você** decide enviar: um pacote de treinos que você compartilha com um aluno, um backup que você exporta ou um vídeo em timelapse que você salva em Fotos." }
+      ]
+    },
+    {
+      "h": "O que o Clipset guarda no seu iPhone",
+      "blocks": [
+        { "p": "Tudo o que está abaixo permanece na área de armazenamento do próprio app, protegida pelo iOS:" },
+        { "ul": [
+          "**Clipes de exercícios** — os arquivos de vídeo que você importa e recorta, além das capas.",
+          "**Detalhes dos exercícios** — nome, grupo muscular, equipamento, observações, repetições, carga e descanso.",
+          "**Programas e treinos** — seu plano semanal e a ordem dos exercícios dentro dele.",
+          "**Histórico de sessões** — quais treinos você concluiu, quando, e as séries que você registrou.",
+          "**Fotos de progresso** — as fotos diárias que você tira no app, com a data e o peso corporal opcional.",
+          "**Ajustes** — unidades, tempo de descanso, som, preferências de reprodução e seu nome de autor.",
+          "**Sua chave do Clipset** — uma chave de assinatura guardada no Keychain do iOS, armazenada de modo que nunca saia deste dispositivo."
+        ] },
+        { "p": "Excluir o app remove do seu iPhone todos os itens desta lista." }
+      ]
+    },
+    {
+      "h": "O que coletamos",
+      "blocks": [
+        { "p": "Nada. O Clipset não coleta dados pessoais, dados de uso nem identificadores. Não há sistema de contas, newsletter, formulário de contato dentro do app nem relatório de falhas que envie informações a terceiros." },
+        { "note": "O Clipset é publicado com um manifesto de privacidade da App Store que declara zero tipos de dados coletados e zero domínios de rastreamento. Você pode conferir isso na página do app na App Store, em Privacidade do App." }
+      ]
+    },
+    {
+      "h": "Quando algo sai do seu iPhone",
+      "blocks": [
+        { "p": "Somente a seu pedido direto e apenas para um destino escolhido por você:" },
+        { "ul": [
+          "**Pacotes de treinos.** Quando você compartilha um pacote, o Clipset grava um único arquivo `.clipset` e o entrega à folha de compartilhamento do iOS. Você escolhe para onde ele vai — Telegram, AirDrop, Arquivos, e-mail, qualquer coisa instalada no seu dispositivo. O arquivo vai direto para esse destino; ele nunca passa por nós. Um pacote contém os clipes e treinos que você selecionou, seu nome de autor, seu Clipset ID público e, se você as definir, uma data de validade e uma trava de destinatário. A mídia é criptografada e o pacote é assinado com a sua chave, para que quem recebe possa confirmar que ele veio mesmo de você.",
+          "**Backups.** O backup que você exporta em Ajustes é um arquivo comum, que você salva onde quiser. Ele contém a sua biblioteca, os seus treinos e o seu histórico por completo.",
+          "**Vídeos de progresso.** Um timelapse que você exporta é salvo na sua própria fototeca quando você pede."
+        ] },
+        { "note": "Depois que um pacote ou um backup sai do seu dispositivo, ele fica nas mãos do serviço ou da pessoa para quem você enviou. A política de privacidade deles se aplica a essa transferência, não a nossa. Qualquer pessoa com o seu arquivo de backup pode restaurar toda a sua biblioteca, então guarde-o em um lugar seguro." }
+      ]
+    },
+    {
+      "h": "Conexões de rede",
+      "blocks": [
+        { "p": "O Clipset faz apenas um tipo de requisição de rede por conta própria. Quando o app inicia, ele envia uma requisição vazia para apple.com e lê apenas a data da resposta. É assim que os pacotes com data de validade continuam honestos: sem isso, atrasar o relógio do dispositivo reviveria um pacote expirado." },
+        { "p": "Essa requisição não carrega conteúdo, identificador nem qualquer informação sobre você. Como em qualquer requisição web, o servidor da Apple vê o endereço IP que se conecta; o app não envia mais nada e não guarda nada da resposta além da data." },
+        { "p": "Fora isso, o app se comunica apenas com a App Store da Apple para verificar a sua assinatura. Não há outros servidores, nenhuma API nossa e nenhum SDK de terceiros enviando dados para fora." }
+      ]
+    },
+    {
+      "h": "Permissões que o Clipset pede",
+      "blocks": [
+        { "ul": [
+          "**Câmera** — apenas para tirar a sua foto de progresso diária. A foto é gravada direto na pasta do app. O Clipset não grava vídeo com a câmera e não usa o microfone.",
+          "**Adicionar a Fotos** — apenas quando você exporta um vídeo de progresso e pede para salvá-lo. É um acesso somente de adição: o app pode colocar um vídeo na sua fototeca, mas não pode lê-la nem navegar por ela.",
+          "**Seletor de fotos** — quando você importa um vídeo de treino, o iOS mostra o próprio seletor e repassa apenas o item que você selecionou. O Clipset nunca tem acesso ao resto da sua fototeca."
+        ] },
+        { "p": "O Clipset não pede localização, contatos, calendário, dados de saúde, microfone nem notificações, e não tem motivo para isso." }
+      ]
+    },
+    {
+      "h": "Assinaturas e pagamentos",
+      "blocks": [
+        { "p": "O Clipset Pro é uma assinatura com renovação automática vendida pela Apple na App Store. Toda a compra acontece dentro do sistema da Apple." },
+        { "p": "Nunca vemos o seu cartão, o seu endereço de cobrança nem o seu Apple ID. O app recebe do StoreKit apenas uma resposta de sim ou não sobre haver uma assinatura ativa no momento, e essa resposta fica no seu dispositivo." }
+      ]
+    },
+    {
+      "h": "Sem rastreamento, sem análise de uso, sem anúncios",
+      "blocks": [
+        { "ul": [
+          "Nenhum framework de análise de uso — nada de Firebase, Google Analytics, Mixpanel, Amplitude ou similar.",
+          "Nenhuma publicidade, nenhuma rede de anúncios, nenhum identificador de anúncios.",
+          "Nenhuma identificação por impressão digital do dispositivo e nenhum rastreamento entre apps ou entre sites.",
+          "Nenhum corretor de dados, nenhuma criação de perfil, nenhuma venda ou compartilhamento de dados — não há dados para vender.",
+          "Nenhum SDK de terceiros de análise de uso ou de atribuição, de qualquer tipo."
+        ] }
+      ]
+    },
+    {
+      "h": "Como apagar os seus dados",
+      "blocks": [
+        { "p": "Você está sempre no controle, porque tudo é local:" },
+        { "ul": [
+          "**Limpar histórico**, em Ajustes, remove o seu histórico de sessões e mantém os clipes e os treinos.",
+          "**Apagar fotos de progresso**, em Ajustes, remove todas as fotos de progresso e os arquivos delas.",
+          "Excluir um clipe, um treino ou uma única foto remove o item e a mídia dele imediatamente.",
+          "**Excluir o app** apaga do seu iPhone toda a biblioteca, todas as fotos e todos os ajustes."
+        ] },
+        { "p": "Como não guardamos nada, não há pedido de exclusão para nos enviar e nenhuma cópia dos seus dados do nosso lado para apagar." }
+      ]
+    },
+    {
+      "h": "Pacotes que você recebe de outras pessoas",
+      "blocks": [
+        { "p": "Quando alguém envia um pacote `.clipset` para você, o Clipset verifica a assinatura localmente e mostra quem o criou e o que há dentro antes que qualquer coisa seja adicionada à sua biblioteca. Importar um pacote não envia nada de volta para quem o criou, e o autor não fica sabendo nada sobre você pelo app." },
+        { "p": "O seu Clipset ID é uma impressão digital pública e curta da sua chave de assinatura. Ele não contém nenhuma informação pessoal. Você só o compartilha quando quiser — por exemplo, para que um treinador possa travar um pacote para você." }
+      ]
+    },
+    {
+      "h": "Crianças",
+      "blocks": [
+        { "p": "O Clipset não é direcionado a crianças menores de 13 anos e não coleta intencionalmente informações pessoais de ninguém. Como o app não coleta absolutamente nada, os dados de nenhuma criança chegam até nós." }
+      ]
+    },
+    {
+      "h": "Os seus direitos",
+      "blocks": [
+        { "p": "Se você mora no Espaço Econômico Europeu, no Reino Unido, na Suíça, na Ucrânia, na Califórnia ou em outra região com leis de proteção de dados — como a LGPD, no Brasil —, você tem o direito de acessar, corrigir, exportar e excluir os seus dados pessoais." },
+        { "p": "No Clipset, esses direitos são atendidos por concepção. Não somos controladores de nenhum dado pessoal a seu respeito, porque não recebemos nem armazenamos nenhum. Os seus dados ficam no seu dispositivo, onde você pode lê-los, alterá-los, exportá-los como backup ou apagá-los a qualquer momento, sem precisar pedir nada a ninguém." },
+        { "p": "Se ainda assim você quiser tirar uma dúvida ou fazer uma solicitação, escreva para nós e responderemos." }
+      ]
+    },
+    {
+      "h": "Alterações nesta política",
+      "blocks": [
+        { "p": "Se o app um dia mudar o que faz com os dados, esta página é atualizada primeiro e a data no topo muda junto. Mudanças relevantes também serão indicadas no app. Continuar usando o Clipset depois de uma atualização significa que você aceita a versão atual." }
+      ]
+    },
+    {
+      "h": "Contato",
+      "blocks": [
+        { "p": "O Clipset é feito por um desenvolvedor independente. Dúvidas sobre privacidade, sobre o app ou sobre qualquer outra coisa são bem-vindas:" },
+        { "p": "**E-mail:** [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]]" }
+      ]
+    }
+  ]
+}

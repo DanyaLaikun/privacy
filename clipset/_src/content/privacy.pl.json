@@ -1,0 +1,141 @@
+{
+  "lang": "pl",
+  "langName": "Polski",
+  "docTitle": "Polityka prywatności — Clipset",
+  "kicker": "Clipset",
+  "title": "Polityka prywatności",
+  "updated": "Obowiązuje od 12 września 2026 · Ostatnia aktualizacja: 12 września 2026",
+  "otherLabel": "Warunki korzystania",
+  "footer": "Pytania dotyczące tej polityki? Prosimy pisać na adres tesserly.dev@gmail.com",
+  "lead": "Clipset nie ma kont, serwerów ani analityki. Filmy, treningi i zdjęcia postępów Użytkownika są przechowywane na jego iPhonie i nigdzie indziej. Nie mamy do nich wglądu i nigdy ich nie otrzymujemy.",
+  "sections": [
+    {
+      "h": "W skrócie",
+      "blocks": [
+        { "p": "Clipset to aplikacja treningowa, która pozostaje prywatną sprawą Użytkownika. Użytkownik importuje własne filmy, przycina je na ćwiczenia, buduje programy, prowadzi sesje i robi zdjęcia postępów. Wszystko to jest zapisywane w prywatnym folderze aplikacji na urządzeniu." },
+        { "p": "Nie ma rejestracji, nie ma profilu po naszej stronie ani bazy danych z imieniem i nazwiskiem Użytkownika. Nie prowadzimy zaplecza serwerowego, które przechowywałoby jego treści, więc po prostu nie ma niczego, w co moglibyśmy zajrzeć, co moglibyśmy zgubić albo komuś przekazać." },
+        { "p": "Jedyne, co kiedykolwiek opuszcza iPhone'a, to pliki, które **Użytkownik** sam zdecyduje się wysłać: pakiet treningowy udostępniony klientowi, wyeksportowana kopia zapasowa albo film poklatkowy zapisany w Zdjęciach." }
+      ]
+    },
+    {
+      "h": "Co Clipset przechowuje na iPhonie",
+      "blocks": [
+        { "p": "Wszystkie poniższe dane pozostają we własnym obszarze pamięci aplikacji, chronionym przez iOS:" },
+        { "ul": [
+          "**Klipy z ćwiczeniami** — importowane i przycinane pliki wideo wraz z ich okładkami.",
+          "**Szczegóły ćwiczenia** — nazwa, partia mięśniowa, sprzęt, notatki, powtórzenia, ciężar i odpoczynek.",
+          "**Programy i treningi** — plan tygodniowy i kolejność ćwiczeń w jego ramach.",
+          "**Historia sesji** — które treningi zostały ukończone, kiedy oraz zapisane serie.",
+          "**Zdjęcia postępów** — codzienne zdjęcia robione w aplikacji, wraz z datą i opcjonalną masą ciała.",
+          "**Ustawienia** — jednostki, czas odpoczynku, dźwięk, preferencje odtwarzania i nazwa autora.",
+          "**Klucz Clipset** — klucz podpisujący przechowywany w Keychain systemu iOS, zapisany tak, by nigdy nie opuścił tego urządzenia."
+        ] },
+        { "p": "Usunięcie aplikacji kasuje z iPhone'a każdą pozycję z tej listy." }
+      ]
+    },
+    {
+      "h": "Co zbieramy",
+      "blocks": [
+        { "p": "Nic. Clipset nie zbiera żadnych danych osobowych, danych o użytkowaniu ani identyfikatorów. Nie ma systemu kont, newslettera, formularza kontaktowego w aplikacji ani narzędzia do zgłaszania awarii, które wysyłałoby raporty do podmiotu trzeciego." },
+        { "note": "Clipset jest dostarczany z manifestem prywatności App Store, który deklaruje zero zbieranych typów danych i zero domen śledzących. Można to sprawdzić na karcie aplikacji w App Store w sekcji Prywatność aplikacji." }
+      ]
+    },
+    {
+      "h": "Kiedy coś opuszcza iPhone'a",
+      "blocks": [
+        { "p": "Wyłącznie na bezpośrednie żądanie Użytkownika i tylko do wybranego przez niego miejsca docelowego:" },
+        { "ul": [
+          "**Pakiety treningowe.** Przy udostępnianiu pakietu Clipset zapisuje pojedynczy plik `.clipset` i przekazuje go arkuszowi udostępniania iOS. Użytkownik wybiera, dokąd plik trafi — Telegram, AirDrop, Pliki, e-mail, cokolwiek jest zainstalowane na urządzeniu. Plik wędruje prosto do tego miejsca; nigdy nie przechodzi przez nas. Pakiet zawiera wybrane klipy i treningi, nazwę autora, publiczny Clipset ID oraz — jeśli zostały ustawione — datę wygaśnięcia i blokadę na odbiorcę. Jego materiały są zaszyfrowane, a pakiet jest podpisany kluczem Użytkownika, dzięki czemu odbiorca może potwierdzić, że naprawdę pochodzi od niego.",
+          "**Kopie zapasowe.** Kopia zapasowa eksportowana z Ustawień to zwykły plik, który można zapisać w dowolnym miejscu. Zawiera w całości bibliotekę, treningi i historię.",
+          "**Filmy z postępami.** Wyeksportowany film poklatkowy jest zapisywany we własnej bibliotece Zdjęć Użytkownika, gdy ten o to poprosi."
+        ] },
+        { "note": "Gdy pakiet lub kopia zapasowa opuści urządzenie, znajduje się w rękach serwisu lub osoby, do której został wysłany. Do takiego przekazania stosuje się ich polityka prywatności, a nie nasza. Każdy, kto ma plik kopii zapasowej, może odtworzyć całą bibliotekę, więc warto trzymać go w bezpiecznym miejscu." }
+      ]
+    },
+    {
+      "h": "Połączenia sieciowe",
+      "blocks": [
+        { "p": "Clipset wykonuje jeden własny rodzaj zapytania sieciowego. Przy uruchomieniu aplikacja wysyła puste zapytanie do apple.com i odczytuje z odpowiedzi wyłącznie datę. Dzięki temu pakiety z datą wygaśnięcia pozostają uczciwe: bez tego cofnięcie zegara urządzenia przywróciłoby do życia wygasły pakiet." },
+        { "p": "To zapytanie nie niesie żadnej treści, żadnego identyfikatora ani niczego na temat Użytkownika. Jak przy każdym zapytaniu internetowym, serwer Apple widzi łączący się adres IP; aplikacja nie wysyła nic więcej i nie zapisuje z odpowiedzi nic poza datą." },
+        { "p": "Poza tym aplikacja komunikuje się wyłącznie z App Store firmy Apple, aby sprawdzić subskrypcję. Nie ma żadnych innych serwerów, żadnych naszych API ani żadnych zewnętrznych SDK odsyłających dane na zewnątrz." }
+      ]
+    },
+    {
+      "h": "Uprawnienia, o które prosi Clipset",
+      "blocks": [
+        { "ul": [
+          "**Aparat** — wyłącznie po to, by zrobić codzienne zdjęcie postępów. Zdjęcie trafia prosto do folderu aplikacji. Clipset nie nagrywa aparatem wideo i nie korzysta z mikrofonu.",
+          "**Dodawanie do Zdjęć** — tylko przy eksporcie filmu z postępami i prośbie o jego zapisanie. Jest to dostęp wyłącznie do dodawania: aplikacja może umieścić film w bibliotece, ale nie może jej odczytywać ani przeglądać.",
+          "**Wybieranie zdjęć** — przy imporcie filmu z treningiem iOS pokazuje własny moduł wyboru i przekazuje dalej wyłącznie zaznaczony element. Clipset nigdy nie uzyskuje dostępu do reszty biblioteki."
+        ] },
+        { "p": "Clipset nie prosi o dostęp do lokalizacji, kontaktów, kalendarza, danych zdrowotnych, mikrofonu ani powiadomień i nie ma ku temu żadnego powodu." }
+      ]
+    },
+    {
+      "h": "Subskrypcje i płatności",
+      "blocks": [
+        { "p": "Clipset Pro to subskrypcja odnawiana automatycznie, sprzedawana przez Apple za pośrednictwem App Store. Cały zakup odbywa się w systemie Apple." },
+        { "p": "Nigdy nie widzimy karty płatniczej, adresu rozliczeniowego ani Apple ID Użytkownika. Aplikacja otrzymuje od StoreKit wyłącznie odpowiedź „tak” lub „nie” na pytanie, czy subskrypcja jest obecnie aktywna, a odpowiedź ta pozostaje na urządzeniu." }
+      ]
+    },
+    {
+      "h": "Brak śledzenia, brak analityki, brak reklam",
+      "blocks": [
+        { "ul": [
+          "Brak frameworków analitycznych — żadnego Firebase, Google Analytics, Mixpanel, Amplitude ani niczego podobnego.",
+          "Brak reklam, brak sieci reklamowych, brak identyfikatorów reklamowych.",
+          "Brak pobierania cyfrowego odcisku urządzenia i brak śledzenia między aplikacjami czy witrynami.",
+          "Brak brokerów danych, brak profilowania, brak sprzedaży ani udostępniania danych — nie ma czego sprzedawać.",
+          "Brak jakichkolwiek zewnętrznych SDK analitycznych czy atrybucyjnych."
+        ] }
+      ]
+    },
+    {
+      "h": "Usuwanie danych",
+      "blocks": [
+        { "p": "Użytkownik zawsze zachowuje kontrolę, ponieważ wszystko jest lokalne:" },
+        { "ul": [
+          "**Wyczyść historię** w Ustawieniach usuwa historię sesji, zachowując klipy i treningi.",
+          "**Usuń zdjęcia postępów** w Ustawieniach kasuje wszystkie zdjęcia postępów wraz z ich plikami.",
+          "Usunięcie klipu, treningu lub pojedynczego zdjęcia natychmiast kasuje je razem z materiałami.",
+          "**Usunięcie aplikacji** kasuje z iPhone'a całą bibliotekę, wszystkie zdjęcia i wszystkie ustawienia."
+        ] },
+        { "p": "Ponieważ niczego nie przechowujemy, nie ma do nas czego kierować w formie żądania usunięcia ani żadnej kopii danych po naszej stronie do skasowania." }
+      ]
+    },
+    {
+      "h": "Pakiety otrzymane od innych osób",
+      "blocks": [
+        { "p": "Gdy ktoś przyśle pakiet `.clipset`, Clipset weryfikuje jego podpis lokalnie i pokazuje, kto go stworzył i co zawiera, zanim cokolwiek trafi do biblioteki. Import pakietu nie odsyła niczego jego autorowi, a autor nie dowiaduje się z aplikacji niczego o Użytkowniku." },
+        { "p": "Clipset ID to krótki, publiczny odcisk klucza podpisującego. Nie zawiera żadnych informacji osobowych. Udostępnia się go wyłącznie wtedy, gdy Użytkownik sam tak zdecyduje — na przykład po to, by trener mógł zablokować pakiet na niego." }
+      ]
+    },
+    {
+      "h": "Dzieci",
+      "blocks": [
+        { "p": "Clipset nie jest skierowany do dzieci poniżej 13. roku życia i świadomie nie zbiera informacji osobowych od nikogo. Skoro aplikacja nie zbiera niczego, żadne dane dziecka również do nas nie trafiają." }
+      ]
+    },
+    {
+      "h": "Prawa Użytkownika",
+      "blocks": [
+        { "p": "Osobom mieszkającym w Europejskim Obszarze Gospodarczym, Wielkiej Brytanii, Szwajcarii, Ukrainie, Kalifornii lub w innym regionie objętym przepisami o ochronie danych przysługuje prawo dostępu do swoich danych osobowych oraz ich sprostowania, eksportu i usunięcia." },
+        { "p": "W Clipset prawa te są spełnione już na poziomie projektu aplikacji. Nie jesteśmy administratorem danych osobowych Użytkownika, ponieważ żadnych nie otrzymujemy ani nie przechowujemy. Dane znajdują się na jego urządzeniu, gdzie może je odczytać, zmienić, wyeksportować jako kopię zapasową lub usunąć w dowolnym momencie, bez pytania kogokolwiek o zgodę." },
+        { "p": "Jeśli mimo to Użytkownik chce zadać pytanie lub zgłosić żądanie, prosimy o kontakt — odpowiemy." }
+      ]
+    },
+    {
+      "h": "Zmiany w tej polityce",
+      "blocks": [
+        { "p": "Jeśli aplikacja kiedykolwiek zmieni sposób postępowania z danymi, ta strona zostanie zaktualizowana w pierwszej kolejności, a wraz z nią data u góry. O istotnych zmianach poinformujemy również w aplikacji. Dalsze korzystanie z Clipset po aktualizacji oznacza akceptację bieżącej wersji." }
+      ]
+    },
+    {
+      "h": "Kontakt",
+      "blocks": [
+        { "p": "Clipset tworzy niezależny deweloper. Pytania o prywatność, o aplikację lub o cokolwiek innego są mile widziane:" },
+        { "p": "**E-mail:** [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]]" }
+      ]
+    }
+  ]
+}

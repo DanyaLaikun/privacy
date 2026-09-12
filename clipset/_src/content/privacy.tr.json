@@ -1,0 +1,141 @@
+{
+  "lang": "tr",
+  "langName": "Türkçe",
+  "docTitle": "Gizlilik Politikası — Clipset",
+  "kicker": "Clipset",
+  "title": "Gizlilik Politikası",
+  "updated": "Yürürlük tarihi: 12 Eylül 2026 · Son güncelleme: 12 Eylül 2026",
+  "otherLabel": "Kullanım Koşulları",
+  "footer": "Bu politikayla ilgili sorularınız mı var? tesserly.dev@gmail.com adresine yazın",
+  "lead": "Clipset'te hesap yok, sunucu yok, analiz yok. Videolarınız, antrenmanlarınız ve gelişim fotoğraflarınız iPhone'unuzda saklanır, başka hiçbir yerde. Bunları göremeyiz ve hiçbir zaman bize ulaşmaz.",
+  "sections": [
+    {
+      "h": "Kısaca",
+      "blocks": [
+        { "p": "Clipset, tamamen kendinize sakladığınız bir antrenman uygulamasıdır. Kendi videolarınızı içe aktarır, egzersizlere göre kırpar, programlar kurar, seanslar yapar ve gelişim fotoğrafları çekersiniz. Bunların hepsi cihazınızdaki uygulamanın özel klasörüne yazılır." },
+        { "p": "Kayıt olmak yok, bizim tarafımızda profil yok, adınızın geçtiği bir veritabanı yok. İçeriğinizi saklayan bir sunucu işletmiyoruz; dolayısıyla bakabileceğimiz, kaybedebileceğimiz ya da başkasına verebileceğimiz bir şey de yok." },
+        { "p": "iPhone'unuzdan çıkan tek şey, göndermeyi **sizin** seçtiğiniz dosyalardır: bir danışanınızla paylaştığınız antrenman paketi, dışa aktardığınız bir yedek ya da Fotoğraflar'a kaydettiğiniz bir hızlandırılmış video." }
+      ]
+    },
+    {
+      "h": "Clipset'in iPhone'unuzda tuttukları",
+      "blocks": [
+        { "p": "Aşağıdakilerin tamamı, iOS tarafından korunan, uygulamanın kendi depolama alanında kalır:" },
+        { "ul": [
+          "**Egzersiz klipleri** — içe aktarıp kırptığınız video dosyaları ve kapak görselleri.",
+          "**Egzersiz ayrıntıları** — ad, kas grubu, ekipman, notlar, tekrar, ağırlık ve dinlenme.",
+          "**Programlar ve antrenmanlar** — haftalık planınız ve içindeki egzersizlerin sırası.",
+          "**Seans geçmişi** — hangi antrenmanları ne zaman tamamladığınız ve kaydettiğiniz setler.",
+          "**Gelişim fotoğrafları** — uygulamada çektiğiniz günlük fotoğraflar; tarihleri ve isteğe bağlı vücut ağırlığıyla birlikte.",
+          "**Ayarlar** — birimler, dinlenme süresi, ses, oynatma tercihleri ve yazar adınız.",
+          "**Clipset anahtarınız** — iOS Keychain'de tutulan, bu cihazdan hiç çıkmayacak şekilde saklanan imzalama anahtarı."
+        ] },
+        { "p": "Uygulamayı silmek, bu listedeki her şeyi iPhone'unuzdan kaldırır." }
+      ]
+    },
+    {
+      "h": "Neler topluyoruz",
+      "blocks": [
+        { "p": "Hiçbir şey. Clipset hiçbir kişisel veri, kullanım verisi veya tanımlayıcı toplamaz. Hesap sistemi yok, bülten yok, uygulama içinde iletişim formu yok ve raporları üçüncü bir tarafa gönderen bir çökme raporlayıcısı yok." },
+        { "note": "Clipset, sıfır veri türü ve sıfır izleme alan adı bildiren bir App Store gizlilik bildirimiyle yayımlanır. Bunu uygulamanın App Store sayfasındaki Uygulama Gizliliği bölümünden doğrulayabilirsiniz." }
+      ]
+    },
+    {
+      "h": "Bir şey iPhone'unuzdan ne zaman çıkar",
+      "blocks": [
+        { "p": "Yalnızca doğrudan sizin isteğinizle ve yalnızca sizin seçtiğiniz bir hedefe:" },
+        { "ul": [
+          "**Antrenman paketleri.** Bir paketi paylaştığınızda Clipset tek bir `.clipset` dosyası oluşturur ve bunu iOS paylaşım sayfasına verir. Nereye gideceğini siz seçersiniz — Telegram, AirDrop, Dosyalar, e-posta, cihazınızda yüklü olan her şey. Dosya doğrudan o hedefe gider; hiçbir zaman bizim üzerimizden geçmez. Bir paket; seçtiğiniz klipleri ve antrenmanları, yazar adınızı, herkese açık Clipset ID'nizi ve ayarladıysanız bir son kullanma tarihiyle bir alıcı kilidini içerir. İçindeki medya şifrelenir ve paket anahtarınızla imzalanır; böylece alıcı paketin gerçekten sizden geldiğini doğrulayabilir.",
+          "**Yedekler.** Ayarlar'dan dışa aktardığınız yedek, istediğiniz yere kaydedebileceğiniz sıradan bir dosyadır. Kitaplığınızı, antrenmanlarınızı ve geçmişinizi eksiksiz içerir.",
+          "**Gelişim videoları.** Dışa aktardığınız hızlandırılmış video, siz istediğinizde kendi Fotoğraflar kitaplığınıza kaydedilir."
+        ] },
+        { "note": "Bir paket ya da yedek cihazınızdan çıktıktan sonra, onu gönderdiğiniz hizmetin veya kişinin elindedir. Bu aktarıma bizim değil, onların gizlilik politikası uygulanır. Yedek dosyanıza sahip olan herkes kitaplığınızın tamamını geri yükleyebilir; bu yüzden onu güvenli bir yerde saklayın." }
+      ]
+    },
+    {
+      "h": "Ağ bağlantıları",
+      "blocks": [
+        { "p": "Clipset kendi başına yalnızca tek tür bir ağ isteği yapar. Uygulama açıldığında apple.com adresine boş bir istek gönderir ve yanıttan sadece tarihi okur. Son kullanma tarihi olan paketlerin dürüst kalması bu sayede sağlanır: bu olmasaydı cihazın saatini geri almak, süresi dolmuş bir paketi yeniden canlandırırdı." },
+        { "p": "Bu istek hiçbir içerik, hiçbir tanımlayıcı ve sizinle ilgili hiçbir şey taşımaz. Her web isteğinde olduğu gibi Apple'ın sunucusu bağlantı kuran IP adresini görür; uygulama başka hiçbir şey göndermez ve yanıttan tarih dışında hiçbir şey saklamaz." },
+        { "p": "Bunun dışında uygulama yalnızca aboneliğinizi kontrol etmek için Apple'ın App Store'uyla konuşur. Başka sunucu, bize ait bir API veya arka planda veri gönderen üçüncü taraf SDK'lar yoktur." }
+      ]
+    },
+    {
+      "h": "Clipset'in istediği izinler",
+      "blocks": [
+        { "ul": [
+          "**Kamera** — yalnızca günlük gelişim fotoğrafınızı çekmek için. Fotoğraf doğrudan uygulamanın klasörüne yazılır. Clipset kamerayla video kaydetmez ve mikrofonu kullanmaz.",
+          "**Fotoğraflar'a ekleme** — yalnızca bir gelişim videosunu dışa aktarıp kaydetmek istediğinizde. Bu, yalnızca ekleme iznidir: uygulama kitaplığınıza video koyabilir ama onu okuyamaz ya da içinde gezinemez.",
+          "**Fotoğraf seçici** — bir antrenman videosu içe aktardığınızda iOS kendi seçicisini gösterir ve yalnızca seçtiğiniz öğeyi uygulamaya aktarır. Clipset kitaplığınızın geri kalanına hiçbir zaman erişemez."
+        ] },
+        { "p": "Clipset konum, kişiler, takvim, sağlık verisi, mikrofon veya bildirim izni istemez; buna hiçbir ihtiyacı da yoktur." }
+      ]
+    },
+    {
+      "h": "Abonelikler ve ödemeler",
+      "blocks": [
+        { "p": "Clipset Pro, Apple tarafından App Store üzerinden satılan, otomatik yenilenen bir aboneliktir. Satın alma işleminin tamamı Apple'ın sistemi içinde gerçekleşir." },
+        { "p": "Kartınızı, fatura adresinizi veya Apple Kimliğinizi hiçbir zaman görmeyiz. Uygulama, StoreKit'ten yalnızca bir aboneliğin şu anda etkin olup olmadığına dair evet ya da hayır yanıtını alır ve bu yanıt cihazınızda kalır." }
+      ]
+    },
+    {
+      "h": "İzleme yok, analiz yok, reklam yok",
+      "blocks": [
+        { "ul": [
+          "Analiz çatısı yok — Firebase, Google Analytics, Mixpanel, Amplitude ya da benzeri hiçbir şey yok.",
+          "Reklam yok, reklam ağı yok, reklam tanımlayıcısı yok.",
+          "Parmak izi çıkarma yok; uygulamalar arası veya siteler arası izleme yok.",
+          "Veri simsarı yok, profilleme yok, veri satışı veya paylaşımı yok — satılacak veri zaten yok.",
+          "Hiçbir türde üçüncü taraf analiz veya atıf SDK'sı yok."
+        ] }
+      ]
+    },
+    {
+      "h": "Verilerinizi silme",
+      "blocks": [
+        { "p": "Her şey cihazda durduğu için kontrol her zaman sizde:" },
+        { "ul": [
+          "Ayarlar'daki **Geçmişi temizle**, seans geçmişinizi siler; klipleriniz ve antrenmanlarınız kalır.",
+          "Ayarlar'daki **Gelişim fotoğraflarını sil**, her gelişim fotoğrafını ve dosyalarını kaldırır.",
+          "Bir klibi, bir antrenmanı ya da tek bir fotoğrafı silmek, onu ve medyasını anında kaldırır.",
+          "**Uygulamayı silmek**, kitaplığın tamamını, bütün fotoğrafları ve bütün ayarları iPhone'unuzdan siler."
+        ] },
+        { "p": "Elimizde hiçbir şey tutmadığımız için bize gönderilecek bir silme talebi ve bizim tarafımızda silinecek bir veri kopyası yoktur." }
+      ]
+    },
+    {
+      "h": "Başkalarından aldığınız paketler",
+      "blocks": [
+        { "p": "Biri size bir `.clipset` paketi gönderdiğinde Clipset imzayı cihazınızda doğrular ve kitaplığınıza bir şey eklenmeden önce paketi kimin hazırladığını ve içinde ne olduğunu size gösterir. Bir paketi içe aktarmak, hazırlayan kişiye hiçbir şey geri göndermez ve o kişi uygulama üzerinden sizin hakkınızda hiçbir şey öğrenmez." },
+        { "p": "Clipset ID'niz, imzalama anahtarınızın kısa ve herkese açık bir parmak izidir. Hiçbir kişisel bilgi içermez. Onu yalnızca siz istediğinizde paylaşırsınız — örneğin bir antrenörün bir paketi size kilitleyebilmesi için." }
+      ]
+    },
+    {
+      "h": "Çocuklar",
+      "blocks": [
+        { "p": "Clipset 13 yaşın altındaki çocuklara yönelik değildir ve hiç kimseden bilerek kişisel bilgi toplamaz. Uygulama zaten hiçbir şey toplamadığı için hiçbir çocuğun verisi de bize ulaşmaz." }
+      ]
+    },
+    {
+      "h": "Haklarınız",
+      "blocks": [
+        { "p": "Avrupa Ekonomik Alanı'nda, Birleşik Krallık'ta, İsviçre'de, Ukrayna'da, Kaliforniya'da ya da veri koruma mevzuatı bulunan başka bir bölgede — örneğin Türkiye'de 6698 sayılı KVKK kapsamında — yaşıyorsanız, kişisel verilerinize erişme, onları düzeltme, dışa aktarma ve silme haklarına sahipsiniz." },
+        { "p": "Clipset'te bu haklar tasarımı gereği zaten karşılanır. Sizinle ilgili hiçbir kişisel veriyi ne aldığımız ne de sakladığımız için, bu verilerin veri sorumlusu değiliz. Verileriniz cihazınızda durur; orada istediğiniz anda, kimseden izin almadan onları okuyabilir, değiştirebilir, yedek olarak dışa aktarabilir veya silebilirsiniz." },
+        { "p": "Yine de bir soru sormak ya da talepte bulunmak isterseniz bize yazın, yanıtlayalım." }
+      ]
+    },
+    {
+      "h": "Bu politikadaki değişiklikler",
+      "blocks": [
+        { "p": "Uygulamanın verilerle yaptığı şey bir gün değişirse, önce bu sayfa güncellenir ve üstteki tarih de onunla birlikte değişir. Önemli değişiklikler ayrıca uygulama içinde de belirtilir. Bir güncellemeden sonra Clipset'i kullanmayı sürdürmeniz, güncel sürümü kabul ettiğiniz anlamına gelir." }
+      ]
+    },
+    {
+      "h": "İletişim",
+      "blocks": [
+        { "p": "Clipset bağımsız bir geliştirici tarafından yapılmıştır. Gizlilikle, uygulamayla ya da başka bir konuyla ilgili sorularınızı memnuniyetle bekliyoruz:" },
+        { "p": "**E-posta:** [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]]" }
+      ]
+    }
+  ]
+}
