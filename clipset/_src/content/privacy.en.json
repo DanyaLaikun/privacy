@@ -4,137 +4,305 @@
   "docTitle": "Privacy Policy — Clipset",
   "kicker": "Clipset",
   "title": "Privacy Policy",
-  "updated": "Effective 12 September 2026 · Last updated 12 September 2026",
+  "updated": "Version 1.0 · In force from 12 September 2026",
   "otherLabel": "Terms of Use",
-  "footer": "Questions about this policy? Write to tesserly.dev@gmail.com",
-  "lead": "Clipset has no accounts, no servers and no analytics. Your videos, workouts and progress photos are stored on your iPhone and nowhere else. We cannot see them, and we never receive them.",
+  "footer": "Clipset · Privacy Policy · Version 1.0",
+  "lead": "This Privacy Policy (the \"Policy\") sets out how personal data is handled in connection with the Clipset mobile application. It forms an integral part of the Terms of Use and is binding in the same manner. Its substance is brief for a single reason: the Application operates without accounts, without servers of the Developer and without analytics, and therefore no personal data is collected.",
   "sections": [
     {
-      "h": "The short version",
+      "h": "Definitions",
       "blocks": [
-        { "p": "Clipset is a workout app you keep to yourself. You import your own videos, trim them into exercises, build programs, run sessions and take progress photos. All of it is written to the app's private folder on your device." },
-        { "p": "There is no sign-up, no profile on our side and no database with your name in it. We do not run a backend that stores your content, so there is simply nothing for us to look at, lose or hand over." },
-        { "p": "The only things that ever leave your iPhone are the files **you** choose to send: a workout pack you share with a client, a backup you export, or a timelapse video you save to Photos." }
+        {
+          "p": "Terms defined in the Terms of Use bear the same meaning in this Policy. In addition:"
+        },
+        {
+          "ul": [
+            "**Personal data** means any information relating to an identified or identifiable natural person.",
+            "**Processing** means any operation performed on personal data, including collection, storage, use, disclosure and erasure.",
+            "**Controller** means the natural or legal person who determines the purposes and means of the processing of personal data.",
+            "**Device** means the iPhone or other Apple-branded device on which the User has installed the Application.",
+            "**Local storage** means the storage area allocated to the Application on the Device by the operating system and protected by it."
+          ]
+        }
       ]
     },
     {
-      "h": "What Clipset keeps on your iPhone",
+      "h": "Identity of the Developer and contact details",
       "blocks": [
-        { "p": "All of the following stays in the app's own storage area, protected by iOS:" },
-        { "ul": [
-          "**Exercise clips** — the video files you import and trim, plus their covers.",
-          "**Exercise details** — name, muscle group, equipment, notes, reps, weight and rest.",
-          "**Programs and workouts** — your weekly plan and the order of exercises inside it.",
-          "**Session history** — which workouts you finished, when, and the sets you logged.",
-          "**Progress photos** — the daily photos you take in the app, with the date and optional body weight.",
-          "**Settings** — units, rest time, sound, playback preferences and your author name.",
-          "**Your Clipset key** — a signing key held in the iOS Keychain, stored so it never leaves this device."
-        ] },
-        { "p": "Deleting the app removes every item on this list from your iPhone." }
+        {
+          "c": "The Application is developed and distributed by an independent developer (the \"Developer\"), who is responsible for the Application within the meaning of clause 3 of the Terms of Use."
+        },
+        {
+          "c": "All questions, notices and requests relating to this Policy shall be addressed to the Developer by electronic mail at [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]]. Enquiries are answered by the Developer personally."
+        },
+        {
+          "c": "The Developer has not appointed a data protection officer, and is not required to do so, because no systematic processing of personal data is carried out."
+        }
       ]
     },
     {
-      "h": "What we collect",
+      "h": "Scope",
       "blocks": [
-        { "p": "Nothing. Clipset collects no personal data, no usage data and no identifiers. There is no account system, no newsletter, no contact form inside the app and no crash reporter that sends reports to a third party." },
-        { "note": "Clipset ships with an App Store privacy manifest that declares zero collected data types and zero tracking domains. You can verify this on the app's App Store listing under App Privacy." }
+        {
+          "c": "This Policy applies to the Application and to any data arising from its use."
+        },
+        {
+          "c": "This Policy does not apply to the services through which the User chooses to transmit a Pack or a backup, nor to the App Store, nor to any other third-party product. Those services are governed by the privacy notices of their respective providers."
+        },
+        {
+          "c": "This Policy does not apply to the manner in which a Recipient handles content received from the User. Once a Pack has been transmitted, its further handling lies outside the Developer's control and outside the scope of this Policy."
+        }
       ]
     },
     {
-      "h": "When something leaves your iPhone",
+      "h": "Principle of local processing",
       "blocks": [
-        { "p": "Only at your direct request, and only to a destination you pick:" },
-        { "ul": [
-          "**Workout packs.** When you share a pack, Clipset writes a single `.clipset` file and hands it to the iOS share sheet. You choose where it goes — Telegram, AirDrop, Files, email, anything installed on your device. The file travels directly to that destination; it never passes through us. A pack contains the clips and workouts you selected, your author name, your public Clipset ID and, if you set them, an expiry date and a recipient lock. Its media is encrypted and the pack is signed with your key so the recipient can confirm it really came from you.",
-          "**Backups.** The backup you export from Settings is an ordinary file you save wherever you like. It contains your library, workouts and history in full.",
-          "**Progress videos.** A timelapse you export is saved to your own Photos library when you ask for it."
-        ] },
-        { "note": "Once a pack or a backup leaves your device, it is in the hands of the service or person you sent it to. Their privacy policy applies to the transfer, not ours. Anyone holding your backup file can restore your whole library, so keep it somewhere safe." }
+        {
+          "note": "The Developer collects no personal data, operates no server on which User Content is stored, and has no technical means of accessing the data held on the Device."
+        },
+        {
+          "c": "All data generated through the use of the Application is written to Local storage on the Device and remains there."
+        },
+        {
+          "c": "The Application requires no registration, no account, no electronic mail address and no other identifier of the User."
+        },
+        {
+          "c": "Accordingly, in respect of data held on the Device, the User alone determines the purposes and means of processing. The Developer does not act as a controller of that data, and no personal data of the User is transmitted to the Developer in the ordinary operation of the Application."
+        },
+        {
+          "c": "The Application is distributed with a privacy manifest declaring no collected data categories and no tracking domains. That declaration is reproduced on the App Store product page under App Privacy and may be verified there independently of this Policy."
+        }
       ]
     },
     {
-      "h": "Network connections",
+      "h": "Categories of data held on the Device",
       "blocks": [
-        { "p": "Clipset makes one kind of network request of its own. When the app starts, it sends an empty request to apple.com and reads only the date from the reply. This is how packs with an expiry date stay honest: without it, moving the device clock backwards would revive an expired pack." },
-        { "p": "That request carries no content, no identifier and nothing about you. As with any web request, Apple's server sees the connecting IP address; the app sends nothing else and stores nothing from the reply except the date." },
-        { "p": "Apart from this, the app talks only to Apple's App Store to check your subscription. There are no other servers, no APIs of ours and no third-party SDKs phoning home." }
+        {
+          "p": "The following categories are written to Local storage and are not transmitted to the Developer:"
+        },
+        {
+          "ul": [
+            "**Exercise clips** — the video files imported and trimmed by the User, together with their cover images.",
+            "**Exercise details** — designation, muscle group, equipment, notes, repetitions, load and rest interval.",
+            "**Programs and workouts** — the User's weekly plan and the sequence of exercises within it.",
+            "**Session history** — completed sessions, their dates and the sets recorded by the User.",
+            "**Progress photographs** — the photographs taken through the Application, with their dates and, where entered, body weight.",
+            "**Settings** — units of measurement, rest interval, sound, playback preferences and author name.",
+            "**Signing key** — the cryptographic key from which the Clipset ID is derived, held in the Keychain of the operating system and stored so as not to leave the Device."
+          ]
+        },
+        {
+          "c": "Progress photographs and exercise clips may constitute personal data, and progress photographs may additionally relate to health. They are held exclusively on the Device, and the Developer receives neither the files nor any information derived from them."
+        },
+        {
+          "c": "Deletion of the Application removes every category listed in this clause from the Device."
+        }
       ]
     },
     {
-      "h": "Permissions Clipset asks for",
+      "h": "Network connections established by the Application",
       "blocks": [
-        { "ul": [
-          "**Camera** — only to take your daily progress photo. The photo is written straight to the app's folder. Clipset does not record video with the camera and does not use the microphone.",
-          "**Add to Photos** — only when you export a progress video and ask to save it. This is add-only access: the app can put a video in your library, but it cannot read or browse it.",
-          "**Photo picker** — when you import a workout video, iOS shows its own picker and passes across only the item you selected. Clipset never gets access to the rest of your library."
-        ] },
-        { "p": "Clipset does not ask for location, contacts, calendar, health data, microphone or notifications, and it has no reason to." }
+        {
+          "c": "The Application establishes one connection of its own. Upon launch it issues a request without a body to apple.com and reads from the response the date and time only."
+        },
+        {
+          "c": "The purpose of that connection is to determine a reliable current time, so that a Pack subject to an expiry date cannot be revived by altering the clock of the Device. The legal basis, where such a basis is required, is the legitimate interest of the Developer and of the User transmitting the Pack in the integrity of that mechanism."
+        },
+        {
+          "c": "The request carries no content, no identifier and no information concerning the User. As with any request over the internet, the receiving server observes the internet protocol address from which the connection is made; the Application transmits nothing further and retains from the response nothing but the date."
+        },
+        {
+          "c": "Apart from that connection, the Application communicates only with the App Store for the purpose of ascertaining the status of a Subscription. The Application contacts no server operated by the Developer, uses no interface of the Developer and incorporates no third-party software development kit that transmits data."
+        }
       ]
     },
     {
-      "h": "Subscriptions and payments",
+      "h": "Data transmitted at the initiative of the User",
       "blocks": [
-        { "p": "Clipset Pro is an auto-renewable subscription sold by Apple through the App Store. The entire purchase happens inside Apple's system." },
-        { "p": "We never see your card, your billing address or your Apple ID. The app receives only a yes-or-no answer from StoreKit about whether a subscription is currently active, and that answer stays on your device." }
+        {
+          "c": "Data leaves the Device only upon an express instruction of the User and only to a destination designated by the User."
+        },
+        {
+          "c": "**Packs.** Upon sharing, the Application generates a single `.clipset` file and submits it to the sharing interface of the operating system. The User designates the destination. The file is transmitted directly to that destination and does not pass through any infrastructure of the Developer. A Pack contains the User Content selected by the User, the author name, the public Clipset ID and, where configured, an expiry date and a recipient lock. Its media are encrypted and the Pack is signed with the key held on the Device."
+        },
+        {
+          "c": "**Backups.** A backup exported by the User is an ordinary file, stored at a location of the User's choosing, containing the library, workouts and history in full. Any person in possession of that file is able to restore the library, and the User is responsible for keeping it securely."
+        },
+        {
+          "c": "**Progress videos.** A timelapse video is written to the User's own photo library only where the User requests that it be saved."
+        },
+        {
+          "note": "Once a Pack or a backup has left the Device it is subject to the privacy notice of the service or person to which it was sent, and no longer to this Policy."
+        }
       ]
     },
     {
-      "h": "No tracking, no analytics, no ads",
+      "h": "Permissions requested on the Device",
       "blocks": [
-        { "ul": [
-          "No analytics frameworks — no Firebase, Google Analytics, Mixpanel, Amplitude or anything similar.",
-          "No advertising, no ad networks, no ad identifiers.",
-          "No fingerprinting and no cross-app or cross-site tracking.",
-          "No data brokers, no profiling, no selling or sharing of data — there is no data to sell.",
-          "No third-party analytics or attribution SDKs of any kind."
-        ] }
+        {
+          "p": "The Application requests the following permissions, each for the purpose stated and for no other:"
+        },
+        {
+          "ul": [
+            "**Camera** — solely to take a progress photograph, which is written directly to Local storage. The Application does not record video by means of the camera and does not access the microphone.",
+            "**Addition to the photo library** — solely to save an exported progress video at the User's request. The permission is limited to addition: the Application may place a file in the library but may not read or browse it.",
+            "**Selection of media** — when a video is imported, the operating system presents its own selection interface and transfers only the item selected. The Application obtains no access to the remainder of the library."
+          ]
+        },
+        {
+          "c": "The Application does not request access to location, contacts, the calendar, health records, the microphone or notifications, and has no functionality requiring them."
+        },
+        {
+          "c": "Each permission may be withdrawn at any time in the settings of the operating system. Withdrawal disables the corresponding function and affects no data already stored."
+        }
       ]
     },
     {
-      "h": "Deleting your data",
+      "h": "Subscriptions and payment data",
       "blocks": [
-        { "p": "You are always in control, because everything is local:" },
-        { "ul": [
-          "**Clear history** in Settings removes your session history and keeps clips and workouts.",
-          "**Delete progress photos** in Settings removes every progress photo and its files.",
-          "Deleting a clip, a workout or a single photo removes it and its media immediately.",
-          "**Deleting the app** erases the whole library, all photos and all settings from your iPhone."
-        ] },
-        { "p": "Because we hold nothing, there is no deletion request to send us and no copy of your data on our side to erase." }
+        {
+          "c": "Clipset Pro is sold by Apple through the App Store. The purchase is effected entirely within the systems of Apple, which acts as the merchant of record."
+        },
+        {
+          "c": "The Developer receives no payment card details, no billing address and no Apple Account identifier. The Application obtains from StoreKit only an indication whether a Subscription is currently active, and that indication remains on the Device."
+        },
+        {
+          "c": "The processing of payment data is governed by the privacy notice of Apple."
+        }
       ]
     },
     {
-      "h": "Packs you receive from other people",
+      "h": "Absence of tracking, analytics and advertising",
       "blocks": [
-        { "p": "When someone sends you a `.clipset` pack, Clipset verifies its signature locally and shows you who made it and what is inside before anything is added to your library. Importing a pack does not send anything back to its author, and the author learns nothing about you from the app." },
-        { "p": "Your Clipset ID is a short public fingerprint of your signing key. It contains no personal information. You only share it when you choose to — for example so a trainer can lock a pack to you." }
+        {
+          "p": "The Application does not contain and does not employ:"
+        },
+        {
+          "ul": [
+            "analytics frameworks of any kind, whether proprietary or third-party;",
+            "advertising, advertising networks or advertising identifiers;",
+            "device fingerprinting or any technique of cross-application or cross-site tracking;",
+            "profiling, scoring or automated decision-making producing legal or similarly significant effects;",
+            "attribution, crash-reporting or marketing software development kits transmitting data to third parties."
+          ]
+        },
+        {
+          "c": "No personal data is sold, shared for cross-context behavioural advertising, or disclosed to data brokers. No such data is held."
+        }
+      ]
+    },
+    {
+      "h": "Recipients and international transfers",
+      "blocks": [
+        {
+          "c": "The Developer discloses no personal data to any recipient, because no personal data is collected."
+        },
+        {
+          "c": "No international transfer of personal data is carried out by the Developer. The connection described in clause 6 is addressed to a server operated by Apple and transmits no personal data beyond the internet protocol address inherent in any internet connection."
+        },
+        {
+          "c": "Where the User transmits a Pack or a backup to a Recipient in another country, that transfer is effected by the User and under the User's responsibility, and is governed by the terms of the service used."
+        }
+      ]
+    },
+    {
+      "h": "Retention and erasure",
+      "blocks": [
+        {
+          "c": "Data is retained on the Device for as long as the User retains it. The Developer applies no retention period, because it holds no data."
+        },
+        {
+          "p": "The User may erase data at any time by the following means:"
+        },
+        {
+          "ul": [
+            "**Clear history** removes the session history and retains clips and workouts;",
+            "**Delete progress photographs** removes every progress photograph together with its files;",
+            "deletion of an individual clip, workout or photograph removes it and its associated media immediately;",
+            "deletion of the Application erases the entire library, all photographs and all settings from the Device."
+          ]
+        },
+        {
+          "c": "Erasure is immediate and irreversible. Since no copy is held by the Developer, no erasure request need be addressed to the Developer and no such request can be executed on the Developer's side."
+        }
+      ]
+    },
+    {
+      "h": "Security",
+      "blocks": [
+        {
+          "c": "Data is held within the storage area allocated to the Application by the operating system, protected by the file protection mechanisms of that system and, where a passcode is set, by the encryption of the Device."
+        },
+        {
+          "c": "The signing key is held in the Keychain with an accessibility attribute restricting it to the Device, and is not synchronised to any other device or service."
+        },
+        {
+          "c": "Media within a Pack are encrypted, and a Pack is signed so that its author may be verified by the Recipient."
+        },
+        {
+          "c": "No system of security is absolute. The User is responsible for the security of the Device itself, including the use of a passcode, and for the safekeeping of exported backups."
+        }
+      ]
+    },
+    {
+      "h": "Rights of the data subject",
+      "blocks": [
+        {
+          "c": "Where the User resides in the European Economic Area, the United Kingdom, Switzerland, Ukraine, Brazil, the State of California or another territory conferring such rights, the User is entitled to access, rectification, erasure, restriction of processing, portability and objection in respect of personal data concerning the User."
+        },
+        {
+          "c": "Those rights are satisfied by the design of the Application. The Developer is not a controller of personal data concerning the User, as it neither receives nor retains such data. The data resides on the Device, where the User may inspect it, correct it, export it in the form of a backup and erase it at any time, without recourse to any third party."
+        },
+        {
+          "c": "No request addressed to the Developer can therefore be executed in respect of data which the Developer does not hold. A request may nevertheless be addressed to the Developer, who will respond and explain the position."
+        }
+      ]
+    },
+    {
+      "h": "Complaints",
+      "blocks": [
+        {
+          "c": "The User is entitled to lodge a complaint with the supervisory authority for data protection of the User's place of residence or place of work."
+        },
+        {
+          "c": "The User is invited, though not obliged, to raise the matter with the Developer first, so that it may be addressed directly."
+        }
       ]
     },
     {
       "h": "Children",
       "blocks": [
-        { "p": "Clipset is not directed at children under 13 and does not knowingly collect personal information from anyone. Since the app collects nothing at all, no child's data reaches us either." }
+        {
+          "c": "The Application is not directed at children under the age of 13 and is not intended for their use."
+        },
+        {
+          "c": "No personal data is knowingly collected from any person, and consequently none is collected from a child. Where a parent or guardian nevertheless believes that a matter requires attention, the Developer may be contacted at the address given in clause 2."
+        }
       ]
     },
     {
-      "h": "Your rights",
+      "h": "Amendment of this Policy",
       "blocks": [
-        { "p": "If you live in the European Economic Area, the United Kingdom, Switzerland, Ukraine, California or another region with data protection laws, you have rights to access, correct, export and delete your personal data." },
-        { "p": "In Clipset those rights are satisfied by design. We are not a controller of any personal data about you, because we neither receive nor store any. Your data sits on your device, where you can read it, change it, export it as a backup or delete it at any moment, without asking anyone." },
-        { "p": "If you still want to raise a question or make a request, write to us and we will answer." }
-      ]
-    },
-    {
-      "h": "Changes to this policy",
-      "blocks": [
-        { "p": "If the app ever changes what it does with data, this page is updated first and the date at the top changes with it. Material changes will also be pointed out in the app. Continuing to use Clipset after an update means you accept the current version." }
+        {
+          "c": "The Developer may amend this Policy, in particular where the functionality of the Application changes or where applicable law so requires."
+        },
+        {
+          "c": "The version in force is published at this address and bears the date of its entry into force. Material amendments are additionally notified within the Application."
+        },
+        {
+          "c": "Continued use of the Application after the entry into force of an amendment constitutes acknowledgement of the amended Policy."
+        },
+        {
+          "c": "This Policy is drawn up in English. Translations are provided for convenience only; in the event of divergence the English version prevails."
+        }
       ]
     },
     {
       "h": "Contact",
       "blocks": [
-        { "p": "Clipset is made by an independent developer. Questions about privacy, the app or anything else are welcome:" },
-        { "p": "**Email:** [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]]" }
+        {
+          "c": "Questions and requests under this Policy shall be addressed to [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]]. The **[[Terms of Use|./terms/]]** govern all other aspects of the relationship between the User and the Developer."
+        }
       ]
     }
   ]
