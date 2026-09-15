@@ -322,3 +322,4 @@ def build(doc, other_doc, out_path, home, other_href):
 if __name__ == "__main__":
     build("privacy", "terms", ROOT / "index.html", "./", "./terms/")
     build("terms", "privacy", ROOT / "terms" / "index.html", "../", "../")
+    build("support", "privacy", ROOT / "support" / "index.html", "../", "../")

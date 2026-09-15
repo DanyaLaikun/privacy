@@ -1,0 +1,38 @@
+{
+  "lang": "tr",
+  "langName": "Türkçe",
+  "docTitle": "Destek — Clipset",
+  "kicker": "Clipset",
+  "title": "Destek",
+  "updated": "Sürüm 1.0",
+  "otherLabel": "",
+  "footer": "Clipset · Destek",
+  "lead": "Clipset tek bir bağımsız geliştirici tarafından yapılır ve her mesaj kişisel olarak okunur. Soruların çoğu iki iş günü içinde yanıtlanır.",
+  "sections": [
+    {
+      "h": "İletişim",
+      "blocks": [
+        {
+          "c": "[[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20support]] adresine yazın. Bir hata söz konusuysa iPhone modelinizi ve iOS sürümünüzü belirtin, varsa ekran görüntüsü ekleyin."
+        }
+      ]
+    },
+    {
+      "h": "Sık sorulan sorular",
+      "blocks": [
+        {
+          "c": "**Danışanım paketimi açamıyor.** Clipset yüklü olmalı ve .clipset dosyasını Telegram, AirDrop veya Dosyalar'dan Clipset ile açmalı. Paketi bir alıcıya kilitlediyseniz, alıcının Clipset ID'si girdiğinizle aynı olmalıdır."
+        },
+        {
+          "c": "**Telefon değiştirdim, kliplerim gitti.** Clipset her şeyi cihazda saklar ve sunucusu yoktur. Ayarlar'dan dışa aktardığınız yedek dosyasından geri yükleyin. Yedek olmadan kitaplık kurtarılamaz."
+        },
+        {
+          "c": "**Abonelikler ve iadeler.** Satın almaları Apple yönetir. App Store → profiliniz → Abonelikler'den yönetin veya iptal edin; iade talebi reportaproblem.apple.com üzerinden yapılır."
+        },
+        {
+          "c": "**Gizlilik.** Hiçbir şey toplanmaz ve siz göndermedikçe hiçbir şey iPhone'unuzdan çıkmaz. Tam [[Gizlilik Politikası|../]] ve [[Kullanım Koşulları|../terms/]] burada yayımlanmıştır."
+        }
+      ]
+    }
+  ]
+}

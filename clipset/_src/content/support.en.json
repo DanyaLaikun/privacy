@@ -1,0 +1,38 @@
+{
+  "lang": "en",
+  "langName": "English",
+  "docTitle": "Support — Clipset",
+  "kicker": "Clipset",
+  "title": "Support",
+  "updated": "Version 1.0",
+  "otherLabel": "",
+  "footer": "Clipset · Support",
+  "lead": "Clipset is made by one independent developer, and every message is read personally. Most questions are answered within two working days.",
+  "sections": [
+    {
+      "h": "Contact",
+      "blocks": [
+        {
+          "c": "Write to [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20support]]. Include your iPhone model and iOS version if the question is about a bug, and a screenshot if you have one."
+        }
+      ]
+    },
+    {
+      "h": "Common questions",
+      "blocks": [
+        {
+          "c": "**A client cannot open my pack.** Make sure they have Clipset installed and open the .clipset file from Telegram, AirDrop or Files with Clipset. If you locked the pack to a recipient, their Clipset ID must match the one you entered."
+        },
+        {
+          "c": "**I changed phones and my clips are gone.** Clipset stores everything on the device and has no server. Restore from the backup file you exported in Settings. Without a backup the library cannot be recovered."
+        },
+        {
+          "c": "**Subscriptions and refunds.** Purchases are handled by Apple. Manage or cancel in App Store → your profile → Subscriptions; refunds are requested at reportaproblem.apple.com."
+        },
+        {
+          "c": "**Privacy.** Nothing is collected and nothing leaves your iPhone unless you send it. The full [[Privacy Policy|../]] and [[Terms of Use|../terms/]] are published here."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Support — Clipset</title>
+<meta name="description" content="Clipset is made by one independent developer, and every message is read personally. Most questions are answered within two working days.">
+<meta name="color-scheme" content="light dark">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Support — Clipset">
+<meta property="og:description" content="Clipset is made by one independent developer, and every message is read personally. Most questions are answered within two working days.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23181B19'/%3E%3Cpath d='M13 10l10 6-10 6z' fill='%236FD926'/%3E%3C/svg%3E">
+<style>
+:root {
+  --bg: #F4F5F5;
+  --card: #FFFFFF;
+  --ink: #181B19;
+  --ink-soft: #3E423F;
+  --muted: #7C837E;
+  --line: #E5E6E5;
+  --chip: #F4F5F5;
+  --accent: #479C14;
+  --shadow: 0 12px 32px rgba(24, 27, 25, .07);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0A0B0A;
+    --card: #181B19;
+    --ink: #F9FAFA;
+    --ink-soft: #E5E6E5;
+    --muted: #A0A6A2;
+    --line: #3E423F;
+    --chip: #252825;
+    --accent: #6FD926;
+    --shadow: none;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.62;
+  -webkit-font-smoothing: antialiased;
+}
+.bar {
+  position: sticky; top: 0; z-index: 10;
+  display: flex; align-items: center; gap: 10px;
+  padding: 12px 20px;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+}
+.mark {
+  font-weight: 700; letter-spacing: -.02em; font-size: 17px;
+  margin-right: auto; color: var(--ink); text-decoration: none;
+}
+.mark span { color: var(--accent); }
+.bar a.switch {
+  font-size: 14px; font-weight: 600; color: var(--ink-soft);
+  text-decoration: none; padding: 8px 14px;
+  border-radius: 999px; background: var(--chip); white-space: nowrap;
+}
+.bar a.switch:hover { color: var(--ink); }
+select {
+  font: inherit; font-size: 14px; font-weight: 600;
+  color: var(--ink-soft); background: var(--chip);
+  border: 0; border-radius: 999px; padding: 8px 12px;
+  appearance: none; -webkit-appearance: none; cursor: pointer;
+}
+main { max-width: 760px; margin: 0 auto; padding: 28px 20px 72px; }
+.card {
+  background: var(--card); border-radius: 28px;
+  box-shadow: var(--shadow); padding: 36px 32px 40px;
+}
+@media (max-width: 560px) {
+  .card { border-radius: 22px; padding: 26px 20px 30px; }
+  body { font-size: 16px; }
+  main { padding: 18px 14px 56px; }
+}
+.kicker {
+  display: inline-block; font-size: 12px; font-weight: 700;
+  letter-spacing: .08em; text-transform: uppercase; color: var(--muted);
+  background: var(--chip); border-radius: 999px; padding: 6px 12px; margin-bottom: 18px;
+}
+h1 { font-size: 34px; line-height: 1.15; letter-spacing: -.03em; margin: 0 0 10px; }
+@media (max-width: 560px) { h1 { font-size: 27px; } }
+.updated { color: var(--muted); font-size: 14px; margin: 0 0 24px; }
+.lead {
+  font-size: 17px; color: var(--ink-soft); margin: 0;
+  padding: 18px 20px; background: var(--chip); border-radius: 18px;
+}
+article { counter-reset: sec; }
+section { counter-increment: sec; counter-reset: clause; margin-top: 32px; }
+section > h2 {
+  font-size: 20px; letter-spacing: -.02em; margin: 0 0 12px;
+  padding-top: 26px; border-top: 1px solid var(--line);
+}
+section > h2::before { content: counter(sec) ". "; color: var(--muted); font-weight: 600; }
+p { margin: 0 0 14px; color: var(--ink-soft); }
+p.clause { padding-left: 3.2em; text-indent: -3.2em; margin-bottom: 12px; }
+p.clause::before {
+  counter-increment: clause;
+  content: counter(sec) "." counter(clause);
+  display: inline-block; width: 3.2em; text-indent: 0;
+  color: var(--muted); font-weight: 600; font-variant-numeric: tabular-nums;
+}
+@media (max-width: 560px) {
+  p.clause { padding-left: 2.9em; text-indent: -2.9em; }
+  p.clause::before { width: 2.9em; }
+}
+ul { margin: 0 0 16px; padding-left: 20px; color: var(--ink-soft); }
+li { margin-bottom: 8px; }
+li::marker { color: var(--muted); }
+b, strong { color: var(--ink); font-weight: 650; }
+code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: .92em; background: var(--chip); color: var(--ink);
+  padding: 1px 6px; border-radius: 6px;
+}
+a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+.note {
+  margin: 0 0 16px; padding: 16px 18px; border-radius: 16px;
+  background: var(--chip); font-size: 15px;
+}
+.foot {
+  margin-top: 38px; padding-top: 22px; border-top: 1px solid var(--line);
+  color: var(--muted); font-size: 14px;
+  display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: baseline;
+}
+.foot a { font-weight: 600; }
+[hidden] { display: none !important; }
+@media print {
+  .bar { display: none; }
+  .card { box-shadow: none; padding: 0; }
+  body { background: #fff; }
+  main { padding: 0; }
+}
+</style>
+</head>
+<body>
+<nav class="bar">
+  <a class="mark" href="../" data-keep-lang data-href="../">Clip<span>set</span></a>
+  <a class="switch" href="../" data-keep-lang data-href="../">Privacy Policy</a>
+  <select id="lang" aria-label="Language"><option value="en">English</option><option value="uk">Українська</option><option value="de">Deutsch</option><option value="es">Español</option><option value="fr">Français</option><option value="it">Italiano</option><option value="pl">Polski</option><option value="pt-BR">Português (Brasil)</option><option value="tr">Türkçe</option></select>
+</nav>
+<main>
+  <article id="doc-en" data-title="Support — Clipset" data-other="Privacy Policy" hidden>
+    <div class="card">
+      <span class="kicker">Clipset</span>
+      <h1>Support</h1>
+      <p class="updated">Version 1.0</p>
+      <p class="lead">Clipset is made by one independent developer, and every message is read personally. Most questions are answered within two working days.</p>
+    <section>
+      <h2>Contact</h2>
+      <p class="clause">Write to <a href="mailto:tesserly.dev@gmail.com?subject=Clipset%20support" target="_blank" rel="noopener">tesserly.dev@gmail.com</a>. Include your iPhone model and iOS version if the question is about a bug, and a screenshot if you have one.</p>
+    </section>
+    <section>
+      <h2>Common questions</h2>
+      <p class="clause"><b>A client cannot open my pack.</b> Make sure they have Clipset installed and open the .clipset file from Telegram, AirDrop or Files with Clipset. If you locked the pack to a recipient, their Clipset ID must match the one you entered.</p>
+      <p class="clause"><b>I changed phones and my clips are gone.</b> Clipset stores everything on the device and has no server. Restore from the backup file you exported in Settings. Without a backup the library cannot be recovered.</p>
+      <p class="clause"><b>Subscriptions and refunds.</b> Purchases are handled by Apple. Manage or cancel in App Store → your profile → Subscriptions; refunds are requested at reportaproblem.apple.com.</p>
+      <p class="clause"><b>Privacy.</b> Nothing is collected and nothing leaves your iPhone unless you send it. The full <a href="../" target="_blank" rel="noopener">Privacy Policy</a> and <a href="../terms/" target="_blank" rel="noopener">Terms of Use</a> are published here.</p>
+    </section>
+      <div class="foot">
+        <span>Clipset · Support</span>
+        <a href="../" data-keep-lang data-href="../">Privacy Policy</a>
+      </div>
+    </div>
+  </article>
+  <article id="doc-uk" data-title="Підтримка — Clipset" data-other="Політика конфіденційності" hidden>
+    <div class="card">
+      <span class="kicker">Clipset</span>
+      <h1>Підтримка</h1>
+      <p class="updated">Редакція 1.0</p>
+      <p class="lead">Clipset робить один незалежний розробник, і кожен лист читається особисто. На більшість запитань відповідь надходить протягом двох робочих днів.</p>
+    <section>
+      <h2>Контакт</h2>
+      <p class="clause">Пишіть на <a href="mailto:tesserly.dev@gmail.com?subject=Clipset%20support" target="_blank" rel="noopener">tesserly.dev@gmail.com</a>. Якщо йдеться про помилку, вкажіть модель iPhone і версію iOS та додайте скріншот, якщо він є.</p>
+    </section>
+    <section>
+      <h2>Часті запитання</h2>
+      <p class="clause"><b>Клієнт не може відкрити мій пакет.</b> Переконайтеся, що в нього встановлено Clipset і він відкриває файл .clipset із Telegram, AirDrop або Файлів саме через Clipset. Якщо пакет прив'язано до отримувача, його Clipset ID має збігатися з тим, який ви ввели.</p>
+      <p class="clause"><b>Я змінив телефон, і кліпи зникли.</b> Clipset зберігає все на пристрої й не має сервера. Відновіть дані з резервної копії, експортованої в Налаштуваннях. Без копії бібліотеку відновити неможливо.</p>
+      <p class="clause"><b>Підписки та повернення коштів.</b> Покупки обробляє Apple. Керувати або скасувати можна в App Store → ваш профіль → Підписки; повернення коштів запитують на reportaproblem.apple.com.</p>
+      <p class="clause"><b>Приватність.</b> Нічого не збирається і нічого не залишає ваш iPhone, доки ви самі цього не надішлете. Повні <a href="../" target="_blank" rel="noopener">Політика конфіденційності</a> та <a href="../terms/" target="_blank" rel="noopener">Умови використання</a> опубліковані тут.</p>
+    </section>
+      <div class="foot">
+        <span>Clipset · Підтримка</span>
+        <a href="../" data-keep-lang data-href="../">Політика конфіденційності</a>
+      </div>
+    </div>
+  </article>
+  <article id="doc-de" data-title="Support — Clipset" data-other="Datenschutzerklärung" hidden>
+    <div class="card">
+      <span class="kicker">Clipset</span>
+      <h1>Support</h1>
+      <p class="updated">Version 1.0</p>
+      <p class="lead">Clipset wird von einem einzelnen unabhängigen Entwickler gemacht, und jede Nachricht wird persönlich gelesen. Die meisten Fragen werden innerhalb von zwei Werktagen beantwortet.</p>
+    <section>
+      <h2>Kontakt</h2>
+      <p class="clause">Schreiben Sie an <a href="mailto:tesserly.dev@gmail.com?subject=Clipset%20support" target="_blank" rel="noopener">tesserly.dev@gmail.com</a>. Bei einem Fehler bitte iPhone-Modell und iOS-Version angeben und, falls vorhanden, einen Screenshot beilegen.</p>
+    </section>
+    <section>
+      <h2>Häufige Fragen</h2>
+      <p class="clause"><b>Ein Klient kann mein Pack nicht öffnen.</b> Er braucht Clipset und muss die .clipset-Datei aus Telegram, AirDrop oder Dateien mit Clipset öffnen. Ist das Pack auf einen Empfänger beschränkt, muss seine Clipset ID mit der eingegebenen übereinstimmen.</p>
+      <p class="clause"><b>Nach dem Telefonwechsel sind meine Clips weg.</b> Clipset speichert alles auf dem Gerät und hat keinen Server. Stellen Sie die in den Einstellungen exportierte Sicherungsdatei wieder her. Ohne Backup lässt sich die Bibliothek nicht retten.</p>
+      <p class="clause"><b>Abos und Erstattungen.</b> Käufe wickelt Apple ab. Verwalten oder kündigen unter App Store → Ihr Profil → Abonnements; Erstattungen beantragen Sie unter reportaproblem.apple.com.</p>
+      <p class="clause"><b>Datenschutz.</b> Es wird nichts gesammelt, und nichts verlässt Ihr iPhone, außer Sie senden es selbst. Die vollständige <a href="../" target="_blank" rel="noopener">Datenschutzerklärung</a> und die <a href="../terms/" target="_blank" rel="noopener">Nutzungsbedingungen</a> sind hier veröffentlicht.</p>
+    </section>
+      <div class="foot">
+        <span>Clipset · Support</span>
+        <a href="../" data-keep-lang data-href="../">Datenschutzerklärung</a>
+      </div>
+    </div>
+  </article>
+  <article id="doc-es" data-title="Soporte — Clipset" data-other="Política de Privacidad" hidden>
+    <div class="card">
+      <span class="kicker">Clipset</span>
+      <h1>Soporte</h1>
+      <p class="updated">Versión 1.0</p>
+      <p class="lead">Clipset lo hace un único desarrollador independiente y cada mensaje se lee personalmente. La mayoría de las preguntas se responden en dos días laborables.</p>
+    <section>
+      <h2>Contacto</h2>
+      <p class="clause">Escribe a <a href="mailto:tesserly.dev@gmail.com?subject=Clipset%20support" target="_blank" rel="noopener">tesserly.dev@gmail.com</a>. Si se trata de un error, indica el modelo de iPhone y la versión de iOS, y adjunta una captura si la tienes.</p>
+    </section>
+    <section>
+      <h2>Preguntas frecuentes</h2>
+      <p class="clause"><b>Un cliente no puede abrir mi pack.</b> Debe tener Clipset instalado y abrir el archivo .clipset desde Telegram, AirDrop o Archivos con Clipset. Si bloqueaste el pack a un destinatario, su Clipset ID debe coincidir con el que introdujiste.</p>
+      <p class="clause"><b>Cambié de teléfono y mis clips desaparecieron.</b> Clipset guarda todo en el dispositivo y no tiene servidor. Restaura la copia de seguridad que exportaste en Configuración. Sin copia, la biblioteca no se puede recuperar.</p>
+      <p class="clause"><b>Suscripciones y reembolsos.</b> Las compras las gestiona Apple. Administra o cancela en App Store → tu perfil → Suscripciones; los reembolsos se piden en reportaproblem.apple.com.</p>
+      <p class="clause"><b>Privacidad.</b> No se recopila nada y nada sale de tu iPhone salvo que tú lo envíes. La <a href="../" target="_blank" rel="noopener">Política de Privacidad</a> y las <a href="../terms/" target="_blank" rel="noopener">Condiciones de Uso</a> completas están publicadas aquí.</p>
+    </section>
+      <div class="foot">
+        <span>Clipset · Soporte</span>
+        <a href="../" data-keep-lang data-href="../">Política de Privacidad</a>
+      </div>
+    </div>
+  </article>
+  <article id="doc-fr" data-title="Assistance — Clipset" data-other="Politique de confidentialité" hidden>
+    <div class="card">
+      <span class="kicker">Clipset</span>
+      <h1>Assistance</h1>
+      <p class="updated">Version 1.0</p>
+      <p class="lead">Clipset est développé par un seul développeur indépendant, et chaque message est lu personnellement. La plupart des questions reçoivent une réponse sous deux jours ouvrés.</p>
+    <section>
+      <h2>Contact</h2>
+      <p class="clause">Écrivez à <a href="mailto:tesserly.dev@gmail.com?subject=Clipset%20support" target="_blank" rel="noopener">tesserly.dev@gmail.com</a>. Pour un bug, indiquez le modèle d'iPhone et la version d'iOS, avec une capture d'écran si possible.</p>
+    </section>
+    <section>
+      <h2>Questions fréquentes</h2>
+      <p class="clause"><b>Un client n'arrive pas à ouvrir mon pack.</b> Il doit avoir Clipset installé et ouvrir le fichier .clipset depuis Telegram, AirDrop ou Fichiers avec Clipset. Si le pack est réservé à un destinataire, son Clipset ID doit correspondre à celui saisi.</p>
+      <p class="clause"><b>J'ai changé de téléphone et mes clips ont disparu.</b> Clipset stocke tout sur l'appareil et n'a pas de serveur. Restaurez la sauvegarde exportée depuis les Réglages. Sans sauvegarde, la bibliothèque ne peut pas être récupérée.</p>
+      <p class="clause"><b>Abonnements et remboursements.</b> Les achats sont gérés par Apple. Gérez ou résiliez dans App Store → votre profil → Abonnements ; les remboursements se demandent sur reportaproblem.apple.com.</p>
+      <p class="clause"><b>Confidentialité.</b> Rien n'est collecté et rien ne quitte votre iPhone sauf si vous l'envoyez. La <a href="../" target="_blank" rel="noopener">Politique de confidentialité</a> et les <a href="../terms/" target="_blank" rel="noopener">Conditions Générales d'Utilisation</a> complètes sont publiées ici.</p>
+    </section>
+      <div class="foot">
+        <span>Clipset · Assistance</span>
+        <a href="../" data-keep-lang data-href="../">Politique de confidentialité</a>
+      </div>
+    </div>
+  </article>
+  <article id="doc-it" data-title="Assistenza — Clipset" data-other="Informativa sulla privacy" hidden>
+    <div class="card">
+      <span class="kicker">Clipset</span>
+      <h1>Assistenza</h1>
+      <p class="updated">Versione 1.0</p>
+      <p class="lead">Clipset è fatto da un unico sviluppatore indipendente e ogni messaggio viene letto personalmente. La maggior parte delle domande riceve risposta entro due giorni lavorativi.</p>
+    <section>
+      <h2>Contatto</h2>
+      <p class="clause">Scrivi a <a href="mailto:tesserly.dev@gmail.com?subject=Clipset%20support" target="_blank" rel="noopener">tesserly.dev@gmail.com</a>. Per un errore indica modello di iPhone e versione di iOS e allega uno screenshot se ce l'hai.</p>
+    </section>
+    <section>
+      <h2>Domande frequenti</h2>
+      <p class="clause"><b>Un cliente non riesce ad aprire il mio pacchetto.</b> Deve avere Clipset installato e aprire il file .clipset da Telegram, AirDrop o File con Clipset. Se il pacchetto è vincolato a un destinatario, il suo Clipset ID deve coincidere con quello inserito.</p>
+      <p class="clause"><b>Ho cambiato telefono e le clip sono sparite.</b> Clipset salva tutto sul dispositivo e non ha server. Ripristina il backup esportato dalle Impostazioni. Senza backup la libreria non è recuperabile.</p>
+      <p class="clause"><b>Abbonamenti e rimborsi.</b> Gli acquisti sono gestiti da Apple. Gestisci o annulla in App Store → il tuo profilo → Abbonamenti; i rimborsi si richiedono su reportaproblem.apple.com.</p>
+      <p class="clause"><b>Privacy.</b> Nulla viene raccolto e nulla lascia il tuo iPhone se non lo invii tu. L'<a href="../" target="_blank" rel="noopener">Informativa sulla privacy</a> e le <a href="../terms/" target="_blank" rel="noopener">Condizioni d'Uso</a> complete sono pubblicate qui.</p>
+    </section>
+      <div class="foot">
+        <span>Clipset · Assistenza</span>
+        <a href="../" data-keep-lang data-href="../">Informativa sulla privacy</a>
+      </div>
+    </div>
+  </article>
+  <article id="doc-pl" data-title="Wsparcie — Clipset" data-other="Polityka prywatności" hidden>
+    <div class="card">
+      <span class="kicker">Clipset</span>
+      <h1>Wsparcie</h1>
+      <p class="updated">Wersja 1.0</p>
+      <p class="lead">Clipset tworzy jeden niezależny deweloper i każdą wiadomość czyta osobiście. Na większość pytań odpowiada w ciągu dwóch dni roboczych.</p>
+    <section>
+      <h2>Kontakt</h2>
+      <p class="clause">Napisz na <a href="mailto:tesserly.dev@gmail.com?subject=Clipset%20support" target="_blank" rel="noopener">tesserly.dev@gmail.com</a>. W sprawie błędu podaj model iPhone'a i wersję iOS oraz dołącz zrzut ekranu, jeśli masz.</p>
+    </section>
+    <section>
+      <h2>Częste pytania</h2>
+      <p class="clause"><b>Klient nie może otworzyć mojego pakietu.</b> Musi mieć zainstalowany Clipset i otworzyć plik .clipset z Telegrama, AirDrop lub Plików w Clipset. Jeśli pakiet jest przypisany do odbiorcy, jego Clipset ID musi zgadzać się z wpisanym.</p>
+      <p class="clause"><b>Zmieniłem telefon i klipy zniknęły.</b> Clipset przechowuje wszystko na urządzeniu i nie ma serwera. Przywróć kopię zapasową wyeksportowaną w Ustawieniach. Bez kopii biblioteki nie da się odzyskać.</p>
+      <p class="clause"><b>Subskrypcje i zwroty.</b> Zakupy obsługuje Apple. Zarządzaj lub anuluj w App Store → profil → Subskrypcje; zwrot zgłasza się na reportaproblem.apple.com.</p>
+      <p class="clause"><b>Prywatność.</b> Nic nie jest zbierane i nic nie opuszcza Twojego iPhone'a, chyba że sam to wyślesz. Pełna <a href="../" target="_blank" rel="noopener">Polityka prywatności</a> i <a href="../terms/" target="_blank" rel="noopener">Warunki korzystania</a> są opublikowane tutaj.</p>
+    </section>
+      <div class="foot">
+        <span>Clipset · Wsparcie</span>
+        <a href="../" data-keep-lang data-href="../">Polityka prywatności</a>
+      </div>
+    </div>
+  </article>
+  <article id="doc-pt-BR" data-title="Suporte — Clipset" data-other="Política de Privacidade" hidden>
+    <div class="card">
+      <span class="kicker">Clipset</span>
+      <h1>Suporte</h1>
+      <p class="updated">Versão 1.0</p>
+      <p class="lead">O Clipset é feito por um único desenvolvedor independente, e cada mensagem é lida pessoalmente. A maioria das perguntas é respondida em até dois dias úteis.</p>
+    <section>
+      <h2>Contato</h2>
+      <p class="clause">Escreva para <a href="mailto:tesserly.dev@gmail.com?subject=Clipset%20support" target="_blank" rel="noopener">tesserly.dev@gmail.com</a>. Se for um bug, informe o modelo do iPhone e a versão do iOS e anexe uma captura de tela, se tiver.</p>
+    </section>
+    <section>
+      <h2>Perguntas frequentes</h2>
+      <p class="clause"><b>Um cliente não consegue abrir meu pacote.</b> Ele precisa ter o Clipset instalado e abrir o arquivo .clipset pelo Telegram, AirDrop ou Arquivos com o Clipset. Se o pacote estiver travado para um destinatário, o Clipset ID dele precisa ser o mesmo que você digitou.</p>
+      <p class="clause"><b>Troquei de celular e meus clips sumiram.</b> O Clipset guarda tudo no aparelho e não tem servidor. Restaure o backup exportado nos Ajustes. Sem backup, a biblioteca não pode ser recuperada.</p>
+      <p class="clause"><b>Assinaturas e reembolsos.</b> As compras são processadas pela Apple. Gerencie ou cancele em App Store → seu perfil → Assinaturas; reembolsos são pedidos em reportaproblem.apple.com.</p>
+      <p class="clause"><b>Privacidade.</b> Nada é coletado e nada sai do seu iPhone a menos que você envie. A <a href="../" target="_blank" rel="noopener">Política de Privacidade</a> e os <a href="../terms/" target="_blank" rel="noopener">Termos de Uso</a> completos estão publicados aqui.</p>
+    </section>
+      <div class="foot">
+        <span>Clipset · Suporte</span>
+        <a href="../" data-keep-lang data-href="../">Política de Privacidade</a>
+      </div>
+    </div>
+  </article>
+  <article id="doc-tr" data-title="Destek — Clipset" data-other="Gizlilik Politikası" hidden>
+    <div class="card">
+      <span class="kicker">Clipset</span>
+      <h1>Destek</h1>
+      <p class="updated">Sürüm 1.0</p>
+      <p class="lead">Clipset tek bir bağımsız geliştirici tarafından yapılır ve her mesaj kişisel olarak okunur. Soruların çoğu iki iş günü içinde yanıtlanır.</p>
+    <section>
+      <h2>İletişim</h2>
+      <p class="clause"><a href="mailto:tesserly.dev@gmail.com?subject=Clipset%20support" target="_blank" rel="noopener">tesserly.dev@gmail.com</a> adresine yazın. Bir hata söz konusuysa iPhone modelinizi ve iOS sürümünüzü belirtin, varsa ekran görüntüsü ekleyin.</p>
+    </section>
+    <section>
+      <h2>Sık sorulan sorular</h2>
+      <p class="clause"><b>Danışanım paketimi açamıyor.</b> Clipset yüklü olmalı ve .clipset dosyasını Telegram, AirDrop veya Dosyalar'dan Clipset ile açmalı. Paketi bir alıcıya kilitlediyseniz, alıcının Clipset ID'si girdiğinizle aynı olmalıdır.</p>
+      <p class="clause"><b>Telefon değiştirdim, kliplerim gitti.</b> Clipset her şeyi cihazda saklar ve sunucusu yoktur. Ayarlar'dan dışa aktardığınız yedek dosyasından geri yükleyin. Yedek olmadan kitaplık kurtarılamaz.</p>
+      <p class="clause"><b>Abonelikler ve iadeler.</b> Satın almaları Apple yönetir. App Store → profiliniz → Abonelikler'den yönetin veya iptal edin; iade talebi reportaproblem.apple.com üzerinden yapılır.</p>
+      <p class="clause"><b>Gizlilik.</b> Hiçbir şey toplanmaz ve siz göndermedikçe hiçbir şey iPhone'unuzdan çıkmaz. Tam <a href="../" target="_blank" rel="noopener">Gizlilik Politikası</a> ve <a href="../terms/" target="_blank" rel="noopener">Kullanım Koşulları</a> burada yayımlanmıştır.</p>
+    </section>
+      <div class="foot">
+        <span>Clipset · Destek</span>
+        <a href="../" data-keep-lang data-href="../">Gizlilik Politikası</a>
+      </div>
+    </div>
+  </article>
+</main>
+<script>
+(function () {
+  var LANGS = ["en", "uk", "de", "es", "fr", "it", "pl", "pt-BR", "tr"];
+  var select = document.getElementById('lang');
+  function pick() {
+    var q = new URLSearchParams(location.search).get('lang');
+    var stored = null;
+    try { stored = localStorage.getItem('clipset.legal.lang'); } catch (e) {}
+    var wanted = [q, stored].concat(navigator.languages || [navigator.language || 'en']);
+    for (var i = 0; i < wanted.length; i++) {
+      var w = wanted[i];
+      if (!w) continue;
+      for (var j = 0; j < LANGS.length; j++) {
+        if (LANGS[j].toLowerCase() === w.toLowerCase()) return LANGS[j];
+      }
+      var base = w.split('-')[0].toLowerCase();
+      for (var k = 0; k < LANGS.length; k++) {
+        if (LANGS[k].split('-')[0].toLowerCase() === base) return LANGS[k];
+      }
+    }
+    return 'en';
+  }
+  function apply(code, remember) {
+    var found = false;
+    LANGS.forEach(function (l) {
+      var node = document.getElementById('doc-' + l);
+      if (!node) return;
+      var on = l === code;
+      node.hidden = !on;
+      if (on) {
+        found = true;
+        document.documentElement.lang = l;
+        document.title = node.getAttribute('data-title');
+        var switcher = document.querySelector('.bar a.switch');
+        if (switcher) switcher.textContent = node.getAttribute('data-other');
+      }
+    });
+    if (!found) { apply('en', false); return; }
+    if (select) select.value = code;
+    var links = document.querySelectorAll('a[data-keep-lang]');
+    for (var i = 0; i < links.length; i++) {
+      links[i].href = links[i].getAttribute('data-href') + '?lang=' + encodeURIComponent(code);
+    }
+    if (remember) { try { localStorage.setItem('clipset.legal.lang', code); } catch (e) {} }
+  }
+  apply(pick(), false);
+  if (select) {
+    select.addEventListener('change', function () { apply(select.value, true); window.scrollTo(0, 0); });
+  }
+})();
+</script>
+</body>
+</html>

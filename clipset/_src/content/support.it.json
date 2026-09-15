@@ -1,0 +1,38 @@
+{
+  "lang": "it",
+  "langName": "Italiano",
+  "docTitle": "Assistenza — Clipset",
+  "kicker": "Clipset",
+  "title": "Assistenza",
+  "updated": "Versione 1.0",
+  "otherLabel": "",
+  "footer": "Clipset · Assistenza",
+  "lead": "Clipset è fatto da un unico sviluppatore indipendente e ogni messaggio viene letto personalmente. La maggior parte delle domande riceve risposta entro due giorni lavorativi.",
+  "sections": [
+    {
+      "h": "Contatto",
+      "blocks": [
+        {
+          "c": "Scrivi a [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20support]]. Per un errore indica modello di iPhone e versione di iOS e allega uno screenshot se ce l'hai."
+        }
+      ]
+    },
+    {
+      "h": "Domande frequenti",
+      "blocks": [
+        {
+          "c": "**Un cliente non riesce ad aprire il mio pacchetto.** Deve avere Clipset installato e aprire il file .clipset da Telegram, AirDrop o File con Clipset. Se il pacchetto è vincolato a un destinatario, il suo Clipset ID deve coincidere con quello inserito."
+        },
+        {
+          "c": "**Ho cambiato telefono e le clip sono sparite.** Clipset salva tutto sul dispositivo e non ha server. Ripristina il backup esportato dalle Impostazioni. Senza backup la libreria non è recuperabile."
+        },
+        {
+          "c": "**Abbonamenti e rimborsi.** Gli acquisti sono gestiti da Apple. Gestisci o annulla in App Store → il tuo profilo → Abbonamenti; i rimborsi si richiedono su reportaproblem.apple.com."
+        },
+        {
+          "c": "**Privacy.** Nulla viene raccolto e nulla lascia il tuo iPhone se non lo invii tu. L'[[Informativa sulla privacy|../]] e le [[Condizioni d'Uso|../terms/]] complete sono pubblicate qui."
+        }
+      ]
+    }
+  ]
+}
