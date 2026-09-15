@@ -4,211 +4,378 @@
   "docTitle": "Conditions Générales d'Utilisation — Clipset",
   "kicker": "Clipset",
   "title": "Conditions Générales d'Utilisation",
-  "updated": "Version 1.0 · En vigueur à compter du 12 septembre 2026",
+  "updated": "Version 1.1 · En vigueur à compter du 12 septembre 2026",
   "otherLabel": "Politique de confidentialité",
-  "footer": "Clipset · Conditions Générales d'Utilisation · Version 1.0",
+  "footer": "Clipset · Conditions Générales d'Utilisation · Version 1.1",
   "lead": "Les présentes conditions générales d'utilisation (les « Conditions ») constituent un contrat contraignant entre l'utilisateur (l'« Utilisateur ») et le développeur indépendant de l'application mobile Clipset (le « Développeur »). Elles régissent le téléchargement, l'installation et l'utilisation de l'application. En installant ou en utilisant l'application, l'Utilisateur déclare avoir pris connaissance des présentes Conditions, les comprendre et les accepter sans réserve. L'Utilisateur qui n'accepte pas les présentes Conditions doit s'abstenir d'installer ou d'utiliser l'application.",
   "sections": [
     {
       "h": "Définitions",
       "blocks": [
-        { "p": "Dans les présentes Conditions, les termes ci-après ont la signification suivante." },
-        { "ul": [
-          "**Application** ou **App** désigne le logiciel Clipset pour iOS, y compris l'ensemble de ses versions, mises à jour, composants et documents d'accompagnement.",
-          "**Développeur** désigne le développeur indépendant qui détient et distribue l'Application et qui peut être contacté à l'adresse tesserly.dev@gmail.com.",
-          "**Utilisateur** désigne toute personne physique qui installe ou utilise l'Application.",
-          "**Contenu Utilisateur** désigne les vidéos, images, textes, exercices, entraînements, programmes et tout autre élément que l'Utilisateur importe dans l'Application ou y crée.",
-          "**Pack** désigne un fichier `.clipset` unique, signé et chiffré, généré par l'Application et contenant le Contenu Utilisateur sélectionné par l'Utilisateur en vue de sa transmission à un tiers.",
-          "**Destinataire** désigne la personne à laquelle l'Utilisateur transmet un Pack.",
-          "**Abonnement** désigne Clipset Pro, l'abonnement à renouvellement automatique distribué par l'intermédiaire de l'App Store.",
-          "**App Store** désigne la plateforme de distribution numérique exploitée par Apple Inc. et ses filiales (**Apple**)."
-        ] }
+        {
+          "p": "Dans les présentes Conditions, les termes ci-après ont la signification suivante."
+        },
+        {
+          "ul": [
+            "**Application** ou **App** désigne le logiciel Clipset pour iOS, y compris l'ensemble de ses versions, mises à jour, composants et documents d'accompagnement.",
+            "**Développeur** désigne le développeur indépendant qui détient et distribue l'Application et qui peut être contacté à l'adresse tesserly.dev@gmail.com.",
+            "**Utilisateur** désigne toute personne physique qui installe ou utilise l'Application.",
+            "**Contenu Utilisateur** désigne les vidéos, images, textes, exercices, entraînements, programmes et tout autre élément que l'Utilisateur importe dans l'Application ou y crée.",
+            "**Pack** désigne un fichier `.clipset` unique, signé et chiffré, généré par l'Application et contenant le Contenu Utilisateur sélectionné par l'Utilisateur en vue de sa transmission à un tiers.",
+            "**Destinataire** désigne la personne à laquelle l'Utilisateur transmet un Pack.",
+            "**Abonnement** désigne Clipset Pro, l'abonnement à renouvellement automatique distribué par l'intermédiaire de l'App Store.",
+            "**App Store** désigne la plateforme de distribution numérique exploitée par Apple Inc. et ses filiales (**Apple**)."
+          ]
+        }
       ]
     },
     {
       "h": "Objet et acceptation",
       "blocks": [
-        { "c": "L'Application est un outil personnel permettant à l'Utilisateur de constituer une bibliothèque d'exercices à partir de ses propres vidéos, d'organiser celles-ci en entraînements et en programmes, de dérouler des séances et de consigner sa progression." },
-        { "c": "Les présentes Conditions entrent en vigueur à l'égard de l'Utilisateur à la date de la première installation ou de la première utilisation de l'Application et demeurent en vigueur tant que l'Utilisateur continue de l'utiliser." },
-        { "c": "L'acceptation des présentes Conditions résulte de l'installation ou de l'utilisation de l'Application. Aucune signature distincte n'est requise." },
-        { "c": "Le Développeur ne fournit aucune prestation de coaching, d'encadrement sportif, de programmation d'entraînement ni aucune autre prestation professionnelle, et ne relit, ne vérifie ni n'approuve le Contenu Utilisateur." },
-        { "c": "L'Application est destinée aux personnes âgées de 13 ans ou plus. L'Utilisateur qui n'a pas atteint l'âge de la majorité dans son ressort doit recueillir le consentement d'un parent ou de son représentant légal avant d'utiliser l'Application." }
+        {
+          "c": "L'Application est un outil personnel permettant à l'Utilisateur de constituer une bibliothèque d'exercices à partir de ses propres vidéos, d'organiser celles-ci en entraînements et en programmes, de dérouler des séances et de consigner sa progression."
+        },
+        {
+          "c": "Les présentes Conditions entrent en vigueur à l'égard de l'Utilisateur à la date de la première installation ou de la première utilisation de l'Application et demeurent en vigueur tant que l'Utilisateur continue de l'utiliser."
+        },
+        {
+          "c": "L'acceptation des présentes Conditions résulte de l'installation ou de l'utilisation de l'Application. Aucune signature distincte n'est requise."
+        },
+        {
+          "c": "Le Développeur ne fournit aucune prestation de coaching, d'encadrement sportif, de programmation d'entraînement ni aucune autre prestation professionnelle, et ne relit, ne vérifie ni n'approuve le Contenu Utilisateur."
+        },
+        {
+          "c": "L'Application est destinée aux personnes âgées de 13 ans ou plus. L'Utilisateur qui n'a pas atteint l'âge de la majorité dans son ressort doit recueillir le consentement d'un parent ou de son représentant légal avant d'utiliser l'Application."
+        }
       ]
     },
     {
       "h": "Relations avec Apple",
       "blocks": [
-        { "c": "Les présentes Conditions sont conclues exclusivement entre l'Utilisateur et le Développeur. Apple n'y est pas partie." },
-        { "c": "L'Application est concédée sous licence et non vendue. Le **[[Contrat de licence d'utilisateur final d'application sous licence|https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]]** d'Apple s'applique en complément des présentes Conditions. En cas de contradiction entre une stipulation des présentes Conditions et ce contrat sur une question que celui-ci régit, ce contrat prévaut." },
-        { "c": "Le Développeur est seul responsable de l'Application ainsi que de son contenu, de sa maintenance et de son assistance. Apple n'est tenue à aucune obligation de fournir des services de maintenance ou d'assistance au titre de l'Application." },
-        { "c": "Toute réclamation tirée de la non-conformité de l'Application à une garantie applicable doit être adressée à Apple, qui peut en rembourser le prix d'achat. Dans toute la mesure permise par la loi applicable, Apple n'est tenue à aucune autre obligation de garantie au titre de l'Application." },
-        { "c": "Apple et ses filiales sont bénéficiaires des présentes Conditions au titre d'une stipulation pour autrui et, dès l'acceptation de celles-ci par l'Utilisateur, sont en droit de les faire valoir à son encontre." },
-        { "c": "L'Utilisateur déclare qu'il n'est pas situé dans un pays faisant l'objet d'un embargo décrété par le Gouvernement des États-Unis ou désigné par ce Gouvernement comme soutenant le terrorisme, et qu'il ne figure sur aucune liste de parties interdites ou soumises à restrictions tenue par ce Gouvernement." }
+        {
+          "c": "Les présentes Conditions sont conclues exclusivement entre l'Utilisateur et le Développeur. Apple n'y est pas partie."
+        },
+        {
+          "c": "L'Application est concédée sous licence et non vendue. Le **[[Contrat de licence d'utilisateur final d'application sous licence|https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]]** d'Apple s'applique en complément des présentes Conditions. En cas de contradiction entre une stipulation des présentes Conditions et ce contrat sur une question que celui-ci régit, ce contrat prévaut."
+        },
+        {
+          "c": "Le Développeur est seul responsable de l'Application ainsi que de son contenu, de sa maintenance et de son assistance. Apple n'est tenue à aucune obligation de fournir des services de maintenance ou d'assistance au titre de l'Application."
+        },
+        {
+          "c": "Toute réclamation tirée de la non-conformité de l'Application à une garantie applicable doit être adressée à Apple, qui peut en rembourser le prix d'achat. Dans toute la mesure permise par la loi applicable, Apple n'est tenue à aucune autre obligation de garantie au titre de l'Application."
+        },
+        {
+          "c": "Apple et ses filiales sont bénéficiaires des présentes Conditions au titre d'une stipulation pour autrui et, dès l'acceptation de celles-ci par l'Utilisateur, sont en droit de les faire valoir à son encontre."
+        },
+        {
+          "c": "L'Utilisateur déclare qu'il n'est pas situé dans un pays faisant l'objet d'un embargo décrété par le Gouvernement des États-Unis ou désigné par ce Gouvernement comme soutenant le terrorisme, et qu'il ne figure sur aucune liste de parties interdites ou soumises à restrictions tenue par ce Gouvernement."
+        }
       ]
     },
     {
       "h": "Concession de licence",
       "blocks": [
-        { "c": "Le Développeur concède à l'Utilisateur une licence limitée, personnelle, non exclusive, non transférable et révocable, l'autorisant à installer et à utiliser l'Application sur les appareils de marque Apple qu'il possède ou qu'il contrôle, conformément aux Règles d'utilisation de l'App Store." },
-        { "c": "La licence porte sur l'utilisation du logiciel lui-même. L'utilisation de l'Application aux fins de préparer des supports d'entraînement que l'Utilisateur fournit à ses propres clients est autorisée et ne constitue pas un manquement au présent article." },
-        { "c": "L'Utilisateur s'interdit de vendre, de louer, de donner en location, de sous-licencier, de distribuer ou de mettre de quelque autre manière l'Application à la disposition de tiers, ainsi que de supprimer ou de modifier toute mention de propriété qu'elle comporte." },
-        { "c": "Tous les droits qui ne sont pas expressément concédés par les présentes Conditions demeurent réservés au Développeur." }
+        {
+          "c": "Le Développeur concède à l'Utilisateur une licence limitée, personnelle, non exclusive, non transférable et révocable, l'autorisant à installer et à utiliser l'Application sur les appareils de marque Apple qu'il possède ou qu'il contrôle, conformément aux Règles d'utilisation de l'App Store."
+        },
+        {
+          "c": "La licence porte sur l'utilisation du logiciel lui-même. L'utilisation de l'Application aux fins de préparer des supports d'entraînement que l'Utilisateur fournit à ses propres clients est autorisée et ne constitue pas un manquement au présent article."
+        },
+        {
+          "c": "L'Utilisateur s'interdit de vendre, de louer, de donner en location, de sous-licencier, de distribuer ou de mettre de quelque autre manière l'Application à la disposition de tiers, ainsi que de supprimer ou de modifier toute mention de propriété qu'elle comporte."
+        },
+        {
+          "c": "Tous les droits qui ne sont pas expressément concédés par les présentes Conditions demeurent réservés au Développeur."
+        }
       ]
     },
     {
       "h": "Santé, sécurité et acceptation des risques",
       "blocks": [
-        { "note": "L'Application n'est pas un dispositif médical. Elle ne fournit aucun conseil médical, diagnostic ni traitement et ne saurait se substituer à une prise en charge par un professionnel de santé." },
-        { "c": "La pratique d'une activité physique, et en particulier de la musculation, comporte un risque inhérent de blessure. L'Utilisateur détermine seul les exercices qu'il exécute, les charges qu'il emploie et l'intensité à laquelle il s'entraîne." },
-        { "c": "Avant d'entreprendre ou de modifier substantiellement un programme d'entraînement, l'Utilisateur doit recueillir un avis médical, en particulier en cas de grossesse, de convalescence consécutive à une blessure ou à une maladie, ou d'affection cardiovasculaire, métabolique, articulaire ou tensionnelle." },
-        { "c": "Les vidéos, descriptions et entraînements présents dans l'Application sont créés par l'Utilisateur ou par un tiers et ne font l'objet d'aucun contrôle du Développeur quant à leur exactitude, à leur adéquation ou à leur sécurité." },
-        { "c": "L'Utilisateur doit cesser immédiatement tout exercice et solliciter une assistance médicale en cas de douleur, de vertige, d'essoufflement ou de tout autre symptôme anormal." },
-        { "c": "L'Utilisateur utilise l'Application et s'entraîne à ses seuls risques et périls et assume l'entière responsabilité des blessures ou atteintes à la santé qui en résulteraient." }
+        {
+          "note": "L'Application n'est pas un dispositif médical. Elle ne fournit aucun conseil médical, diagnostic ni traitement et ne saurait se substituer à une prise en charge par un professionnel de santé."
+        },
+        {
+          "c": "La pratique d'une activité physique, et en particulier de la musculation, comporte un risque inhérent de blessure. L'Utilisateur détermine seul les exercices qu'il exécute, les charges qu'il emploie et l'intensité à laquelle il s'entraîne."
+        },
+        {
+          "c": "Avant d'entreprendre ou de modifier substantiellement un programme d'entraînement, l'Utilisateur doit recueillir un avis médical, en particulier en cas de grossesse, de convalescence consécutive à une blessure ou à une maladie, ou d'affection cardiovasculaire, métabolique, articulaire ou tensionnelle."
+        },
+        {
+          "c": "Les vidéos, descriptions et entraînements présents dans l'Application sont créés par l'Utilisateur ou par un tiers et ne font l'objet d'aucun contrôle du Développeur quant à leur exactitude, à leur adéquation ou à leur sécurité."
+        },
+        {
+          "c": "L'Utilisateur doit cesser immédiatement tout exercice et solliciter une assistance médicale en cas de douleur, de vertige, d'essoufflement ou de tout autre symptôme anormal."
+        },
+        {
+          "c": "L'Utilisateur utilise l'Application et s'entraîne à ses seuls risques et périls et assume l'entière responsabilité des blessures ou atteintes à la santé qui en résulteraient."
+        }
       ]
     },
     {
       "h": "Contenu Utilisateur",
       "blocks": [
-        { "c": "L'Utilisateur conserve l'intégralité des droits sur le Contenu Utilisateur. Le Développeur n'acquiert aucun droit de propriété sur celui-ci et ne revendique aucune licence à son égard." },
-        { "c": "Le Contenu Utilisateur est stocké localement sur l'appareil de l'Utilisateur. Le Développeur ne le reçoit pas et n'y a pas accès ; il n'exerce en conséquence aucune modération sur celui-ci." },
-        { "c": "L'Utilisateur garantit qu'il détient l'ensemble des droits nécessaires à l'importation, à la conservation et à la transmission de chaque élément du Contenu Utilisateur et qu'aucun de ces éléments ne porte atteinte aux droits de propriété intellectuelle, au respect de la vie privée ou aux droits de la personnalité de tiers." },
-        { "c": "Lorsque le Contenu Utilisateur représente une personne identifiable autre que l'Utilisateur, il appartient à ce dernier de recueillir le consentement de cette personne avant de le conserver ou de le transmettre." },
-        { "c": "L'Utilisateur est seul responsable de la licéité du Contenu Utilisateur dans le pays de sa résidence comme dans celui de tout Destinataire." }
+        {
+          "c": "L'Utilisateur conserve l'intégralité des droits sur le Contenu Utilisateur. Le Développeur n'acquiert aucun droit de propriété sur celui-ci et ne revendique aucune licence à son égard."
+        },
+        {
+          "c": "Le Contenu Utilisateur est stocké localement sur l'appareil de l'Utilisateur. Le Développeur ne le reçoit pas et n'y a pas accès ; il n'exerce en conséquence aucune modération sur celui-ci."
+        },
+        {
+          "c": "L'Utilisateur garantit qu'il détient l'ensemble des droits nécessaires à l'importation, à la conservation et à la transmission de chaque élément du Contenu Utilisateur et qu'aucun de ces éléments ne porte atteinte aux droits de propriété intellectuelle, au respect de la vie privée ou aux droits de la personnalité de tiers."
+        },
+        {
+          "c": "Lorsque le Contenu Utilisateur représente une personne identifiable autre que l'Utilisateur, il appartient à ce dernier de recueillir le consentement de cette personne avant de le conserver ou de le transmettre."
+        },
+        {
+          "c": "L'Utilisateur est seul responsable de la licéité du Contenu Utilisateur dans le pays de sa résidence comme dans celui de tout Destinataire."
+        }
       ]
     },
     {
       "h": "Packs et transmission à des tiers",
       "blocks": [
-        { "c": "Un Pack contient le Contenu Utilisateur sélectionné par l'Utilisateur ainsi que son nom d'auteur et son identifiant Clipset public. L'Utilisateur détermine le Destinataire et le canal de transmission." },
-        { "c": "La transmission s'effectue directement entre l'Utilisateur et le Destinataire au moyen d'un service choisi par l'Utilisateur. Un Pack ne transite par aucune infrastructure du Développeur, lequel n'exerce en conséquence aucun contrôle sur la transmission et n'apporte aucune garantie à son sujet." },
-        { "c": "La date d'expiration et le verrouillage sur un destinataire proposés pour un Pack constituent des mesures de protection et non un dispositif de gestion des droits numériques. Dès lors que les médias se trouvent sur l'appareil d'un Destinataire, ils peuvent être enregistrés, copiés ou rediffusés par d'autres moyens ; l'Utilisateur accepte ce risque en décidant de transmettre un Pack." },
-        { "c": "Lorsque l'Utilisateur fournit des Packs à ses propres clients à titre onéreux, cette opération est conclue exclusivement entre l'Utilisateur et le client. Le Développeur n'y est pas partie, ne perçoit aucune commission, ne traite aucun paiement et n'apporte aucune garantie à son sujet. L'Utilisateur est seul responsable de la facturation, de la fiscalité, des remboursements et du respect du droit de la consommation." },
-        { "c": "L'Utilisateur s'interdit d'utiliser les Packs pour diffuser des contenus illicites, des contenus portant atteinte aux droits de tiers ou des contenus payants appartenant à autrui sans l'autorisation de leur titulaire." }
+        {
+          "c": "Un Pack contient le Contenu Utilisateur sélectionné par l'Utilisateur ainsi que son nom d'auteur et son identifiant Clipset public. L'Utilisateur détermine le Destinataire et le canal de transmission."
+        },
+        {
+          "c": "La transmission s'effectue directement entre l'Utilisateur et le Destinataire au moyen d'un service choisi par l'Utilisateur. Un Pack ne transite par aucune infrastructure du Développeur, lequel n'exerce en conséquence aucun contrôle sur la transmission et n'apporte aucune garantie à son sujet."
+        },
+        {
+          "c": "La date d'expiration et le verrouillage sur un destinataire proposés pour un Pack constituent des mesures de protection et non un dispositif de gestion des droits numériques. Dès lors que les médias se trouvent sur l'appareil d'un Destinataire, ils peuvent être enregistrés, copiés ou rediffusés par d'autres moyens ; l'Utilisateur accepte ce risque en décidant de transmettre un Pack."
+        },
+        {
+          "c": "Lorsque l'Utilisateur fournit des Packs à ses propres clients à titre onéreux, cette opération est conclue exclusivement entre l'Utilisateur et le client. Le Développeur n'y est pas partie, ne perçoit aucune commission, ne traite aucun paiement et n'apporte aucune garantie à son sujet. L'Utilisateur est seul responsable de la facturation, de la fiscalité, des remboursements et du respect du droit de la consommation."
+        },
+        {
+          "c": "L'Utilisateur s'interdit d'utiliser les Packs pour diffuser des contenus illicites, des contenus portant atteinte aux droits de tiers ou des contenus payants appartenant à autrui sans l'autorisation de leur titulaire."
+        }
       ]
     },
     {
       "h": "Abonnement Clipset Pro",
       "blocks": [
-        { "c": "Clipset Pro est un abonnement à renouvellement automatique proposé selon des formules mensuelle et annuelle et distribué exclusivement par Apple par l'intermédiaire de l'App Store." },
-        { "c": "Le prix applicable sur le territoire de l'Utilisateur est affiché dans l'Application et sur l'App Store avant la confirmation de l'achat. Le paiement est débité du compte Apple de l'Utilisateur lors de la confirmation de l'achat." },
-        { "c": "L'Abonnement se renouvelle automatiquement par périodes successives de durée identique, sauf résiliation par l'Utilisateur au plus tard 24 heures avant le terme de la période en cours. Le montant du renouvellement est prélevé dans les 24 heures précédant ce terme." },
-        { "c": "Lorsqu'une période d'essai gratuite est proposée à titre d'offre de lancement, elle ne s'applique qu'au premier Abonnement et se convertit à son terme en période payante à défaut de résiliation préalable. Toute fraction d'essai non utilisée est perdue lors de la souscription d'un Abonnement." },
-        { "c": "L'Abonnement peut être géré ou résilié à tout moment dans **App Store → profil de l'Utilisateur → Abonnements**. La suppression de l'Application n'emporte pas résiliation de l'Abonnement." },
-        { "c": "Les remboursements sont gérés par Apple conformément à la politique de l'App Store. Le Développeur n'est pas en mesure d'accorder, de refuser ni de traiter un remboursement." },
-        { "c": "L'expiration ou la résiliation de l'Abonnement n'entraîne la suppression d'aucun Contenu Utilisateur. Les fonctionnalités subordonnées à un Abonnement sont de nouveau verrouillées et les contenus excédant les limites de la version gratuite demeurent accessibles en lecture seule." },
-        { "c": "Lorsque l'Utilisateur a la qualité de consommateur dans l'Union européenne ou dans tout autre ressort conférant un droit de rétractation légal, ce droit s'exerce auprès d'Apple conformément à la politique de l'App Store." }
+        {
+          "c": "Clipset Pro est un abonnement à renouvellement automatique proposé selon des formules mensuelle et annuelle et distribué exclusivement par Apple par l'intermédiaire de l'App Store."
+        },
+        {
+          "c": "Le prix applicable sur le territoire de l'Utilisateur est affiché dans l'Application et sur l'App Store avant la confirmation de l'achat. Le paiement est débité du compte Apple de l'Utilisateur lors de la confirmation de l'achat."
+        },
+        {
+          "c": "L'Abonnement se renouvelle automatiquement par périodes successives de durée identique, sauf résiliation par l'Utilisateur au plus tard 24 heures avant le terme de la période en cours. Le montant du renouvellement est prélevé dans les 24 heures précédant ce terme."
+        },
+        {
+          "c": "Lorsqu'une période d'essai gratuite est proposée à titre d'offre de lancement, elle ne s'applique qu'au premier Abonnement et se convertit à son terme en période payante à défaut de résiliation préalable. Toute fraction d'essai non utilisée est perdue lors de la souscription d'un Abonnement."
+        },
+        {
+          "c": "L'Abonnement peut être géré ou résilié à tout moment dans **App Store → profil de l'Utilisateur → Abonnements**. La suppression de l'Application n'emporte pas résiliation de l'Abonnement."
+        },
+        {
+          "c": "Les remboursements sont gérés par Apple conformément à la politique de l'App Store. Le Développeur n'est pas en mesure d'accorder, de refuser ni de traiter un remboursement."
+        },
+        {
+          "c": "L'expiration ou la résiliation de l'Abonnement n'entraîne la suppression d'aucun Contenu Utilisateur. Les fonctionnalités subordonnées à un Abonnement sont de nouveau verrouillées et les contenus excédant les limites de la version gratuite demeurent accessibles en lecture seule."
+        },
+        {
+          "c": "Lorsque l'Utilisateur a la qualité de consommateur dans l'Union européenne ou dans tout autre ressort conférant un droit de rétractation légal, ce droit s'exerce auprès d'Apple conformément à la politique de l'App Store."
+        },
+        {
+          "c": "Clipset Pro est également proposé sous forme d'achat unique (« À vie »). Il débloque les mêmes fonctionnalités de manière permanente pour le compte Apple ayant effectué l'achat, ne constitue pas un abonnement et ne se renouvelle pas. Les stipulations du présent article relatives au prix, au paiement et aux remboursements lui sont applicables."
+        }
       ]
     },
     {
       "h": "Version gratuite et limites d'utilisation",
       "blocks": [
-        { "c": "L'Application peut être utilisée sans Abonnement, sous réserve de limites quantitatives applicables à la création de contenus. À la date des présentes Conditions, ces limites sont de 12 clips d'exercice, 2 entraînements et 1 Pack partagé. Les limites en vigueur sont affichées dans l'Application." },
-        { "c": "La réception et l'importation d'un Pack ne sont soumises à aucune limite et ne requièrent aucun Abonnement." },
-        { "c": "Le Développeur se réserve le droit d'ajuster les limites de la version gratuite ainsi que le périmètre de l'Abonnement. Ces ajustements ne produisent effet que pour l'avenir et n'entraînent la suppression d'aucun contenu déjà créé par l'Utilisateur." }
+        {
+          "c": "L'Application peut être utilisée sans Abonnement, sous réserve de limites quantitatives applicables à la création de contenus. À la date des présentes Conditions, ces limites sont de 12 clips d'exercice, 2 entraînements et 1 Pack partagé. Les limites en vigueur sont affichées dans l'Application."
+        },
+        {
+          "c": "La réception et l'importation d'un Pack ne sont soumises à aucune limite et ne requièrent aucun Abonnement."
+        },
+        {
+          "c": "Le Développeur se réserve le droit d'ajuster les limites de la version gratuite ainsi que le périmètre de l'Abonnement. Ces ajustements ne produisent effet que pour l'avenir et n'entraînent la suppression d'aucun contenu déjà créé par l'Utilisateur."
+        }
       ]
     },
     {
       "h": "Usage acceptable",
       "blocks": [
-        { "p": "L'Utilisateur s'interdit :" },
-        { "ul": [
-          "de décompiler, de désassembler ou de soumettre l'Application à de l'ingénierie inverse, ou de tenter d'en reconstituer le code source, sauf dans la mesure où ces actes sont expressément autorisés par une disposition légale impérative ;",
-          "de contourner, de désactiver ou d'altérer de quelque manière que ce soit la signature des Packs, le chiffrement, le verrouillage sur un destinataire ou le mécanisme d'expiration, ni d'aider un tiers à le faire ;",
-          "d'utiliser l'Application pour stocker, traiter ou transmettre des contenus illicites ;",
-          "de dénaturer la paternité d'un Pack ou d'usurper l'identité d'autrui ;",
-          "d'utiliser l'Application d'une manière qui porte atteinte aux droits de tiers ou qui contrevient à la loi applicable."
-        ] },
-        { "c": "Tout manquement au présent article constitue une inexécution substantielle des présentes Conditions." }
+        {
+          "p": "L'Utilisateur s'interdit :"
+        },
+        {
+          "ul": [
+            "de décompiler, de désassembler ou de soumettre l'Application à de l'ingénierie inverse, ou de tenter d'en reconstituer le code source, sauf dans la mesure où ces actes sont expressément autorisés par une disposition légale impérative ;",
+            "de contourner, de désactiver ou d'altérer de quelque manière que ce soit la signature des Packs, le chiffrement, le verrouillage sur un destinataire ou le mécanisme d'expiration, ni d'aider un tiers à le faire ;",
+            "d'utiliser l'Application pour stocker, traiter ou transmettre des contenus illicites ;",
+            "de dénaturer la paternité d'un Pack ou d'usurper l'identité d'autrui ;",
+            "d'utiliser l'Application d'une manière qui porte atteinte aux droits de tiers ou qui contrevient à la loi applicable."
+          ]
+        },
+        {
+          "c": "Tout manquement au présent article constitue une inexécution substantielle des présentes Conditions."
+        }
       ]
     },
     {
       "h": "Stockage des données et sauvegardes",
       "blocks": [
-        { "c": "L'Application conserve l'ensemble des données localement sur l'appareil de l'Utilisateur. Le Développeur n'exploite aucun serveur sur lequel le Contenu Utilisateur serait stocké et n'en détient par conséquent aucune copie." },
-        { "c": "La perte, la réinitialisation, le remplacement ou la réparation de l'appareil, de même que la suppression de l'Application, entraînent la perte irrémédiable des données stockées localement." },
-        { "c": "L'Utilisateur est seul responsable de la création et de la conservation des sauvegardes. Le fichier de sauvegarde exporté par l'Application permet la restauration intégrale de la bibliothèque et doit être conservé en lieu sûr." },
-        { "c": "Le traitement des données à caractère personnel est régi par la **[[Politique de confidentialité|../]]**, qui fait partie intégrante des présentes Conditions." }
+        {
+          "c": "L'Application conserve l'ensemble des données localement sur l'appareil de l'Utilisateur. Le Développeur n'exploite aucun serveur sur lequel le Contenu Utilisateur serait stocké et n'en détient par conséquent aucune copie."
+        },
+        {
+          "c": "La perte, la réinitialisation, le remplacement ou la réparation de l'appareil, de même que la suppression de l'Application, entraînent la perte irrémédiable des données stockées localement."
+        },
+        {
+          "c": "L'Utilisateur est seul responsable de la création et de la conservation des sauvegardes. Le fichier de sauvegarde exporté par l'Application permet la restauration intégrale de la bibliothèque et doit être conservé en lieu sûr."
+        },
+        {
+          "c": "Le traitement des données à caractère personnel est régi par la **[[Politique de confidentialité|../]]**, qui fait partie intégrante des présentes Conditions."
+        }
       ]
     },
     {
       "h": "Propriété intellectuelle",
       "blocks": [
-        { "c": "L'Application, son code source, son design, son interface utilisateur, son nom, son logo et l'ensemble des éléments associés sont protégés par le droit d'auteur et par les autres droits de propriété intellectuelle et demeurent la propriété exclusive du Développeur." },
-        { "c": "Les présentes Conditions n'emportent aucun transfert de droit de propriété intellectuelle au profit de l'Utilisateur au-delà de la licence concédée à l'article 4." },
-        { "c": "Les composants tiers intégrés à l'Application demeurent soumis à leurs propres conditions de licence." }
+        {
+          "c": "L'Application, son code source, son design, son interface utilisateur, son nom, son logo et l'ensemble des éléments associés sont protégés par le droit d'auteur et par les autres droits de propriété intellectuelle et demeurent la propriété exclusive du Développeur."
+        },
+        {
+          "c": "Les présentes Conditions n'emportent aucun transfert de droit de propriété intellectuelle au profit de l'Utilisateur au-delà de la licence concédée à l'article 4."
+        },
+        {
+          "c": "Les composants tiers intégrés à l'Application demeurent soumis à leurs propres conditions de licence."
+        }
       ]
     },
     {
       "h": "Disponibilité, modification et cessation",
       "blocks": [
-        { "c": "Le Développeur peut modifier l'Application, ajouter ou supprimer des fonctionnalités et publier des mises à jour à sa discrétion." },
-        { "c": "Le Développeur peut cesser de distribuer l'Application ou d'en assurer le support. Dans ce cas, l'Application continue de fonctionner sur l'appareil de l'Utilisateur tant que la version installée demeure compatible avec le système d'exploitation, et les données de l'Utilisateur y demeurent conservées." },
-        { "c": "L'Application dépend d'iOS et de services exploités par Apple. Les modifications apportées par Apple au système d'exploitation, à l'App Store ou à StoreKit sont susceptibles d'affecter le fonctionnement de l'Application et échappent au contrôle du Développeur." },
-        { "c": "Le Développeur ne garantit pas que l'Application fonctionnera sans interruption ni erreur." }
+        {
+          "c": "Le Développeur peut modifier l'Application, ajouter ou supprimer des fonctionnalités et publier des mises à jour à sa discrétion."
+        },
+        {
+          "c": "Le Développeur peut cesser de distribuer l'Application ou d'en assurer le support. Dans ce cas, l'Application continue de fonctionner sur l'appareil de l'Utilisateur tant que la version installée demeure compatible avec le système d'exploitation, et les données de l'Utilisateur y demeurent conservées."
+        },
+        {
+          "c": "L'Application dépend d'iOS et de services exploités par Apple. Les modifications apportées par Apple au système d'exploitation, à l'App Store ou à StoreKit sont susceptibles d'affecter le fonctionnement de l'Application et échappent au contrôle du Développeur."
+        },
+        {
+          "c": "Le Développeur ne garantit pas que l'Application fonctionnera sans interruption ni erreur."
+        }
       ]
     },
     {
       "h": "Exclusion de garantie",
       "blocks": [
-        { "c": "Dans toute la mesure permise par la loi applicable, l'Application est fournie « en l'état » et « selon disponibilité », sans garantie d'aucune sorte, expresse, implicite ou légale, y compris, sans que cette énumération soit limitative, toute garantie implicite de qualité marchande, d'adéquation à un usage particulier, d'exactitude ou d'absence de contrefaçon." },
-        { "c": "Aucune information ni aucun conseil donné par le Développeur, oralement ou par écrit, ne crée de garantie qui ne soit expressément prévue par les présentes Conditions." },
-        { "c": "Certains ressorts n'autorisent pas l'exclusion des garanties implicites. Dans ces ressorts, les exclusions prévues au présent article ne s'appliquent que dans la mesure permise par la loi, et les droits légaux impératifs dont l'Utilisateur bénéficie en qualité de consommateur demeurent réservés." }
+        {
+          "c": "Dans toute la mesure permise par la loi applicable, l'Application est fournie « en l'état » et « selon disponibilité », sans garantie d'aucune sorte, expresse, implicite ou légale, y compris, sans que cette énumération soit limitative, toute garantie implicite de qualité marchande, d'adéquation à un usage particulier, d'exactitude ou d'absence de contrefaçon."
+        },
+        {
+          "c": "Aucune information ni aucun conseil donné par le Développeur, oralement ou par écrit, ne crée de garantie qui ne soit expressément prévue par les présentes Conditions."
+        },
+        {
+          "c": "Certains ressorts n'autorisent pas l'exclusion des garanties implicites. Dans ces ressorts, les exclusions prévues au présent article ne s'appliquent que dans la mesure permise par la loi, et les droits légaux impératifs dont l'Utilisateur bénéficie en qualité de consommateur demeurent réservés."
+        }
       ]
     },
     {
       "h": "Limitation de responsabilité",
       "blocks": [
-        { "c": "Dans toute la mesure permise par la loi applicable, le Développeur n'est pas responsable des dommages indirects, accessoires, spéciaux, consécutifs ou punitifs, ni du manque à gagner, de la perte d'activité, de la perte de données ou de la perte d'une chance, résultant de l'utilisation ou de l'impossibilité d'utiliser l'Application ou s'y rapportant." },
-        { "c": "Le Développeur n'est pas responsable des blessures ou atteintes à la santé résultant de la manière dont l'Utilisateur s'entraîne, du comportement d'un Destinataire, ni de la perte de données causée par une défaillance de l'appareil, une suppression, un défaut du système d'exploitation ou l'absence de sauvegarde." },
-        { "c": "Aucune stipulation des présentes Conditions n'exclut ni ne limite la responsabilité en cas de décès ou de dommage corporel causé par une négligence, en cas de dol ou de manœuvre frauduleuse, ni aucune autre responsabilité qui ne peut être exclue ou limitée en vertu de la loi applicable." },
-        { "c": "Lorsque la responsabilité ne peut être exclue, la responsabilité globale du Développeur au titre de l'ensemble des réclamations est limitée au montant acquitté par l'Utilisateur au titre de l'Application et de tout Abonnement au cours des douze mois précédant le fait générateur de la réclamation." }
+        {
+          "c": "Dans toute la mesure permise par la loi applicable, le Développeur n'est pas responsable des dommages indirects, accessoires, spéciaux, consécutifs ou punitifs, ni du manque à gagner, de la perte d'activité, de la perte de données ou de la perte d'une chance, résultant de l'utilisation ou de l'impossibilité d'utiliser l'Application ou s'y rapportant."
+        },
+        {
+          "c": "Le Développeur n'est pas responsable des blessures ou atteintes à la santé résultant de la manière dont l'Utilisateur s'entraîne, du comportement d'un Destinataire, ni de la perte de données causée par une défaillance de l'appareil, une suppression, un défaut du système d'exploitation ou l'absence de sauvegarde."
+        },
+        {
+          "c": "Aucune stipulation des présentes Conditions n'exclut ni ne limite la responsabilité en cas de décès ou de dommage corporel causé par une négligence, en cas de dol ou de manœuvre frauduleuse, ni aucune autre responsabilité qui ne peut être exclue ou limitée en vertu de la loi applicable."
+        },
+        {
+          "c": "Lorsque la responsabilité ne peut être exclue, la responsabilité globale du Développeur au titre de l'ensemble des réclamations est limitée au montant acquitté par l'Utilisateur au titre de l'Application et de tout Abonnement au cours des douze mois précédant le fait générateur de la réclamation."
+        }
       ]
     },
     {
       "h": "Garantie et indemnisation",
       "blocks": [
-        { "c": "L'Utilisateur garantit le Développeur et le relève indemne de toute réclamation de tiers, responsabilité, perte, dommage, coût ou frais, y compris les honoraires d'avocat raisonnables, trouvant leur origine dans le Contenu Utilisateur, dans la transmission d'un Pack, dans un manquement de l'Utilisateur aux présentes Conditions ou dans une contravention de l'Utilisateur à la loi applicable ou aux droits de tiers." }
+        {
+          "c": "L'Utilisateur garantit le Développeur et le relève indemne de toute réclamation de tiers, responsabilité, perte, dommage, coût ou frais, y compris les honoraires d'avocat raisonnables, trouvant leur origine dans le Contenu Utilisateur, dans la transmission d'un Pack, dans un manquement de l'Utilisateur aux présentes Conditions ou dans une contravention de l'Utilisateur à la loi applicable ou aux droits de tiers."
+        }
       ]
     },
     {
       "h": "Durée et résiliation",
       "blocks": [
-        { "c": "Les présentes Conditions demeurent en vigueur tant que l'Utilisateur utilise l'Application." },
-        { "c": "L'Utilisateur peut y mettre fin à tout moment en cessant d'utiliser l'Application et en la supprimant. La suppression de l'Application n'emporte pas résiliation de l'Abonnement, lequel doit être résilié séparément auprès de l'App Store." },
-        { "c": "Le Développeur peut résilier la licence concédée au titre des présentes Conditions avec effet immédiat en cas d'inexécution substantielle de celles-ci par l'Utilisateur." },
-        { "c": "Les stipulations relatives au Contenu Utilisateur, à la propriété intellectuelle, à l'exclusion de garantie, à la limitation de responsabilité, à la garantie et à l'indemnisation ainsi qu'au droit applicable survivent à la résiliation." }
+        {
+          "c": "Les présentes Conditions demeurent en vigueur tant que l'Utilisateur utilise l'Application."
+        },
+        {
+          "c": "L'Utilisateur peut y mettre fin à tout moment en cessant d'utiliser l'Application et en la supprimant. La suppression de l'Application n'emporte pas résiliation de l'Abonnement, lequel doit être résilié séparément auprès de l'App Store."
+        },
+        {
+          "c": "Le Développeur peut résilier la licence concédée au titre des présentes Conditions avec effet immédiat en cas d'inexécution substantielle de celles-ci par l'Utilisateur."
+        },
+        {
+          "c": "Les stipulations relatives au Contenu Utilisateur, à la propriété intellectuelle, à l'exclusion de garantie, à la limitation de responsabilité, à la garantie et à l'indemnisation ainsi qu'au droit applicable survivent à la résiliation."
+        }
       ]
     },
     {
       "h": "Droit applicable et différends",
       "blocks": [
-        { "c": "Les présentes Conditions sont régies par le droit de l'Ukraine, à l'exclusion de ses règles de conflit de lois et de la Convention des Nations unies sur les contrats de vente internationale de marchandises." },
-        { "c": "Lorsque l'Utilisateur est un consommateur ayant sa résidence habituelle dans un autre État, les dispositions impératives de protection des consommateurs du droit de cet État demeurent applicables et l'Utilisateur conserve le droit de saisir les juridictions de son lieu de résidence." },
-        { "c": "Les parties s'efforcent de régler à l'amiable tout différend avant d'engager une procédure. Une demande en ce sens est adressée au Développeur à l'adresse indiquée au dernier article des présentes Conditions." }
+        {
+          "c": "Les présentes Conditions sont régies par le droit de l'Ukraine, à l'exclusion de ses règles de conflit de lois et de la Convention des Nations unies sur les contrats de vente internationale de marchandises."
+        },
+        {
+          "c": "Lorsque l'Utilisateur est un consommateur ayant sa résidence habituelle dans un autre État, les dispositions impératives de protection des consommateurs du droit de cet État demeurent applicables et l'Utilisateur conserve le droit de saisir les juridictions de son lieu de résidence."
+        },
+        {
+          "c": "Les parties s'efforcent de régler à l'amiable tout différend avant d'engager une procédure. Une demande en ce sens est adressée au Développeur à l'adresse indiquée au dernier article des présentes Conditions."
+        }
       ]
     },
     {
       "h": "Modification des présentes Conditions",
       "blocks": [
-        { "c": "Le Développeur peut modifier les présentes Conditions, notamment afin de tenir compte des évolutions de l'Application, de la loi applicable ou de la politique de l'App Store." },
-        { "c": "La version en vigueur est publiée à la présente adresse et porte la date de son entrée en vigueur. Les modifications substantielles font en outre l'objet d'une notification dans l'Application." },
-        { "c": "La poursuite de l'utilisation de l'Application après l'entrée en vigueur d'une modification vaut acceptation des Conditions modifiées. L'Utilisateur qui ne les accepte pas doit cesser d'utiliser l'Application." }
+        {
+          "c": "Le Développeur peut modifier les présentes Conditions, notamment afin de tenir compte des évolutions de l'Application, de la loi applicable ou de la politique de l'App Store."
+        },
+        {
+          "c": "La version en vigueur est publiée à la présente adresse et porte la date de son entrée en vigueur. Les modifications substantielles font en outre l'objet d'une notification dans l'Application."
+        },
+        {
+          "c": "La poursuite de l'utilisation de l'Application après l'entrée en vigueur d'une modification vaut acceptation des Conditions modifiées. L'Utilisateur qui ne les accepte pas doit cesser d'utiliser l'Application."
+        }
       ]
     },
     {
       "h": "Stipulations diverses",
       "blocks": [
-        { "c": "Si l'une des stipulations des présentes Conditions était déclarée nulle ou inapplicable, les autres stipulations conserveraient leur plein effet et la stipulation nulle serait remplacée par une stipulation valable dont la finalité économique serait la plus proche possible." },
-        { "c": "Le fait pour le Développeur de ne pas exercer un droit résultant des présentes Conditions, ou de l'exercer tardivement, ne vaut pas renonciation à ce droit." },
-        { "c": "L'Utilisateur ne peut céder ni transférer les droits et obligations qu'il tient des présentes Conditions. Le Développeur peut les céder dans le cadre d'un transfert de l'Application." },
-        { "c": "Les présentes Conditions, la Politique de confidentialité et le Contrat de licence d'utilisateur final d'application sous licence d'Apple constituent l'intégralité de l'accord des parties relatif à l'Application et se substituent à tout accord antérieur portant sur celle-ci." },
-        { "c": "Les présentes Conditions sont rédigées en anglais. Les traductions ne sont fournies qu'à titre de commodité ; en cas de divergence, la version anglaise prévaut." }
+        {
+          "c": "Si l'une des stipulations des présentes Conditions était déclarée nulle ou inapplicable, les autres stipulations conserveraient leur plein effet et la stipulation nulle serait remplacée par une stipulation valable dont la finalité économique serait la plus proche possible."
+        },
+        {
+          "c": "Le fait pour le Développeur de ne pas exercer un droit résultant des présentes Conditions, ou de l'exercer tardivement, ne vaut pas renonciation à ce droit."
+        },
+        {
+          "c": "L'Utilisateur ne peut céder ni transférer les droits et obligations qu'il tient des présentes Conditions. Le Développeur peut les céder dans le cadre d'un transfert de l'Application."
+        },
+        {
+          "c": "Les présentes Conditions, la Politique de confidentialité et le Contrat de licence d'utilisateur final d'application sous licence d'Apple constituent l'intégralité de l'accord des parties relatif à l'Application et se substituent à tout accord antérieur portant sur celle-ci."
+        },
+        {
+          "c": "Les présentes Conditions sont rédigées en anglais. Les traductions ne sont fournies qu'à titre de commodité ; en cas de divergence, la version anglaise prévaut."
+        }
       ]
     },
     {
       "h": "Contact",
       "blocks": [
-        { "c": "Les questions, notifications et demandes relatives aux présentes Conditions sont adressées au Développeur par courrier électronique à l'adresse [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20terms]]." }
+        {
+          "c": "Les questions, notifications et demandes relatives aux présentes Conditions sont adressées au Développeur par courrier électronique à l'adresse [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20terms]]."
+        }
       ]
     }
   ]

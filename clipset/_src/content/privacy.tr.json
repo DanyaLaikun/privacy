@@ -4,187 +4,305 @@
   "docTitle": "Gizlilik Politikası — Clipset",
   "kicker": "Clipset",
   "title": "Gizlilik Politikası",
-  "updated": "Sürüm 1.0 · 12 Eylül 2026 tarihinden itibaren yürürlüktedir",
+  "updated": "Sürüm 1.1 · 12 Eylül 2026 tarihinden itibaren yürürlüktedir",
   "otherLabel": "Kullanım Koşulları",
-  "footer": "Clipset · Gizlilik Politikası · Sürüm 1.0",
+  "footer": "Clipset · Gizlilik Politikası · Sürüm 1.1",
   "lead": "İşbu Gizlilik Politikası (\"Politika\"), Clipset mobil uygulamasıyla bağlantılı olarak kişisel verilerin ne şekilde ele alındığını düzenler. Politika, Kullanım Koşullarının ayrılmaz bir parçasını oluşturur ve Kullanım Koşullarıyla aynı biçimde bağlayıcıdır. İçeriğinin kısa olmasının tek bir sebebi vardır: Uygulama; hesap olmaksızın, Geliştiriciye ait sunucular olmaksızın ve analiz araçları olmaksızın çalışır, dolayısıyla hiçbir kişisel veri toplanmaz.",
   "sections": [
     {
       "h": "Tanımlar",
       "blocks": [
-        { "p": "Kullanım Koşullarında tanımlanan ifadeler, işbu Politikada da aynı anlamı taşır. Bunlara ek olarak:" },
-        { "ul": [
-          "**Kişisel veri**, kimliği belirli veya belirlenebilir bir gerçek kişiye ilişkin her türlü bilgiyi ifade eder.",
-          "**İşleme**, toplama, saklama, kullanma, aktarma ve silme dâhil olmak üzere kişisel veriler üzerinde gerçekleştirilen her türlü işlemi ifade eder.",
-          "**Veri sorumlusu**, kişisel verilerin işlenme amaçlarını ve vasıtalarını belirleyen gerçek veya tüzel kişiyi ifade eder.",
-          "**Cihaz**, Kullanıcının Uygulamayı kurduğu iPhone'u veya Apple markalı diğer cihazı ifade eder.",
-          "**Yerel depo**, işletim sistemi tarafından Cihazda Uygulamaya tahsis edilen ve işletim sistemince korunan saklama alanını ifade eder."
-        ] }
+        {
+          "p": "Kullanım Koşullarında tanımlanan ifadeler, işbu Politikada da aynı anlamı taşır. Bunlara ek olarak:"
+        },
+        {
+          "ul": [
+            "**Kişisel veri**, kimliği belirli veya belirlenebilir bir gerçek kişiye ilişkin her türlü bilgiyi ifade eder.",
+            "**İşleme**, toplama, saklama, kullanma, aktarma ve silme dâhil olmak üzere kişisel veriler üzerinde gerçekleştirilen her türlü işlemi ifade eder.",
+            "**Veri sorumlusu**, kişisel verilerin işlenme amaçlarını ve vasıtalarını belirleyen gerçek veya tüzel kişiyi ifade eder.",
+            "**Cihaz**, Kullanıcının Uygulamayı kurduğu iPhone'u veya Apple markalı diğer cihazı ifade eder.",
+            "**Yerel depo**, işletim sistemi tarafından Cihazda Uygulamaya tahsis edilen ve işletim sistemince korunan saklama alanını ifade eder."
+          ]
+        }
       ]
     },
     {
       "h": "Geliştiricinin kimliği ve iletişim bilgileri",
       "blocks": [
-        { "c": "Uygulama, Kullanım Koşullarının 3. maddesi anlamında Uygulamadan sorumlu olan bağımsız bir geliştirici (\"Geliştirici\") tarafından geliştirilmekte ve dağıtılmaktadır." },
-        { "c": "İşbu Politikaya ilişkin tüm sorular, bildirimler ve talepler, [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]] adresine elektronik posta yoluyla Geliştiriciye iletilir. Başvurular bizzat Geliştirici tarafından yanıtlanır." },
-        { "c": "Kişisel verilerin sistematik biçimde işlenmesi söz konusu olmadığından Geliştirici bir veri koruma görevlisi atamamıştır ve atamakla yükümlü de değildir." }
+        {
+          "c": "Uygulama, Kullanım Koşullarının 3. maddesi anlamında Uygulamadan sorumlu olan bağımsız bir geliştirici (\"Geliştirici\") tarafından geliştirilmekte ve dağıtılmaktadır."
+        },
+        {
+          "c": "İşbu Politikaya ilişkin tüm sorular, bildirimler ve talepler, [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]] adresine elektronik posta yoluyla Geliştiriciye iletilir. Başvurular bizzat Geliştirici tarafından yanıtlanır."
+        },
+        {
+          "c": "Kişisel verilerin sistematik biçimde işlenmesi söz konusu olmadığından Geliştirici bir veri koruma görevlisi atamamıştır ve atamakla yükümlü de değildir."
+        }
       ]
     },
     {
       "h": "Kapsam",
       "blocks": [
-        { "c": "İşbu Politika, Uygulamaya ve Uygulamanın kullanılmasından doğan her türlü veriye uygulanır." },
-        { "c": "İşbu Politika; Kullanıcının bir Paketi veya yedeği aktarmak üzere seçtiği hizmetlere, App Store'a ve üçüncü kişilere ait başkaca hiçbir ürüne uygulanmaz. Bu hizmetler, kendi sağlayıcılarının gizlilik bildirimlerine tabidir." },
-        { "c": "İşbu Politika, Alıcının Kullanıcıdan aldığı içeriği ne şekilde ele aldığına uygulanmaz. Bir Paket aktarıldıktan sonra o Paketin sonraki akıbeti, Geliştiricinin kontrolü ve işbu Politikanın kapsamı dışında kalır." }
+        {
+          "c": "İşbu Politika, Uygulamaya ve Uygulamanın kullanılmasından doğan her türlü veriye uygulanır."
+        },
+        {
+          "c": "İşbu Politika; Kullanıcının bir Paketi veya yedeği aktarmak üzere seçtiği hizmetlere, App Store'a ve üçüncü kişilere ait başkaca hiçbir ürüne uygulanmaz. Bu hizmetler, kendi sağlayıcılarının gizlilik bildirimlerine tabidir."
+        },
+        {
+          "c": "İşbu Politika, Alıcının Kullanıcıdan aldığı içeriği ne şekilde ele aldığına uygulanmaz. Bir Paket aktarıldıktan sonra o Paketin sonraki akıbeti, Geliştiricinin kontrolü ve işbu Politikanın kapsamı dışında kalır."
+        }
       ]
     },
     {
       "h": "Yerel işleme ilkesi",
       "blocks": [
-        { "note": "Geliştirici hiçbir kişisel veri toplamaz, Kullanıcı İçeriğinin saklandığı herhangi bir sunucu işletmez ve Cihazda tutulan verilere erişmek bakımından hiçbir teknik imkâna sahip değildir." },
-        { "c": "Uygulamanın kullanılması sonucunda oluşan tüm veriler Cihazdaki Yerel depoya yazılır ve orada kalır." },
-        { "c": "Uygulama; kayıt, hesap, elektronik posta adresi veya Kullanıcıya ait başkaca bir tanımlayıcı gerektirmez." },
-        { "c": "Bu itibarla, Cihazda tutulan veriler bakımından işlemenin amaçlarını ve vasıtalarını yalnızca Kullanıcı belirler. Geliştirici bu veriler bakımından veri sorumlusu sıfatıyla hareket etmez ve Uygulamanın olağan işleyişi sırasında Kullanıcıya ait hiçbir kişisel veri Geliştiriciye aktarılmaz." },
-        { "c": "Uygulama; hiçbir veri kategorisinin toplanmadığını ve hiçbir izleme alan adının bulunmadığını beyan eden bir gizlilik bildirim dosyasıyla (privacy manifest) dağıtılır. Bu beyan, App Store ürün sayfasında \"Uygulama Gizliliği\" başlığı altında yer alır ve işbu Politikadan bağımsız olarak orada doğrulanabilir." }
+        {
+          "note": "Geliştirici hiçbir kişisel veri toplamaz, Kullanıcı İçeriğinin saklandığı herhangi bir sunucu işletmez ve Cihazda tutulan verilere erişmek bakımından hiçbir teknik imkâna sahip değildir."
+        },
+        {
+          "c": "Uygulamanın kullanılması sonucunda oluşan tüm veriler Cihazdaki Yerel depoya yazılır ve orada kalır."
+        },
+        {
+          "c": "Uygulama; kayıt, hesap, elektronik posta adresi veya Kullanıcıya ait başkaca bir tanımlayıcı gerektirmez."
+        },
+        {
+          "c": "Bu itibarla, Cihazda tutulan veriler bakımından işlemenin amaçlarını ve vasıtalarını yalnızca Kullanıcı belirler. Geliştirici bu veriler bakımından veri sorumlusu sıfatıyla hareket etmez ve Uygulamanın olağan işleyişi sırasında Kullanıcıya ait hiçbir kişisel veri Geliştiriciye aktarılmaz."
+        },
+        {
+          "c": "Uygulama; hiçbir veri kategorisinin toplanmadığını ve hiçbir izleme alan adının bulunmadığını beyan eden bir gizlilik bildirim dosyasıyla (privacy manifest) dağıtılır. Bu beyan, App Store ürün sayfasında \"Uygulama Gizliliği\" başlığı altında yer alır ve işbu Politikadan bağımsız olarak orada doğrulanabilir."
+        }
       ]
     },
     {
       "h": "Cihazda tutulan veri kategorileri",
       "blocks": [
-        { "p": "Aşağıdaki kategoriler Yerel depoya yazılır ve Geliştiriciye aktarılmaz:" },
-        { "ul": [
-          "**Egzersiz klipleri** — Kullanıcının içe aktardığı ve kırptığı video dosyaları ile bunların kapak görselleri.",
-          "**Egzersiz bilgileri** — adlandırma, kas grubu, ekipman, notlar, tekrar sayısı, yük ve dinlenme süresi.",
-          "**Programlar ve antrenmanlar** — Kullanıcının haftalık planı ve bu plan içindeki egzersiz sıralaması.",
-          "**Seans geçmişi** — tamamlanan seanslar, bunların tarihleri ve Kullanıcının kaydettiği setler.",
-          "**Gelişim fotoğrafları** — Uygulama aracılığıyla çekilen fotoğraflar, bunların tarihleri ve girilmiş olması hâlinde vücut ağırlığı.",
-          "**Ayarlar** — ölçü birimleri, dinlenme süresi, ses, oynatma tercihleri ve yazar adı.",
-          "**İmzalama anahtarı** — Clipset kimliğinin türetildiği, işletim sisteminin anahtar zincirinde (Keychain) tutulan ve Cihazdan çıkmayacak biçimde saklanan kriptografik anahtar."
-        ] },
-        { "c": "Gelişim fotoğrafları ve egzersiz klipleri kişisel veri niteliği taşıyabilir; gelişim fotoğrafları ayrıca sağlığa ilişkin olabilir. Bunlar münhasıran Cihazda tutulur; Geliştirici ne bu dosyaları ne de bunlardan türetilen herhangi bir bilgiyi alır." },
-        { "c": "Uygulamanın silinmesi, işbu maddede sayılan tüm kategorileri Cihazdan kaldırır." }
+        {
+          "p": "Aşağıdaki kategoriler Yerel depoya yazılır ve Geliştiriciye aktarılmaz:"
+        },
+        {
+          "ul": [
+            "**Egzersiz klipleri** — Kullanıcının içe aktardığı ve kırptığı video dosyaları ile bunların kapak görselleri.",
+            "**Egzersiz bilgileri** — adlandırma, kas grubu, ekipman, notlar, tekrar sayısı, yük ve dinlenme süresi.",
+            "**Programlar ve antrenmanlar** — Kullanıcının haftalık planı ve bu plan içindeki egzersiz sıralaması.",
+            "**Seans geçmişi** — tamamlanan seanslar, bunların tarihleri ve Kullanıcının kaydettiği setler.",
+            "**Gelişim fotoğrafları** — Uygulama aracılığıyla çekilen fotoğraflar, bunların tarihleri ve girilmiş olması hâlinde vücut ağırlığı.",
+            "**Ayarlar** — ölçü birimleri, dinlenme süresi, ses, oynatma tercihleri ve yazar adı.",
+            "**İmza anahtarı** — Clipset ID'nin türetildiği, işletim sisteminin anahtar zincirinde (Keychain) tutulan kriptografik anahtar. Kullanıcı Ayarlar'da iCloud eşitlemesini etkinleştirmedikçe Cihazda kalır; etkinleştirildiğinde Apple, anahtarı Kullanıcının kendi cihazları arasında uçtan uca şifreli iCloud Anahtar Zinciri üzerinden eşitler."
+          ]
+        },
+        {
+          "c": "Gelişim fotoğrafları ve egzersiz klipleri kişisel veri niteliği taşıyabilir; gelişim fotoğrafları ayrıca sağlığa ilişkin olabilir. Bunlar münhasıran Cihazda tutulur; Geliştirici ne bu dosyaları ne de bunlardan türetilen herhangi bir bilgiyi alır."
+        },
+        {
+          "c": "Uygulamanın silinmesi, işbu maddede sayılan tüm kategorileri Cihazdan kaldırır."
+        }
       ]
     },
     {
       "h": "Uygulamanın kurduğu ağ bağlantıları",
       "blocks": [
-        { "c": "Uygulama kendi adına tek bir bağlantı kurar. Açılışta apple.com adresine gövdesiz bir istek gönderir ve yanıttan yalnızca tarih ve saat bilgisini okur." },
-        { "c": "Bu bağlantının amacı, güvenilir bir güncel zaman bilgisi elde etmek ve böylece son kullanma tarihine tabi bir Paketin, Cihazın saati değiştirilmek suretiyle yeniden kullanılabilir hâle getirilmesini önlemektir. Bir hukuki sebebin arandığı hâllerde hukuki sebep, anılan mekanizmanın bütünlüğü konusunda Geliştiricinin ve Paketi aktaran Kullanıcının meşru menfaatidir." },
-        { "c": "İstek; hiçbir içerik, hiçbir tanımlayıcı ve Kullanıcıya ilişkin hiçbir bilgi taşımaz. İnternet üzerinden gönderilen her istekte olduğu gibi, isteği alan sunucu bağlantının kurulduğu internet protokolü adresini görür; Uygulama bunun ötesinde hiçbir şey iletmez ve yanıttan tarih dışında hiçbir şeyi saklamaz." },
-        { "c": "Bu bağlantı dışında Uygulama, yalnızca bir Aboneliğin durumunu tespit etmek amacıyla App Store ile iletişim kurar. Uygulama; Geliştirici tarafından işletilen hiçbir sunucuya bağlanmaz, Geliştiriciye ait hiçbir arayüzü kullanmaz ve veri aktaran hiçbir üçüncü kişi yazılım geliştirme kiti içermez." }
+        {
+          "c": "Uygulama kendi adına tek bir bağlantı kurar. Açılışta apple.com adresine gövdesiz bir istek gönderir ve yanıttan yalnızca tarih ve saat bilgisini okur."
+        },
+        {
+          "c": "Bu bağlantının amacı, güvenilir bir güncel zaman bilgisi elde etmek ve böylece son kullanma tarihine tabi bir Paketin, Cihazın saati değiştirilmek suretiyle yeniden kullanılabilir hâle getirilmesini önlemektir. Bir hukuki sebebin arandığı hâllerde hukuki sebep, anılan mekanizmanın bütünlüğü konusunda Geliştiricinin ve Paketi aktaran Kullanıcının meşru menfaatidir."
+        },
+        {
+          "c": "İstek; hiçbir içerik, hiçbir tanımlayıcı ve Kullanıcıya ilişkin hiçbir bilgi taşımaz. İnternet üzerinden gönderilen her istekte olduğu gibi, isteği alan sunucu bağlantının kurulduğu internet protokolü adresini görür; Uygulama bunun ötesinde hiçbir şey iletmez ve yanıttan tarih dışında hiçbir şeyi saklamaz."
+        },
+        {
+          "c": "Bu bağlantı dışında Uygulama, yalnızca bir Aboneliğin durumunu tespit etmek amacıyla App Store ile iletişim kurar. Uygulama; Geliştirici tarafından işletilen hiçbir sunucuya bağlanmaz, Geliştiriciye ait hiçbir arayüzü kullanmaz ve veri aktaran hiçbir üçüncü kişi yazılım geliştirme kiti içermez."
+        }
       ]
     },
     {
       "h": "Kullanıcının kendi iradesiyle aktardığı veriler",
       "blocks": [
-        { "c": "Veriler, Cihazdan yalnızca Kullanıcının açık talimatı üzerine ve yalnızca Kullanıcının belirlediği bir hedefe çıkar." },
-        { "c": "**Paketler.** Paylaşım sırasında Uygulama tek bir `.clipset` dosyası oluşturur ve bu dosyayı işletim sisteminin paylaşım arayüzüne verir. Hedefi Kullanıcı belirler. Dosya doğrudan bu hedefe aktarılır ve Geliştiriciye ait hiçbir altyapıdan geçmez. Paket; Kullanıcının seçtiği Kullanıcı İçeriğini, yazar adını, herkese açık Clipset kimliğini ve yapılandırılmış olması hâlinde bir son kullanma tarihi ile alıcı kilidini barındırır. Paketin medyası şifrelenir ve Paket, Cihazda tutulan anahtarla imzalanır." },
-        { "c": "**Yedekler.** Kullanıcının dışa aktardığı yedek; Kullanıcının seçtiği bir konumda saklanan, kitaplığın, antrenmanların ve geçmişin tümünü barındıran olağan bir dosyadır. Bu dosyayı elinde bulunduran herkes kitaplığı geri yükleyebilir; dosyanın güvenli biçimde saklanmasından Kullanıcı sorumludur." },
-        { "c": "**Gelişim videoları.** Hızlandırılmış video, yalnızca Kullanıcının kaydedilmesini talep etmesi hâlinde Kullanıcının kendi fotoğraf kitaplığına yazılır." },
-        { "note": "Bir Paket veya yedek Cihazdan çıktıktan sonra, gönderildiği hizmetin ya da kişinin gizlilik bildirimine tabi olur; artık işbu Politikaya tabi değildir." }
+        {
+          "c": "Veriler, Cihazdan yalnızca Kullanıcının açık talimatı üzerine ve yalnızca Kullanıcının belirlediği bir hedefe çıkar."
+        },
+        {
+          "c": "**Paketler.** Paylaşım sırasında Uygulama tek bir `.clipset` dosyası oluşturur ve bu dosyayı işletim sisteminin paylaşım arayüzüne verir. Hedefi Kullanıcı belirler. Dosya doğrudan bu hedefe aktarılır ve Geliştiriciye ait hiçbir altyapıdan geçmez. Paket; Kullanıcının seçtiği Kullanıcı İçeriğini, yazar adını, herkese açık Clipset kimliğini ve yapılandırılmış olması hâlinde bir son kullanma tarihi ile alıcı kilidini barındırır. Paketin medyası şifrelenir ve Paket, Cihazda tutulan anahtarla imzalanır."
+        },
+        {
+          "c": "**Yedekler.** Kullanıcının dışa aktardığı yedek; Kullanıcının seçtiği bir konumda saklanan, kitaplığın, antrenmanların ve geçmişin tümünü barındıran olağan bir dosyadır. Bu dosyayı elinde bulunduran herkes kitaplığı geri yükleyebilir; dosyanın güvenli biçimde saklanmasından Kullanıcı sorumludur."
+        },
+        {
+          "c": "**Gelişim videoları.** Hızlandırılmış video, yalnızca Kullanıcının kaydedilmesini talep etmesi hâlinde Kullanıcının kendi fotoğraf kitaplığına yazılır."
+        },
+        {
+          "note": "Bir Paket veya yedek Cihazdan çıktıktan sonra, gönderildiği hizmetin ya da kişinin gizlilik bildirimine tabi olur; artık işbu Politikaya tabi değildir."
+        }
       ]
     },
     {
       "h": "Cihazda talep edilen izinler",
       "blocks": [
-        { "p": "Uygulama aşağıdaki izinleri, her birini yalnızca karşısında belirtilen amaçla kullanmak ve başka hiçbir amaçla kullanmamak üzere talep eder:" },
-        { "ul": [
-          "**Kamera** — yalnızca, doğrudan Yerel depoya yazılan bir gelişim fotoğrafı çekmek için. Uygulama, kamera aracılığıyla video kaydetmez ve mikrofona erişmez.",
-          "**Fotoğraf kitaplığına ekleme** — yalnızca, Kullanıcının talebi üzerine dışa aktarılan bir gelişim videosunu kaydetmek için. İzin ekleme ile sınırlıdır: Uygulama kitaplığa dosya koyabilir, ancak kitaplığı okuyamaz veya içinde gezinemez.",
-          "**Medya seçimi** — bir video içe aktarılırken işletim sistemi kendi seçim arayüzünü sunar ve yalnızca seçilen öğeyi aktarır. Uygulama, kitaplığın geri kalanına erişim elde etmez."
-        ] },
-        { "c": "Uygulama; konum, kişiler, takvim, sağlık kayıtları, mikrofon veya bildirimler için erişim talep etmez ve bunları gerektiren hiçbir işlevi bulunmaz." },
-        { "c": "İzinlerin her biri, işletim sisteminin ayarlarından dilenildiği zaman geri alınabilir. İznin geri alınması ilgili işlevi devre dışı bırakır ve hâlihazırda saklanmış verileri etkilemez." }
+        {
+          "p": "Uygulama aşağıdaki izinleri, her birini yalnızca karşısında belirtilen amaçla kullanmak ve başka hiçbir amaçla kullanmamak üzere talep eder:"
+        },
+        {
+          "ul": [
+            "**Kamera** — yalnızca, doğrudan Yerel depoya yazılan bir gelişim fotoğrafı çekmek için. Uygulama, kamera aracılığıyla video kaydetmez ve mikrofona erişmez.",
+            "**Fotoğraf kitaplığına ekleme** — yalnızca, Kullanıcının talebi üzerine dışa aktarılan bir gelişim videosunu kaydetmek için. İzin ekleme ile sınırlıdır: Uygulama kitaplığa dosya koyabilir, ancak kitaplığı okuyamaz veya içinde gezinemez.",
+            "**Medya seçimi** — bir video içe aktarılırken işletim sistemi kendi seçim arayüzünü sunar ve yalnızca seçilen öğeyi aktarır. Uygulama, kitaplığın geri kalanına erişim elde etmez."
+          ]
+        },
+        {
+          "c": "Uygulama; konum, kişiler, takvim, sağlık kayıtları, mikrofon veya bildirimler için erişim talep etmez ve bunları gerektiren hiçbir işlevi bulunmaz."
+        },
+        {
+          "c": "İzinlerin her biri, işletim sisteminin ayarlarından dilenildiği zaman geri alınabilir. İznin geri alınması ilgili işlevi devre dışı bırakır ve hâlihazırda saklanmış verileri etkilemez."
+        }
       ]
     },
     {
       "h": "Abonelikler ve ödeme verileri",
       "blocks": [
-        { "c": "Clipset Pro, App Store aracılığıyla Apple tarafından satılır. Satın alma işlemi, kayıtlı satıcı sıfatıyla hareket eden Apple'ın sistemleri içinde tümüyle gerçekleşir." },
-        { "c": "Geliştirici; hiçbir ödeme kartı bilgisini, hiçbir fatura adresini ve hiçbir Apple Hesabı tanımlayıcısını almaz. Uygulama, StoreKit'ten yalnızca bir Aboneliğin hâlihazırda etkin olup olmadığına dair bir bilgi edinir ve bu bilgi Cihazda kalır." },
-        { "c": "Ödeme verilerinin işlenmesi, Apple'ın gizlilik bildirimine tabidir." }
+        {
+          "c": "Clipset Pro, App Store aracılığıyla Apple tarafından satılır. Satın alma işlemi, kayıtlı satıcı sıfatıyla hareket eden Apple'ın sistemleri içinde tümüyle gerçekleşir."
+        },
+        {
+          "c": "Geliştirici; hiçbir ödeme kartı bilgisini, hiçbir fatura adresini ve hiçbir Apple Hesabı tanımlayıcısını almaz. Uygulama, StoreKit'ten yalnızca bir Aboneliğin hâlihazırda etkin olup olmadığına dair bir bilgi edinir ve bu bilgi Cihazda kalır."
+        },
+        {
+          "c": "Ödeme verilerinin işlenmesi, Apple'ın gizlilik bildirimine tabidir."
+        }
       ]
     },
     {
       "h": "İzleme, analiz ve reklamın bulunmaması",
       "blocks": [
-        { "p": "Uygulama aşağıdakileri içermez ve kullanmaz:" },
-        { "ul": [
-          "ister kendisine ait ister üçüncü kişilere ait olsun, herhangi bir türde analiz altyapısı;",
-          "reklam, reklam ağları veya reklam tanımlayıcıları;",
-          "cihaz parmak izi çıkarma ya da uygulamalar arası veyahut siteler arası izlemeye yönelik herhangi bir teknik;",
-          "profilleme, puanlama ya da hukuki veya benzer nitelikte önemli sonuçlar doğuran otomatik karar verme;",
-          "üçüncü kişilere veri aktaran atıf, çökme raporlama veya pazarlama amaçlı yazılım geliştirme kitleri."
-        ] },
-        { "c": "Hiçbir kişisel veri satılmaz, bağlamlar arası davranışsal reklam amacıyla paylaşılmaz veya veri simsarlarına açıklanmaz. Zaten bu nitelikte hiçbir veri tutulmamaktadır." }
+        {
+          "p": "Uygulama aşağıdakileri içermez ve kullanmaz:"
+        },
+        {
+          "ul": [
+            "ister kendisine ait ister üçüncü kişilere ait olsun, herhangi bir türde analiz altyapısı;",
+            "reklam, reklam ağları veya reklam tanımlayıcıları;",
+            "cihaz parmak izi çıkarma ya da uygulamalar arası veyahut siteler arası izlemeye yönelik herhangi bir teknik;",
+            "profilleme, puanlama ya da hukuki veya benzer nitelikte önemli sonuçlar doğuran otomatik karar verme;",
+            "üçüncü kişilere veri aktaran atıf, çökme raporlama veya pazarlama amaçlı yazılım geliştirme kitleri."
+          ]
+        },
+        {
+          "c": "Hiçbir kişisel veri satılmaz, bağlamlar arası davranışsal reklam amacıyla paylaşılmaz veya veri simsarlarına açıklanmaz. Zaten bu nitelikte hiçbir veri tutulmamaktadır."
+        }
       ]
     },
     {
       "h": "Veri alıcıları ve yurt dışına aktarım",
       "blocks": [
-        { "c": "Hiçbir kişisel veri toplanmadığından Geliştirici, hiçbir alıcıya kişisel veri açıklamaz." },
-        { "c": "Geliştirici tarafından kişisel verilerin yurt dışına aktarılması söz konusu değildir. 6. maddede açıklanan bağlantı, Apple tarafından işletilen bir sunucuya yöneliktir ve her internet bağlantısının doğasında bulunan internet protokolü adresi dışında hiçbir kişisel veri iletmez." },
-        { "c": "Kullanıcının bir Paketi veya yedeği başka bir ülkedeki bir Alıcıya aktarması hâlinde bu aktarım, Kullanıcı tarafından ve Kullanıcının sorumluluğu altında gerçekleştirilir ve kullanılan hizmetin koşullarına tabidir." }
+        {
+          "c": "Hiçbir kişisel veri toplanmadığından Geliştirici, hiçbir alıcıya kişisel veri açıklamaz."
+        },
+        {
+          "c": "Geliştirici tarafından kişisel verilerin yurt dışına aktarılması söz konusu değildir. 6. maddede açıklanan bağlantı, Apple tarafından işletilen bir sunucuya yöneliktir ve her internet bağlantısının doğasında bulunan internet protokolü adresi dışında hiçbir kişisel veri iletmez."
+        },
+        {
+          "c": "Kullanıcının bir Paketi veya yedeği başka bir ülkedeki bir Alıcıya aktarması hâlinde bu aktarım, Kullanıcı tarafından ve Kullanıcının sorumluluğu altında gerçekleştirilir ve kullanılan hizmetin koşullarına tabidir."
+        }
       ]
     },
     {
       "h": "Saklama ve silme",
       "blocks": [
-        { "c": "Veriler, Kullanıcı onları tuttuğu sürece Cihazda saklanır. Geliştirici hiçbir veri tutmadığından herhangi bir saklama süresi uygulamaz." },
-        { "p": "Kullanıcı, verileri dilenildiği zaman aşağıdaki yollarla silebilir:" },
-        { "ul": [
-          "**Geçmişi temizle**, seans geçmişini kaldırır; klipler ve antrenmanlar korunur;",
-          "**İlerleme fotoğraflarını sil**, tüm gelişim fotoğraflarını dosyalarıyla birlikte kaldırır;",
-          "tek bir klibin, antrenmanın veya fotoğrafın silinmesi, onu ve ona bağlı medyayı derhâl kaldırır;",
-          "Uygulamanın silinmesi, kitaplığın tamamını, tüm fotoğrafları ve tüm ayarları Cihazdan siler."
-        ] },
-        { "c": "Silme işlemi derhâl gerçekleşir ve geri dönüşü yoktur. Geliştirici hiçbir kopya tutmadığından, Geliştiriciye silme talebi iletilmesine gerek bulunmamakta ve böyle bir talep Geliştirici tarafında yerine getirilememektedir." }
+        {
+          "c": "Veriler, Kullanıcı onları tuttuğu sürece Cihazda saklanır. Geliştirici hiçbir veri tutmadığından herhangi bir saklama süresi uygulamaz."
+        },
+        {
+          "p": "Kullanıcı, verileri dilenildiği zaman aşağıdaki yollarla silebilir:"
+        },
+        {
+          "ul": [
+            "**Geçmişi temizle**, seans geçmişini kaldırır; klipler ve antrenmanlar korunur;",
+            "**İlerleme fotoğraflarını sil**, tüm gelişim fotoğraflarını dosyalarıyla birlikte kaldırır;",
+            "tek bir klibin, antrenmanın veya fotoğrafın silinmesi, onu ve ona bağlı medyayı derhâl kaldırır;",
+            "Uygulamanın silinmesi, kitaplığın tamamını, tüm fotoğrafları ve tüm ayarları Cihazdan siler."
+          ]
+        },
+        {
+          "c": "Silme işlemi derhâl gerçekleşir ve geri dönüşü yoktur. Geliştirici hiçbir kopya tutmadığından, Geliştiriciye silme talebi iletilmesine gerek bulunmamakta ve böyle bir talep Geliştirici tarafında yerine getirilememektedir."
+        }
       ]
     },
     {
       "h": "Güvenlik",
       "blocks": [
-        { "c": "Veriler, işletim sistemi tarafından Uygulamaya tahsis edilen saklama alanında tutulur; bu alan, anılan sistemin dosya koruma mekanizmalarıyla ve bir parola belirlenmiş olması hâlinde Cihazın şifrelemesiyle korunur." },
-        { "c": "İmzalama anahtarı, erişilebilirliğini Cihazla sınırlayan bir öznitelikle anahtar zincirinde (Keychain) tutulur ve başka hiçbir cihaza veya hizmete eşitlenmez." },
-        { "c": "Paket içindeki medya şifrelenir ve Paket, yazarının Alıcı tarafından doğrulanabilmesi için imzalanır." },
-        { "c": "Hiçbir güvenlik sistemi mutlak değildir. Parola kullanımı dâhil olmak üzere Cihazın kendi güvenliğinden ve dışa aktarılan yedeklerin güvenli biçimde saklanmasından Kullanıcı sorumludur." }
+        {
+          "c": "Veriler, işletim sistemi tarafından Uygulamaya tahsis edilen saklama alanında tutulur; bu alan, anılan sistemin dosya koruma mekanizmalarıyla ve bir parola belirlenmiş olması hâlinde Cihazın şifrelemesiyle korunur."
+        },
+        {
+          "c": "İmza anahtarı, anahtar zincirinde onu Cihazla sınırlayan bir erişilebilirlik özniteliğiyle tutulur. Kullanıcı Ayarlar'da iCloud eşitlemesini etkinleştirirse anahtar, Kullanıcının kendi cihazları arasında yalnızca Apple'ın uçtan uca şifrelediği iCloud Anahtar Zinciri üzerinden eşitlenir; Geliştirici hiçbir aşamada anahtara erişemez."
+        },
+        {
+          "c": "Paket içindeki medya şifrelenir ve Paket, yazarının Alıcı tarafından doğrulanabilmesi için imzalanır."
+        },
+        {
+          "c": "Hiçbir güvenlik sistemi mutlak değildir. Parola kullanımı dâhil olmak üzere Cihazın kendi güvenliğinden ve dışa aktarılan yedeklerin güvenli biçimde saklanmasından Kullanıcı sorumludur."
+        }
       ]
     },
     {
       "h": "İlgili kişinin hakları",
       "blocks": [
-        { "c": "Kullanıcının Avrupa Ekonomik Alanı'nda, Birleşik Krallık'ta, İsviçre'de, Ukrayna'da, Brezilya'da, Kaliforniya Eyaleti'nde veya bu hakları tanıyan başka bir ülkede ya da bölgede yerleşik olması hâlinde Kullanıcı, kendisine ilişkin kişisel veriler bakımından erişim, düzeltme, silme, işlemenin kısıtlanması, veri taşınabilirliği ve itiraz haklarını haizdir." },
-        { "c": "Bu haklar, Uygulamanın tasarımı gereği karşılanmaktadır. Geliştirici, Kullanıcıya ilişkin kişisel verileri ne aldığından ne de sakladığından, bu veriler bakımından veri sorumlusu değildir. Veriler Cihazda bulunur; Kullanıcı bu verileri dilediği zaman ve herhangi bir üçüncü kişiye başvurmaksızın inceleyebilir, düzeltebilir, yedek biçiminde dışa aktarabilir ve silebilir." },
-        { "c": "Bu sebeple, Geliştiricinin elinde bulunmayan veriler bakımından Geliştiriciye yöneltilecek hiçbir talep yerine getirilemez. Bununla birlikte Geliştiriciye talep iletilebilir; Geliştirici bu talebi yanıtlar ve durumu açıklar." }
+        {
+          "c": "Kullanıcının Avrupa Ekonomik Alanı'nda, Birleşik Krallık'ta, İsviçre'de, Ukrayna'da, Brezilya'da, Kaliforniya Eyaleti'nde veya bu hakları tanıyan başka bir ülkede ya da bölgede yerleşik olması hâlinde Kullanıcı, kendisine ilişkin kişisel veriler bakımından erişim, düzeltme, silme, işlemenin kısıtlanması, veri taşınabilirliği ve itiraz haklarını haizdir."
+        },
+        {
+          "c": "Bu haklar, Uygulamanın tasarımı gereği karşılanmaktadır. Geliştirici, Kullanıcıya ilişkin kişisel verileri ne aldığından ne de sakladığından, bu veriler bakımından veri sorumlusu değildir. Veriler Cihazda bulunur; Kullanıcı bu verileri dilediği zaman ve herhangi bir üçüncü kişiye başvurmaksızın inceleyebilir, düzeltebilir, yedek biçiminde dışa aktarabilir ve silebilir."
+        },
+        {
+          "c": "Bu sebeple, Geliştiricinin elinde bulunmayan veriler bakımından Geliştiriciye yöneltilecek hiçbir talep yerine getirilemez. Bununla birlikte Geliştiriciye talep iletilebilir; Geliştirici bu talebi yanıtlar ve durumu açıklar."
+        }
       ]
     },
     {
       "h": "Şikâyet",
       "blocks": [
-        { "c": "Kullanıcı, yerleşim yerinin veya iş yerinin bulunduğu ülkedeki veri koruma denetim makamına, Türkiye bakımından Kişisel Verileri Koruma Kurulu'na şikâyette bulunma hakkını haizdir." },
-        { "c": "Kullanıcının, konunun doğrudan çözüme kavuşturulabilmesi için öncelikle Geliştiriciye başvurması tavsiye edilir; ancak bu yönde bir yükümlülüğü bulunmamaktadır." }
+        {
+          "c": "Kullanıcı, yerleşim yerinin veya iş yerinin bulunduğu ülkedeki veri koruma denetim makamına, Türkiye bakımından Kişisel Verileri Koruma Kurulu'na şikâyette bulunma hakkını haizdir."
+        },
+        {
+          "c": "Kullanıcının, konunun doğrudan çözüme kavuşturulabilmesi için öncelikle Geliştiriciye başvurması tavsiye edilir; ancak bu yönde bir yükümlülüğü bulunmamaktadır."
+        }
       ]
     },
     {
       "h": "Çocuklar",
       "blocks": [
-        { "c": "Uygulama, 13 yaşından küçük çocuklara yönelik değildir ve onların kullanımı için tasarlanmamıştır." },
-        { "c": "Hiç kimseden bilerek kişisel veri toplanmamakta, dolayısıyla bir çocuktan da kişisel veri toplanmamaktadır. Buna rağmen ebeveynin veya yasal temsilcinin dikkate alınması gereken bir hususun bulunduğu kanaatinde olması hâlinde, 2. maddede belirtilen adres üzerinden Geliştiriciye ulaşılabilir." }
+        {
+          "c": "Uygulama, 13 yaşından küçük çocuklara yönelik değildir ve onların kullanımı için tasarlanmamıştır."
+        },
+        {
+          "c": "Hiç kimseden bilerek kişisel veri toplanmamakta, dolayısıyla bir çocuktan da kişisel veri toplanmamaktadır. Buna rağmen ebeveynin veya yasal temsilcinin dikkate alınması gereken bir hususun bulunduğu kanaatinde olması hâlinde, 2. maddede belirtilen adres üzerinden Geliştiriciye ulaşılabilir."
+        }
       ]
     },
     {
       "h": "İşbu Politikada değişiklik",
       "blocks": [
-        { "c": "Geliştirici, özellikle Uygulamanın işlevselliğinin değişmesi veya yürürlükteki mevzuatın gerektirmesi hâlinde işbu Politikada değişiklik yapabilir." },
-        { "c": "Yürürlükteki sürüm bu adreste yayımlanır ve yürürlüğe giriş tarihini taşır. Esaslı değişiklikler ayrıca Uygulama içinde bildirilir." },
-        { "c": "Bir değişikliğin yürürlüğe girmesinden sonra Uygulamanın kullanılmaya devam edilmesi, değiştirilmiş Politikanın bilindiğinin kabulü anlamına gelir." },
-        { "c": "İşbu Politika İngilizce olarak düzenlenmiştir. Çeviriler yalnızca kolaylık sağlamak amacıyla sunulmuştur; farklılık hâlinde İngilizce metin esas alınır." }
+        {
+          "c": "Geliştirici, özellikle Uygulamanın işlevselliğinin değişmesi veya yürürlükteki mevzuatın gerektirmesi hâlinde işbu Politikada değişiklik yapabilir."
+        },
+        {
+          "c": "Yürürlükteki sürüm bu adreste yayımlanır ve yürürlüğe giriş tarihini taşır. Esaslı değişiklikler ayrıca Uygulama içinde bildirilir."
+        },
+        {
+          "c": "Bir değişikliğin yürürlüğe girmesinden sonra Uygulamanın kullanılmaya devam edilmesi, değiştirilmiş Politikanın bilindiğinin kabulü anlamına gelir."
+        },
+        {
+          "c": "İşbu Politika İngilizce olarak düzenlenmiştir. Çeviriler yalnızca kolaylık sağlamak amacıyla sunulmuştur; farklılık hâlinde İngilizce metin esas alınır."
+        }
       ]
     },
     {
       "h": "İletişim",
       "blocks": [
-        { "c": "İşbu Politikadan doğan sorular ve talepler [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]] adresine iletilir. Kullanıcı ile Geliştirici arasındaki ilişkinin diğer tüm yönleri **[[Kullanım Koşulları|./terms/]]** ile düzenlenir." }
+        {
+          "c": "İşbu Politikadan doğan sorular ve talepler [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]] adresine iletilir. Kullanıcı ile Geliştirici arasındaki ilişkinin diğer tüm yönleri **[[Kullanım Koşulları|./terms/]]** ile düzenlenir."
+        }
       ]
     }
   ]

@@ -4,187 +4,305 @@
   "docTitle": "Politique de confidentialité — Clipset",
   "kicker": "Clipset",
   "title": "Politique de confidentialité",
-  "updated": "Version 1.0 · En vigueur à compter du 12 septembre 2026",
+  "updated": "Version 1.1 · En vigueur à compter du 12 septembre 2026",
   "otherLabel": "Conditions Générales d'Utilisation",
-  "footer": "Clipset · Politique de confidentialité · Version 1.0",
+  "footer": "Clipset · Politique de confidentialité · Version 1.1",
   "lead": "La présente politique de confidentialité (la « Politique ») expose la manière dont les données à caractère personnel sont traitées dans le cadre de l'application mobile Clipset. Elle fait partie intégrante des Conditions Générales d'Utilisation et présente le même caractère contraignant. Sa brièveté tient à une seule raison : l'Application fonctionne sans compte, sans serveur du Développeur et sans outil de mesure d'audience, de sorte qu'aucune donnée à caractère personnel n'est collectée.",
   "sections": [
     {
       "h": "Définitions",
       "blocks": [
-        { "p": "Les termes définis dans les Conditions Générales d'Utilisation ont la même signification dans la présente Politique. En outre :" },
-        { "ul": [
-          "**Données à caractère personnel** désigne toute information se rapportant à une personne physique identifiée ou identifiable.",
-          "**Traitement** désigne toute opération portant sur des données à caractère personnel, notamment la collecte, la conservation, l'utilisation, la communication et l'effacement.",
-          "**Responsable du traitement** désigne la personne physique ou morale qui détermine les finalités et les moyens du traitement de données à caractère personnel.",
-          "**Appareil** désigne l'iPhone ou tout autre appareil de marque Apple sur lequel l'Utilisateur a installé l'Application.",
-          "**Stockage local** désigne l'espace de stockage alloué à l'Application sur l'Appareil par le système d'exploitation et protégé par celui-ci."
-        ] }
+        {
+          "p": "Les termes définis dans les Conditions Générales d'Utilisation ont la même signification dans la présente Politique. En outre :"
+        },
+        {
+          "ul": [
+            "**Données à caractère personnel** désigne toute information se rapportant à une personne physique identifiée ou identifiable.",
+            "**Traitement** désigne toute opération portant sur des données à caractère personnel, notamment la collecte, la conservation, l'utilisation, la communication et l'effacement.",
+            "**Responsable du traitement** désigne la personne physique ou morale qui détermine les finalités et les moyens du traitement de données à caractère personnel.",
+            "**Appareil** désigne l'iPhone ou tout autre appareil de marque Apple sur lequel l'Utilisateur a installé l'Application.",
+            "**Stockage local** désigne l'espace de stockage alloué à l'Application sur l'Appareil par le système d'exploitation et protégé par celui-ci."
+          ]
+        }
       ]
     },
     {
       "h": "Identité du Développeur et coordonnées",
       "blocks": [
-        { "c": "L'Application est développée et distribuée par un développeur indépendant (le « Développeur »), qui est responsable de l'Application au sens de l'article 3 des Conditions Générales d'Utilisation." },
-        { "c": "Les questions, notifications et demandes relatives à la présente Politique sont adressées au Développeur par courrier électronique à l'adresse [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]]. Il y est répondu personnellement par le Développeur." },
-        { "c": "Le Développeur n'a pas désigné de délégué à la protection des données et n'est pas tenu de le faire, aucun traitement systématique de données à caractère personnel n'étant mis en œuvre." }
+        {
+          "c": "L'Application est développée et distribuée par un développeur indépendant (le « Développeur »), qui est responsable de l'Application au sens de l'article 3 des Conditions Générales d'Utilisation."
+        },
+        {
+          "c": "Les questions, notifications et demandes relatives à la présente Politique sont adressées au Développeur par courrier électronique à l'adresse [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]]. Il y est répondu personnellement par le Développeur."
+        },
+        {
+          "c": "Le Développeur n'a pas désigné de délégué à la protection des données et n'est pas tenu de le faire, aucun traitement systématique de données à caractère personnel n'étant mis en œuvre."
+        }
       ]
     },
     {
       "h": "Champ d'application",
       "blocks": [
-        { "c": "La présente Politique s'applique à l'Application ainsi qu'à toutes les données issues de son utilisation." },
-        { "c": "La présente Politique ne s'applique ni aux services par l'intermédiaire desquels l'Utilisateur choisit de transmettre un Pack ou une sauvegarde, ni à l'App Store, ni à aucun autre produit tiers. Ces services sont régis par les politiques de confidentialité de leurs fournisseurs respectifs." },
-        { "c": "La présente Politique ne s'applique pas à la manière dont un Destinataire traite les contenus reçus de l'Utilisateur. Dès lors qu'un Pack a été transmis, son traitement ultérieur échappe au contrôle du Développeur et au champ d'application de la présente Politique." }
+        {
+          "c": "La présente Politique s'applique à l'Application ainsi qu'à toutes les données issues de son utilisation."
+        },
+        {
+          "c": "La présente Politique ne s'applique ni aux services par l'intermédiaire desquels l'Utilisateur choisit de transmettre un Pack ou une sauvegarde, ni à l'App Store, ni à aucun autre produit tiers. Ces services sont régis par les politiques de confidentialité de leurs fournisseurs respectifs."
+        },
+        {
+          "c": "La présente Politique ne s'applique pas à la manière dont un Destinataire traite les contenus reçus de l'Utilisateur. Dès lors qu'un Pack a été transmis, son traitement ultérieur échappe au contrôle du Développeur et au champ d'application de la présente Politique."
+        }
       ]
     },
     {
       "h": "Principe du traitement local",
       "blocks": [
-        { "note": "Le Développeur ne collecte aucune donnée à caractère personnel, n'exploite aucun serveur sur lequel le Contenu Utilisateur serait stocké et ne dispose d'aucun moyen technique d'accéder aux données conservées sur l'Appareil." },
-        { "c": "L'ensemble des données produites par l'utilisation de l'Application est inscrit dans le Stockage local de l'Appareil et y demeure." },
-        { "c": "L'Application ne requiert aucune inscription, aucun compte, aucune adresse de courrier électronique ni aucun autre identifiant de l'Utilisateur." },
-        { "c": "En conséquence, s'agissant des données conservées sur l'Appareil, l'Utilisateur détermine seul les finalités et les moyens du traitement. Le Développeur n'agit pas en qualité de responsable du traitement de ces données et aucune donnée à caractère personnel de l'Utilisateur n'est transmise au Développeur dans le fonctionnement ordinaire de l'Application." },
-        { "c": "L'Application est distribuée avec un manifeste de confidentialité ne déclarant aucune catégorie de données collectées ni aucun domaine de suivi. Cette déclaration est reproduite sur la fiche produit de l'App Store sous la rubrique « Confidentialité de l'app » et peut y être vérifiée indépendamment de la présente Politique." }
+        {
+          "note": "Le Développeur ne collecte aucune donnée à caractère personnel, n'exploite aucun serveur sur lequel le Contenu Utilisateur serait stocké et ne dispose d'aucun moyen technique d'accéder aux données conservées sur l'Appareil."
+        },
+        {
+          "c": "L'ensemble des données produites par l'utilisation de l'Application est inscrit dans le Stockage local de l'Appareil et y demeure."
+        },
+        {
+          "c": "L'Application ne requiert aucune inscription, aucun compte, aucune adresse de courrier électronique ni aucun autre identifiant de l'Utilisateur."
+        },
+        {
+          "c": "En conséquence, s'agissant des données conservées sur l'Appareil, l'Utilisateur détermine seul les finalités et les moyens du traitement. Le Développeur n'agit pas en qualité de responsable du traitement de ces données et aucune donnée à caractère personnel de l'Utilisateur n'est transmise au Développeur dans le fonctionnement ordinaire de l'Application."
+        },
+        {
+          "c": "L'Application est distribuée avec un manifeste de confidentialité ne déclarant aucune catégorie de données collectées ni aucun domaine de suivi. Cette déclaration est reproduite sur la fiche produit de l'App Store sous la rubrique « Confidentialité de l'app » et peut y être vérifiée indépendamment de la présente Politique."
+        }
       ]
     },
     {
       "h": "Catégories de données conservées sur l'Appareil",
       "blocks": [
-        { "p": "Les catégories suivantes sont inscrites dans le Stockage local et ne sont pas transmises au Développeur :" },
-        { "ul": [
-          "**Clips d'exercice** — les fichiers vidéo importés et découpés par l'Utilisateur, ainsi que leurs images de couverture.",
-          "**Détails des exercices** — dénomination, groupe musculaire, matériel, notes, répétitions, charge et temps de repos.",
-          "**Programmes et entraînements** — le plan hebdomadaire de l'Utilisateur et l'enchaînement des exercices qu'il comporte.",
-          "**Historique des séances** — les séances effectuées, leurs dates et les séries consignées par l'Utilisateur.",
-          "**Photos de progression** — les photographies prises au moyen de l'Application, avec leurs dates et, lorsqu'il est renseigné, le poids corporel.",
-          "**Réglages** — unités de mesure, temps de repos, son, préférences de lecture et nom d'auteur.",
-          "**Clé de signature** — la clé cryptographique dont dérive l'identifiant Clipset, conservée dans le trousseau (Keychain) du système d'exploitation et stockée de manière à ne pas quitter l'Appareil."
-        ] },
-        { "c": "Les photos de progression et les clips d'exercice sont susceptibles de constituer des données à caractère personnel, les photos de progression pouvant en outre se rapporter à la santé. Elles sont conservées exclusivement sur l'Appareil et le Développeur ne reçoit ni les fichiers ni aucune information qui en serait tirée." },
-        { "c": "La suppression de l'Application efface de l'Appareil l'ensemble des catégories énumérées au présent article." }
+        {
+          "p": "Les catégories suivantes sont inscrites dans le Stockage local et ne sont pas transmises au Développeur :"
+        },
+        {
+          "ul": [
+            "**Clips d'exercice** — les fichiers vidéo importés et découpés par l'Utilisateur, ainsi que leurs images de couverture.",
+            "**Détails des exercices** — dénomination, groupe musculaire, matériel, notes, répétitions, charge et temps de repos.",
+            "**Programmes et entraînements** — le plan hebdomadaire de l'Utilisateur et l'enchaînement des exercices qu'il comporte.",
+            "**Historique des séances** — les séances effectuées, leurs dates et les séries consignées par l'Utilisateur.",
+            "**Photos de progression** — les photographies prises au moyen de l'Application, avec leurs dates et, lorsqu'il est renseigné, le poids corporel.",
+            "**Réglages** — unités de mesure, temps de repos, son, préférences de lecture et nom d'auteur.",
+            "**Clé de signature** — la clé cryptographique dont dérive le Clipset ID, conservée dans le trousseau (Keychain) du système d'exploitation. Elle reste sur l'Appareil, sauf si l'Utilisateur active la synchronisation iCloud dans les Réglages, auquel cas Apple la synchronise entre les propres appareils de l'Utilisateur via le trousseau iCloud, chiffré de bout en bout."
+          ]
+        },
+        {
+          "c": "Les photos de progression et les clips d'exercice sont susceptibles de constituer des données à caractère personnel, les photos de progression pouvant en outre se rapporter à la santé. Elles sont conservées exclusivement sur l'Appareil et le Développeur ne reçoit ni les fichiers ni aucune information qui en serait tirée."
+        },
+        {
+          "c": "La suppression de l'Application efface de l'Appareil l'ensemble des catégories énumérées au présent article."
+        }
       ]
     },
     {
       "h": "Connexions réseau établies par l'Application",
       "blocks": [
-        { "c": "L'Application établit une seule connexion qui lui soit propre. À son lancement, elle adresse à apple.com une requête dépourvue de corps et ne lit dans la réponse que la date et l'heure." },
-        { "c": "Cette connexion a pour finalité de déterminer une heure courante fiable, afin qu'un Pack assorti d'une date d'expiration ne puisse être réactivé par la modification de l'horloge de l'Appareil. La base légale, lorsqu'une telle base est requise, réside dans l'intérêt légitime du Développeur et de l'Utilisateur qui transmet le Pack à l'intégrité de ce mécanisme." },
-        { "c": "La requête ne comporte aucun contenu, aucun identifiant ni aucune information concernant l'Utilisateur. Comme pour toute requête effectuée sur internet, le serveur destinataire constate l'adresse de protocole internet depuis laquelle la connexion est établie ; l'Application ne transmet rien d'autre et ne conserve de la réponse que la date." },
-        { "c": "En dehors de cette connexion, l'Application ne communique qu'avec l'App Store, aux fins de vérifier l'état d'un Abonnement. L'Application ne contacte aucun serveur exploité par le Développeur, n'utilise aucune interface du Développeur et n'intègre aucun kit de développement logiciel tiers transmettant des données." }
+        {
+          "c": "L'Application établit une seule connexion qui lui soit propre. À son lancement, elle adresse à apple.com une requête dépourvue de corps et ne lit dans la réponse que la date et l'heure."
+        },
+        {
+          "c": "Cette connexion a pour finalité de déterminer une heure courante fiable, afin qu'un Pack assorti d'une date d'expiration ne puisse être réactivé par la modification de l'horloge de l'Appareil. La base légale, lorsqu'une telle base est requise, réside dans l'intérêt légitime du Développeur et de l'Utilisateur qui transmet le Pack à l'intégrité de ce mécanisme."
+        },
+        {
+          "c": "La requête ne comporte aucun contenu, aucun identifiant ni aucune information concernant l'Utilisateur. Comme pour toute requête effectuée sur internet, le serveur destinataire constate l'adresse de protocole internet depuis laquelle la connexion est établie ; l'Application ne transmet rien d'autre et ne conserve de la réponse que la date."
+        },
+        {
+          "c": "En dehors de cette connexion, l'Application ne communique qu'avec l'App Store, aux fins de vérifier l'état d'un Abonnement. L'Application ne contacte aucun serveur exploité par le Développeur, n'utilise aucune interface du Développeur et n'intègre aucun kit de développement logiciel tiers transmettant des données."
+        }
       ]
     },
     {
       "h": "Données transmises à l'initiative de l'Utilisateur",
       "blocks": [
-        { "c": "Les données ne quittent l'Appareil que sur instruction expresse de l'Utilisateur et uniquement vers la destination désignée par celui-ci." },
-        { "c": "**Packs.** Lors du partage, l'Application génère un fichier `.clipset` unique et le remet à l'interface de partage du système d'exploitation. L'Utilisateur désigne la destination. Le fichier est transmis directement à cette destination et ne transite par aucune infrastructure du Développeur. Un Pack contient le Contenu Utilisateur sélectionné par l'Utilisateur, le nom d'auteur, l'identifiant Clipset public et, lorsqu'ils ont été configurés, une date d'expiration et un verrouillage sur un destinataire. Ses médias sont chiffrés et le Pack est signé au moyen de la clé conservée sur l'Appareil." },
-        { "c": "**Sauvegardes.** La sauvegarde exportée par l'Utilisateur est un fichier ordinaire, conservé à l'emplacement de son choix, qui contient l'intégralité de la bibliothèque, des entraînements et de l'historique. Toute personne en possession de ce fichier est en mesure de restaurer la bibliothèque ; il appartient à l'Utilisateur de le conserver en lieu sûr." },
-        { "c": "**Vidéos de progression.** La vidéo en accéléré n'est inscrite dans la photothèque de l'Utilisateur que lorsque celui-ci en demande l'enregistrement." },
-        { "note": "Dès lors qu'un Pack ou une sauvegarde a quitté l'Appareil, il relève de la politique de confidentialité du service ou de la personne auquel il a été adressé, et non plus de la présente Politique." }
+        {
+          "c": "Les données ne quittent l'Appareil que sur instruction expresse de l'Utilisateur et uniquement vers la destination désignée par celui-ci."
+        },
+        {
+          "c": "**Packs.** Lors du partage, l'Application génère un fichier `.clipset` unique et le remet à l'interface de partage du système d'exploitation. L'Utilisateur désigne la destination. Le fichier est transmis directement à cette destination et ne transite par aucune infrastructure du Développeur. Un Pack contient le Contenu Utilisateur sélectionné par l'Utilisateur, le nom d'auteur, l'identifiant Clipset public et, lorsqu'ils ont été configurés, une date d'expiration et un verrouillage sur un destinataire. Ses médias sont chiffrés et le Pack est signé au moyen de la clé conservée sur l'Appareil."
+        },
+        {
+          "c": "**Sauvegardes.** La sauvegarde exportée par l'Utilisateur est un fichier ordinaire, conservé à l'emplacement de son choix, qui contient l'intégralité de la bibliothèque, des entraînements et de l'historique. Toute personne en possession de ce fichier est en mesure de restaurer la bibliothèque ; il appartient à l'Utilisateur de le conserver en lieu sûr."
+        },
+        {
+          "c": "**Vidéos de progression.** La vidéo en accéléré n'est inscrite dans la photothèque de l'Utilisateur que lorsque celui-ci en demande l'enregistrement."
+        },
+        {
+          "note": "Dès lors qu'un Pack ou une sauvegarde a quitté l'Appareil, il relève de la politique de confidentialité du service ou de la personne auquel il a été adressé, et non plus de la présente Politique."
+        }
       ]
     },
     {
       "h": "Autorisations demandées sur l'Appareil",
       "blocks": [
-        { "p": "L'Application demande les autorisations suivantes, chacune pour la seule finalité indiquée et à l'exclusion de toute autre :" },
-        { "ul": [
-          "**Appareil photo** — aux seules fins de prendre une photo de progression, laquelle est inscrite directement dans le Stockage local. L'Application n'enregistre aucune vidéo au moyen de l'appareil photo et n'accède pas au microphone.",
-          "**Ajout à la photothèque** — aux seules fins d'enregistrer une vidéo de progression exportée à la demande de l'Utilisateur. L'autorisation est limitée à l'ajout : l'Application peut déposer un fichier dans la photothèque, sans pouvoir la lire ni la parcourir.",
-          "**Sélection de médias** — lors de l'importation d'une vidéo, le système d'exploitation présente sa propre interface de sélection et ne transfère que l'élément sélectionné. L'Application n'obtient aucun accès au reste de la photothèque."
-        ] },
-        { "c": "L'Application ne demande accès ni à la localisation, ni aux contacts, ni au calendrier, ni aux données de santé, ni au microphone, ni aux notifications, et ne comporte aucune fonctionnalité qui les requerrait." },
-        { "c": "Chaque autorisation peut être retirée à tout moment dans les réglages du système d'exploitation. Ce retrait désactive la fonctionnalité correspondante et n'affecte aucune donnée déjà enregistrée." }
+        {
+          "p": "L'Application demande les autorisations suivantes, chacune pour la seule finalité indiquée et à l'exclusion de toute autre :"
+        },
+        {
+          "ul": [
+            "**Appareil photo** — aux seules fins de prendre une photo de progression, laquelle est inscrite directement dans le Stockage local. L'Application n'enregistre aucune vidéo au moyen de l'appareil photo et n'accède pas au microphone.",
+            "**Ajout à la photothèque** — aux seules fins d'enregistrer une vidéo de progression exportée à la demande de l'Utilisateur. L'autorisation est limitée à l'ajout : l'Application peut déposer un fichier dans la photothèque, sans pouvoir la lire ni la parcourir.",
+            "**Sélection de médias** — lors de l'importation d'une vidéo, le système d'exploitation présente sa propre interface de sélection et ne transfère que l'élément sélectionné. L'Application n'obtient aucun accès au reste de la photothèque."
+          ]
+        },
+        {
+          "c": "L'Application ne demande accès ni à la localisation, ni aux contacts, ni au calendrier, ni aux données de santé, ni au microphone, ni aux notifications, et ne comporte aucune fonctionnalité qui les requerrait."
+        },
+        {
+          "c": "Chaque autorisation peut être retirée à tout moment dans les réglages du système d'exploitation. Ce retrait désactive la fonctionnalité correspondante et n'affecte aucune donnée déjà enregistrée."
+        }
       ]
     },
     {
       "h": "Abonnements et données de paiement",
       "blocks": [
-        { "c": "Clipset Pro est vendu par Apple par l'intermédiaire de l'App Store. L'achat est intégralement réalisé au sein des systèmes d'Apple, laquelle agit en qualité de vendeur officiel." },
-        { "c": "Le Développeur ne reçoit aucune donnée de carte de paiement, aucune adresse de facturation ni aucun identifiant de compte Apple. L'Application n'obtient de StoreKit que l'indication de l'existence ou non d'un Abonnement en cours, laquelle demeure sur l'Appareil." },
-        { "c": "Le traitement des données de paiement est régi par la politique de confidentialité d'Apple." }
+        {
+          "c": "Clipset Pro est vendu par Apple par l'intermédiaire de l'App Store. L'achat est intégralement réalisé au sein des systèmes d'Apple, laquelle agit en qualité de vendeur officiel."
+        },
+        {
+          "c": "Le Développeur ne reçoit aucune donnée de carte de paiement, aucune adresse de facturation ni aucun identifiant de compte Apple. L'Application n'obtient de StoreKit que l'indication de l'existence ou non d'un Abonnement en cours, laquelle demeure sur l'Appareil."
+        },
+        {
+          "c": "Le traitement des données de paiement est régi par la politique de confidentialité d'Apple."
+        }
       ]
     },
     {
       "h": "Absence de suivi, de mesure d'audience et de publicité",
       "blocks": [
-        { "p": "L'Application ne contient ni n'utilise :" },
-        { "ul": [
-          "d'outils de mesure d'audience, de quelque nature que ce soit, qu'ils soient propriétaires ou fournis par des tiers ;",
-          "de publicité, de régies publicitaires ni d'identifiants publicitaires ;",
-          "de prise d'empreinte de l'appareil ni de technique de suivi entre applications ou entre sites ;",
-          "de profilage, de notation ni de décision automatisée produisant des effets juridiques ou des effets analogues significatifs ;",
-          "de kits de développement logiciel d'attribution, de remontée de plantages ou de marketing transmettant des données à des tiers."
-        ] },
-        { "c": "Aucune donnée à caractère personnel n'est vendue, partagée à des fins de publicité comportementale intercontextuelle, ni communiquée à des courtiers en données. Aucune donnée de cette nature n'est détenue." }
+        {
+          "p": "L'Application ne contient ni n'utilise :"
+        },
+        {
+          "ul": [
+            "d'outils de mesure d'audience, de quelque nature que ce soit, qu'ils soient propriétaires ou fournis par des tiers ;",
+            "de publicité, de régies publicitaires ni d'identifiants publicitaires ;",
+            "de prise d'empreinte de l'appareil ni de technique de suivi entre applications ou entre sites ;",
+            "de profilage, de notation ni de décision automatisée produisant des effets juridiques ou des effets analogues significatifs ;",
+            "de kits de développement logiciel d'attribution, de remontée de plantages ou de marketing transmettant des données à des tiers."
+          ]
+        },
+        {
+          "c": "Aucune donnée à caractère personnel n'est vendue, partagée à des fins de publicité comportementale intercontextuelle, ni communiquée à des courtiers en données. Aucune donnée de cette nature n'est détenue."
+        }
       ]
     },
     {
       "h": "Destinataires et transferts internationaux",
       "blocks": [
-        { "c": "Le Développeur ne communique aucune donnée à caractère personnel à un quelconque destinataire, aucune donnée à caractère personnel n'étant collectée." },
-        { "c": "Aucun transfert international de données à caractère personnel, notamment hors de l'Union européenne, n'est effectué par le Développeur. La connexion décrite à l'article 6 est adressée à un serveur exploité par Apple et ne transmet aucune donnée à caractère personnel au-delà de l'adresse de protocole internet inhérente à toute connexion internet." },
-        { "c": "Lorsque l'Utilisateur transmet un Pack ou une sauvegarde à un Destinataire situé dans un autre pays, ce transfert est effectué par l'Utilisateur et sous sa responsabilité, et il est régi par les conditions du service utilisé." }
+        {
+          "c": "Le Développeur ne communique aucune donnée à caractère personnel à un quelconque destinataire, aucune donnée à caractère personnel n'étant collectée."
+        },
+        {
+          "c": "Aucun transfert international de données à caractère personnel, notamment hors de l'Union européenne, n'est effectué par le Développeur. La connexion décrite à l'article 6 est adressée à un serveur exploité par Apple et ne transmet aucune donnée à caractère personnel au-delà de l'adresse de protocole internet inhérente à toute connexion internet."
+        },
+        {
+          "c": "Lorsque l'Utilisateur transmet un Pack ou une sauvegarde à un Destinataire situé dans un autre pays, ce transfert est effectué par l'Utilisateur et sous sa responsabilité, et il est régi par les conditions du service utilisé."
+        }
       ]
     },
     {
       "h": "Conservation et effacement",
       "blocks": [
-        { "c": "Les données sont conservées sur l'Appareil aussi longtemps que l'Utilisateur les y conserve. Le Développeur n'applique aucune durée de conservation, ne détenant aucune donnée." },
-        { "p": "L'Utilisateur peut effacer les données à tout moment par les moyens suivants :" },
-        { "ul": [
-          "**Effacer l'historique** supprime l'historique des séances et conserve les clips et les entraînements ;",
-          "**Supprimer les photos de progression** supprime l'ensemble des photos de progression ainsi que leurs fichiers ;",
-          "la suppression d'un clip, d'un entraînement ou d'une photo pris isolément l'efface immédiatement, de même que les médias qui lui sont associés ;",
-          "la suppression de l'Application efface de l'Appareil l'intégralité de la bibliothèque, l'ensemble des photos et l'ensemble des réglages."
-        ] },
-        { "c": "L'effacement est immédiat et irréversible. Le Développeur ne détenant aucune copie, aucune demande d'effacement n'a à lui être adressée et aucune demande de cette nature ne peut être exécutée de son côté." }
+        {
+          "c": "Les données sont conservées sur l'Appareil aussi longtemps que l'Utilisateur les y conserve. Le Développeur n'applique aucune durée de conservation, ne détenant aucune donnée."
+        },
+        {
+          "p": "L'Utilisateur peut effacer les données à tout moment par les moyens suivants :"
+        },
+        {
+          "ul": [
+            "**Effacer l'historique** supprime l'historique des séances et conserve les clips et les entraînements ;",
+            "**Supprimer les photos de progression** supprime l'ensemble des photos de progression ainsi que leurs fichiers ;",
+            "la suppression d'un clip, d'un entraînement ou d'une photo pris isolément l'efface immédiatement, de même que les médias qui lui sont associés ;",
+            "la suppression de l'Application efface de l'Appareil l'intégralité de la bibliothèque, l'ensemble des photos et l'ensemble des réglages."
+          ]
+        },
+        {
+          "c": "L'effacement est immédiat et irréversible. Le Développeur ne détenant aucune copie, aucune demande d'effacement n'a à lui être adressée et aucune demande de cette nature ne peut être exécutée de son côté."
+        }
       ]
     },
     {
       "h": "Sécurité",
       "blocks": [
-        { "c": "Les données sont conservées dans l'espace de stockage alloué à l'Application par le système d'exploitation, protégé par les mécanismes de protection des fichiers de ce système et, lorsqu'un code d'accès a été défini, par le chiffrement de l'Appareil." },
-        { "c": "La clé de signature est conservée dans le trousseau (Keychain) avec un attribut d'accessibilité la restreignant à l'Appareil et n'est synchronisée avec aucun autre appareil ni aucun autre service." },
-        { "c": "Les médias contenus dans un Pack sont chiffrés et chaque Pack est signé afin que son auteur puisse être vérifié par le Destinataire." },
-        { "c": "Aucun dispositif de sécurité n'est absolu. L'Utilisateur est responsable de la sécurité de l'Appareil lui-même, y compris de l'utilisation d'un code d'accès, ainsi que de la conservation en lieu sûr des sauvegardes exportées." }
+        {
+          "c": "Les données sont conservées dans l'espace de stockage alloué à l'Application par le système d'exploitation, protégé par les mécanismes de protection des fichiers de ce système et, lorsqu'un code d'accès a été défini, par le chiffrement de l'Appareil."
+        },
+        {
+          "c": "La clé de signature est conservée dans le trousseau avec un attribut d'accessibilité qui la limite à l'Appareil. Lorsque l'Utilisateur active la synchronisation iCloud dans les Réglages, la clé est synchronisée entre les propres appareils de l'Utilisateur exclusivement via le trousseau iCloud, qu'Apple chiffre de bout en bout ; le Développeur n'y a accès à aucun moment."
+        },
+        {
+          "c": "Les médias contenus dans un Pack sont chiffrés et chaque Pack est signé afin que son auteur puisse être vérifié par le Destinataire."
+        },
+        {
+          "c": "Aucun dispositif de sécurité n'est absolu. L'Utilisateur est responsable de la sécurité de l'Appareil lui-même, y compris de l'utilisation d'un code d'accès, ainsi que de la conservation en lieu sûr des sauvegardes exportées."
+        }
       ]
     },
     {
       "h": "Droits de la personne concernée",
       "blocks": [
-        { "c": "Lorsque l'Utilisateur réside dans l'Espace économique européen, au Royaume-Uni, en Suisse, en Ukraine, au Brésil, dans l'État de Californie ou sur tout autre territoire conférant de tels droits, il dispose, à l'égard des données à caractère personnel le concernant, des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition." },
-        { "c": "Ces droits sont satisfaits par la conception même de l'Application. Le Développeur n'est pas responsable du traitement des données à caractère personnel concernant l'Utilisateur, dès lors qu'il ne reçoit ni ne conserve de telles données. Les données résident sur l'Appareil, où l'Utilisateur peut à tout moment les consulter, les rectifier, les exporter sous la forme d'une sauvegarde et les effacer, sans avoir à s'adresser à un tiers." },
-        { "c": "Aucune demande adressée au Développeur ne peut donc être exécutée s'agissant de données qu'il ne détient pas. Une demande peut néanmoins lui être adressée : il y répondra et exposera la situation." }
+        {
+          "c": "Lorsque l'Utilisateur réside dans l'Espace économique européen, au Royaume-Uni, en Suisse, en Ukraine, au Brésil, dans l'État de Californie ou sur tout autre territoire conférant de tels droits, il dispose, à l'égard des données à caractère personnel le concernant, des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition."
+        },
+        {
+          "c": "Ces droits sont satisfaits par la conception même de l'Application. Le Développeur n'est pas responsable du traitement des données à caractère personnel concernant l'Utilisateur, dès lors qu'il ne reçoit ni ne conserve de telles données. Les données résident sur l'Appareil, où l'Utilisateur peut à tout moment les consulter, les rectifier, les exporter sous la forme d'une sauvegarde et les effacer, sans avoir à s'adresser à un tiers."
+        },
+        {
+          "c": "Aucune demande adressée au Développeur ne peut donc être exécutée s'agissant de données qu'il ne détient pas. Une demande peut néanmoins lui être adressée : il y répondra et exposera la situation."
+        }
       ]
     },
     {
       "h": "Réclamations",
       "blocks": [
-        { "c": "L'Utilisateur a le droit d'introduire une réclamation auprès de l'autorité de contrôle en matière de protection des données de son lieu de résidence ou de son lieu de travail." },
-        { "c": "L'Utilisateur est invité, sans y être tenu, à saisir préalablement le Développeur afin que la question puisse être traitée directement." }
+        {
+          "c": "L'Utilisateur a le droit d'introduire une réclamation auprès de l'autorité de contrôle en matière de protection des données de son lieu de résidence ou de son lieu de travail."
+        },
+        {
+          "c": "L'Utilisateur est invité, sans y être tenu, à saisir préalablement le Développeur afin que la question puisse être traitée directement."
+        }
       ]
     },
     {
       "h": "Enfants",
       "blocks": [
-        { "c": "L'Application ne s'adresse pas aux enfants âgés de moins de 13 ans et n'est pas destinée à être utilisée par eux." },
-        { "c": "Aucune donnée à caractère personnel n'est sciemment collectée auprès de quiconque et, par voie de conséquence, aucune ne l'est auprès d'un enfant. Si un parent ou un représentant légal estime néanmoins qu'une situation appelle une attention particulière, le Développeur peut être contacté à l'adresse indiquée à l'article 2." }
+        {
+          "c": "L'Application ne s'adresse pas aux enfants âgés de moins de 13 ans et n'est pas destinée à être utilisée par eux."
+        },
+        {
+          "c": "Aucune donnée à caractère personnel n'est sciemment collectée auprès de quiconque et, par voie de conséquence, aucune ne l'est auprès d'un enfant. Si un parent ou un représentant légal estime néanmoins qu'une situation appelle une attention particulière, le Développeur peut être contacté à l'adresse indiquée à l'article 2."
+        }
       ]
     },
     {
       "h": "Modification de la présente Politique",
       "blocks": [
-        { "c": "Le Développeur peut modifier la présente Politique, notamment en cas d'évolution des fonctionnalités de l'Application ou lorsque la loi applicable l'exige." },
-        { "c": "La version en vigueur est publiée à la présente adresse et porte la date de son entrée en vigueur. Les modifications substantielles font en outre l'objet d'une notification dans l'Application." },
-        { "c": "La poursuite de l'utilisation de l'Application après l'entrée en vigueur d'une modification vaut prise de connaissance de la Politique modifiée." },
-        { "c": "La présente Politique est rédigée en anglais. Les traductions ne sont fournies qu'à titre de commodité ; en cas de divergence, la version anglaise prévaut." }
+        {
+          "c": "Le Développeur peut modifier la présente Politique, notamment en cas d'évolution des fonctionnalités de l'Application ou lorsque la loi applicable l'exige."
+        },
+        {
+          "c": "La version en vigueur est publiée à la présente adresse et porte la date de son entrée en vigueur. Les modifications substantielles font en outre l'objet d'une notification dans l'Application."
+        },
+        {
+          "c": "La poursuite de l'utilisation de l'Application après l'entrée en vigueur d'une modification vaut prise de connaissance de la Politique modifiée."
+        },
+        {
+          "c": "La présente Politique est rédigée en anglais. Les traductions ne sont fournies qu'à titre de commodité ; en cas de divergence, la version anglaise prévaut."
+        }
       ]
     },
     {
       "h": "Contact",
       "blocks": [
-        { "c": "Les questions et demandes formées au titre de la présente Politique sont adressées à [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]]. Les **[[Conditions Générales d'Utilisation|./terms/]]** régissent tous les autres aspects de la relation entre l'Utilisateur et le Développeur." }
+        {
+          "c": "Les questions et demandes formées au titre de la présente Politique sont adressées à [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20privacy]]. Les **[[Conditions Générales d'Utilisation|./terms/]]** régissent tous les autres aspects de la relation entre l'Utilisateur et le Développeur."
+        }
       ]
     }
   ]

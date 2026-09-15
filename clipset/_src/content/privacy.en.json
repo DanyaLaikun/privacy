@@ -4,9 +4,9 @@
   "docTitle": "Privacy Policy — Clipset",
   "kicker": "Clipset",
   "title": "Privacy Policy",
-  "updated": "Version 1.0 · In force from 12 September 2026",
+  "updated": "Version 1.1 · In force from 12 September 2026",
   "otherLabel": "Terms of Use",
-  "footer": "Clipset · Privacy Policy · Version 1.0",
+  "footer": "Clipset · Privacy Policy · Version 1.1",
   "lead": "This Privacy Policy (the \"Policy\") sets out how personal data is handled in connection with the Clipset mobile application. It forms an integral part of the Terms of Use and is binding in the same manner. Its substance is brief for a single reason: the Application operates without accounts, without servers of the Developer and without analytics, and therefore no personal data is collected.",
   "sections": [
     {
@@ -88,7 +88,7 @@
             "**Session history** — completed sessions, their dates and the sets recorded by the User.",
             "**Progress photographs** — the photographs taken through the Application, with their dates and, where entered, body weight.",
             "**Settings** — units of measurement, rest interval, sound, playback preferences and author name.",
-            "**Signing key** — the cryptographic key from which the Clipset ID is derived, held in the Keychain of the operating system and stored so as not to leave the Device."
+            "**Signing key** — the cryptographic key from which the Clipset ID is derived, held in the Keychain of the operating system. It stays on the Device unless the User enables iCloud sync in Settings, in which case Apple synchronises it between the User's own devices through iCloud Keychain, encrypted end to end."
           ]
         },
         {
@@ -234,7 +234,7 @@
           "c": "Data is held within the storage area allocated to the Application by the operating system, protected by the file protection mechanisms of that system and, where a passcode is set, by the encryption of the Device."
         },
         {
-          "c": "The signing key is held in the Keychain with an accessibility attribute restricting it to the Device, and is not synchronised to any other device or service."
+          "c": "The signing key is held in the Keychain with an accessibility attribute restricting it to the Device. Where the User enables iCloud sync in Settings, the key is synchronised between the User's own devices exclusively through iCloud Keychain, which Apple encrypts end to end; the Developer has no access to it at any point."
         },
         {
           "c": "Media within a Pack are encrypted, and a Pack is signed so that its author may be verified by the Recipient."

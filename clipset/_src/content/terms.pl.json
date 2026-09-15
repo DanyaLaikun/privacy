@@ -4,211 +4,378 @@
   "docTitle": "Warunki korzystania — Clipset",
   "kicker": "Clipset",
   "title": "Warunki korzystania",
-  "updated": "Wersja 1.0 · Obowiązuje od 12 września 2026",
+  "updated": "Wersja 1.1 · Obowiązuje od 12 września 2026",
   "otherLabel": "Polityka prywatności",
-  "footer": "Clipset · Warunki korzystania · Wersja 1.0",
+  "footer": "Clipset · Warunki korzystania · Wersja 1.1",
   "lead": "Niniejsze Warunki korzystania (dalej „Warunki”) stanowią wiążącą umowę pomiędzy Użytkownikiem (dalej „Użytkownik”) a niezależnym deweloperem aplikacji mobilnej Clipset (dalej „Deweloper”). Regulują one pobieranie i instalację aplikacji oraz korzystanie z niej. Instalując aplikację lub korzystając z niej, Użytkownik potwierdza, że zapoznał się z niniejszymi Warunkami, rozumie je i akceptuje je w całości. Użytkownik, który nie akceptuje niniejszych Warunków, nie może instalować aplikacji ani z niej korzystać.",
   "sections": [
     {
       "h": "Definicje",
       "blocks": [
-        { "p": "Użyte w niniejszych Warunkach wyrażenia mają znaczenie określone poniżej." },
-        { "ul": [
-          "**Aplikacja** lub **Aplikacja Clipset** oznacza oprogramowanie Clipset dla systemu iOS, wraz ze wszystkimi jego wersjami, aktualizacjami, komponentami i materiałami towarzyszącymi.",
-          "**Deweloper** oznacza niezależnego dewelopera, któremu przysługują prawa do Aplikacji i który ją rozpowszechnia, a z którym można kontaktować się pod adresem tesserly.dev@gmail.com.",
-          "**Użytkownik** oznacza każdą osobę fizyczną, która instaluje Aplikację lub z niej korzysta.",
-          "**Treści Użytkownika** oznaczają filmy, obrazy, teksty, ćwiczenia, treningi, programy oraz wszelkie inne materiały, które Użytkownik importuje do Aplikacji lub tworzy w jej ramach.",
-          "**Pakiet** oznacza pojedynczy podpisany i zaszyfrowany plik `.clipset` wygenerowany przez Aplikację, zawierający Treści Użytkownika wybrane przez Użytkownika w celu przekazania ich osobie trzeciej.",
-          "**Odbiorca** oznacza osobę, której Użytkownik przekazuje Pakiet.",
-          "**Subskrypcja** oznacza Clipset Pro, czyli subskrypcję odnawianą automatycznie, rozpowszechnianą za pośrednictwem App Store.",
-          "**App Store** oznacza platformę dystrybucji cyfrowej prowadzoną przez Apple Inc. i jej spółki zależne (**Apple**)."
-        ] }
+        {
+          "p": "Użyte w niniejszych Warunkach wyrażenia mają znaczenie określone poniżej."
+        },
+        {
+          "ul": [
+            "**Aplikacja** lub **Aplikacja Clipset** oznacza oprogramowanie Clipset dla systemu iOS, wraz ze wszystkimi jego wersjami, aktualizacjami, komponentami i materiałami towarzyszącymi.",
+            "**Deweloper** oznacza niezależnego dewelopera, któremu przysługują prawa do Aplikacji i który ją rozpowszechnia, a z którym można kontaktować się pod adresem tesserly.dev@gmail.com.",
+            "**Użytkownik** oznacza każdą osobę fizyczną, która instaluje Aplikację lub z niej korzysta.",
+            "**Treści Użytkownika** oznaczają filmy, obrazy, teksty, ćwiczenia, treningi, programy oraz wszelkie inne materiały, które Użytkownik importuje do Aplikacji lub tworzy w jej ramach.",
+            "**Pakiet** oznacza pojedynczy podpisany i zaszyfrowany plik `.clipset` wygenerowany przez Aplikację, zawierający Treści Użytkownika wybrane przez Użytkownika w celu przekazania ich osobie trzeciej.",
+            "**Odbiorca** oznacza osobę, której Użytkownik przekazuje Pakiet.",
+            "**Subskrypcja** oznacza Clipset Pro, czyli subskrypcję odnawianą automatycznie, rozpowszechnianą za pośrednictwem App Store.",
+            "**App Store** oznacza platformę dystrybucji cyfrowej prowadzoną przez Apple Inc. i jej spółki zależne (**Apple**)."
+          ]
+        }
       ]
     },
     {
       "h": "Przedmiot Warunków i ich akceptacja",
       "blocks": [
-        { "c": "Aplikacja stanowi narzędzie osobiste, które umożliwia Użytkownikowi zbudowanie biblioteki ćwiczeń z własnych materiałów wideo, uporządkowanie tych materiałów w treningi i programy, prowadzenie sesji treningowych oraz rejestrowanie postępów treningowych." },
-        { "c": "Niniejsze Warunki wchodzą w życie wobec Użytkownika z dniem pierwszej instalacji Aplikacji lub pierwszego skorzystania z niej i obowiązują tak długo, jak długo Użytkownik z niej korzysta." },
-        { "c": "Akceptacja niniejszych Warunków następuje poprzez zainstalowanie Aplikacji lub korzystanie z niej. Złożenie odrębnego podpisu nie jest wymagane." },
-        { "c": "Deweloper nie świadczy usług trenerskich, nadzoru nad treningiem, układania programów treningowych ani innych usług profesjonalnych, a także nie przegląda, nie weryfikuje ani nie zatwierdza Treści Użytkownika." },
-        { "c": "Aplikacja jest przeznaczona dla osób, które ukończyły 13 lat. Użytkownik, który nie osiągnął pełnoletności zgodnie z prawem właściwym dla miejsca swojego zamieszkania, przed skorzystaniem z Aplikacji uzyskuje zgodę rodzica lub opiekuna prawnego." }
+        {
+          "c": "Aplikacja stanowi narzędzie osobiste, które umożliwia Użytkownikowi zbudowanie biblioteki ćwiczeń z własnych materiałów wideo, uporządkowanie tych materiałów w treningi i programy, prowadzenie sesji treningowych oraz rejestrowanie postępów treningowych."
+        },
+        {
+          "c": "Niniejsze Warunki wchodzą w życie wobec Użytkownika z dniem pierwszej instalacji Aplikacji lub pierwszego skorzystania z niej i obowiązują tak długo, jak długo Użytkownik z niej korzysta."
+        },
+        {
+          "c": "Akceptacja niniejszych Warunków następuje poprzez zainstalowanie Aplikacji lub korzystanie z niej. Złożenie odrębnego podpisu nie jest wymagane."
+        },
+        {
+          "c": "Deweloper nie świadczy usług trenerskich, nadzoru nad treningiem, układania programów treningowych ani innych usług profesjonalnych, a także nie przegląda, nie weryfikuje ani nie zatwierdza Treści Użytkownika."
+        },
+        {
+          "c": "Aplikacja jest przeznaczona dla osób, które ukończyły 13 lat. Użytkownik, który nie osiągnął pełnoletności zgodnie z prawem właściwym dla miejsca swojego zamieszkania, przed skorzystaniem z Aplikacji uzyskuje zgodę rodzica lub opiekuna prawnego."
+        }
       ]
     },
     {
       "h": "Relacja z Apple",
       "blocks": [
-        { "c": "Niniejsze Warunki zostają zawarte wyłącznie pomiędzy Użytkownikiem a Deweloperem. Apple nie jest ich stroną." },
-        { "c": "Aplikacja jest licencjonowana, a nie sprzedawana. Oprócz niniejszych Warunków zastosowanie znajduje **[[Umowa licencyjna użytkownika końcowego licencjonowanej aplikacji Apple|https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]]**. W razie sprzeczności postanowienia niniejszych Warunków z tą umową w zakresie przez nią uregulowanym pierwszeństwo ma ta umowa." },
-        { "c": "Wyłącznie Deweloper odpowiada za Aplikację oraz za jej treść, utrzymanie i wsparcie techniczne. Apple nie jest w żadnym zakresie zobowiązana do świadczenia usług utrzymania ani wsparcia technicznego w odniesieniu do Aplikacji." },
-        { "c": "Wszelkie zgłoszenia niezgodności Aplikacji z obowiązującą gwarancją kieruje się do Apple, która może zwrócić cenę zakupu. W najszerszym zakresie dozwolonym przez prawo właściwe Apple nie ponosi żadnych innych obowiązków gwarancyjnych w odniesieniu do Aplikacji." },
-        { "c": "Apple i jej spółki zależne są beneficjentami niniejszych Warunków jako osoby trzecie (umowa na rzecz osoby trzeciej) i z chwilą ich akceptacji przez Użytkownika są uprawnione do dochodzenia ich wykonania wobec Użytkownika." },
-        { "c": "Użytkownik oświadcza, że nie przebywa w kraju objętym embargiem nałożonym przez Rząd Stanów Zjednoczonych ani uznanym przez ten Rząd za kraj wspierający terroryzm, a także że nie figuruje na żadnej prowadzonej przez ten Rząd liście podmiotów objętych zakazami lub ograniczeniami." }
+        {
+          "c": "Niniejsze Warunki zostają zawarte wyłącznie pomiędzy Użytkownikiem a Deweloperem. Apple nie jest ich stroną."
+        },
+        {
+          "c": "Aplikacja jest licencjonowana, a nie sprzedawana. Oprócz niniejszych Warunków zastosowanie znajduje **[[Umowa licencyjna użytkownika końcowego licencjonowanej aplikacji Apple|https://www.apple.com/legal/internet-services/itunes/dev/stdeula/]]**. W razie sprzeczności postanowienia niniejszych Warunków z tą umową w zakresie przez nią uregulowanym pierwszeństwo ma ta umowa."
+        },
+        {
+          "c": "Wyłącznie Deweloper odpowiada za Aplikację oraz za jej treść, utrzymanie i wsparcie techniczne. Apple nie jest w żadnym zakresie zobowiązana do świadczenia usług utrzymania ani wsparcia technicznego w odniesieniu do Aplikacji."
+        },
+        {
+          "c": "Wszelkie zgłoszenia niezgodności Aplikacji z obowiązującą gwarancją kieruje się do Apple, która może zwrócić cenę zakupu. W najszerszym zakresie dozwolonym przez prawo właściwe Apple nie ponosi żadnych innych obowiązków gwarancyjnych w odniesieniu do Aplikacji."
+        },
+        {
+          "c": "Apple i jej spółki zależne są beneficjentami niniejszych Warunków jako osoby trzecie (umowa na rzecz osoby trzeciej) i z chwilą ich akceptacji przez Użytkownika są uprawnione do dochodzenia ich wykonania wobec Użytkownika."
+        },
+        {
+          "c": "Użytkownik oświadcza, że nie przebywa w kraju objętym embargiem nałożonym przez Rząd Stanów Zjednoczonych ani uznanym przez ten Rząd za kraj wspierający terroryzm, a także że nie figuruje na żadnej prowadzonej przez ten Rząd liście podmiotów objętych zakazami lub ograniczeniami."
+        }
       ]
     },
     {
       "h": "Udzielenie licencji",
       "blocks": [
-        { "c": "Deweloper udziela Użytkownikowi ograniczonej, osobistej, niewyłącznej, niezbywalnej i odwołalnej licencji na zainstalowanie Aplikacji i korzystanie z niej na urządzeniach marki Apple, które Użytkownik posiada lub kontroluje, zgodnie z zasadami korzystania (Usage Rules) App Store." },
-        { "c": "Licencja obejmuje korzystanie z samego oprogramowania. Wykorzystanie Aplikacji do przygotowania materiałów treningowych, które Użytkownik przekazuje własnym klientom, jest dozwolone i nie stanowi naruszenia niniejszego punktu." },
-        { "c": "Użytkownik nie sprzedaje, nie wynajmuje, nie wydzierżawia, nie sublicencjonuje, nie rozpowszechnia ani w inny sposób nie udostępnia Aplikacji osobom trzecim, jak również nie usuwa ani nie zmienia zawartych w niej informacji o prawach własności." },
-        { "c": "Wszelkie prawa nieudzielone wyraźnie w niniejszych Warunkach pozostają zastrzeżone na rzecz Dewelopera." }
+        {
+          "c": "Deweloper udziela Użytkownikowi ograniczonej, osobistej, niewyłącznej, niezbywalnej i odwołalnej licencji na zainstalowanie Aplikacji i korzystanie z niej na urządzeniach marki Apple, które Użytkownik posiada lub kontroluje, zgodnie z zasadami korzystania (Usage Rules) App Store."
+        },
+        {
+          "c": "Licencja obejmuje korzystanie z samego oprogramowania. Wykorzystanie Aplikacji do przygotowania materiałów treningowych, które Użytkownik przekazuje własnym klientom, jest dozwolone i nie stanowi naruszenia niniejszego punktu."
+        },
+        {
+          "c": "Użytkownik nie sprzedaje, nie wynajmuje, nie wydzierżawia, nie sublicencjonuje, nie rozpowszechnia ani w inny sposób nie udostępnia Aplikacji osobom trzecim, jak również nie usuwa ani nie zmienia zawartych w niej informacji o prawach własności."
+        },
+        {
+          "c": "Wszelkie prawa nieudzielone wyraźnie w niniejszych Warunkach pozostają zastrzeżone na rzecz Dewelopera."
+        }
       ]
     },
     {
       "h": "Zdrowie, bezpieczeństwo i przyjęcie ryzyka",
       "blocks": [
-        { "note": "Aplikacja nie jest wyrobem medycznym. Nie udziela porad medycznych, nie służy do diagnozowania ani leczenia i nie może stanowić podstawy zastępującej profesjonalną opiekę zdrowotną." },
-        { "c": "Wysiłek fizyczny, a w szczególności trening oporowy, wiąże się z nieodłącznym ryzykiem urazu. Użytkownik samodzielnie decyduje, jakie ćwiczenia wykonuje, jakich obciążeń używa i z jaką intensywnością trenuje." },
-        { "c": "Przed rozpoczęciem lub istotną zmianą planu treningowego Użytkownik powinien zasięgnąć porady lekarskiej, w szczególności w okresie ciąży, w trakcie powrotu do sprawności po urazie lub chorobie albo w przypadku schorzeń układu krążenia, zaburzeń metabolicznych, dolegliwości stawowych lub zaburzeń ciśnienia krwi." },
-        { "c": "Filmy z ćwiczeniami, opisy i treningi zawarte w Aplikacji są tworzone przez Użytkownika lub przez osobę trzecią i nie podlegają weryfikacji Dewelopera pod względem poprawności, przydatności ani bezpieczeństwa." },
-        { "c": "W razie wystąpienia bólu, zawrotów głowy, duszności lub innego nietypowego objawu Użytkownik niezwłocznie przerywa ćwiczenie i zwraca się o pomoc medyczną." },
-        { "c": "Użytkownik korzysta z Aplikacji i trenuje wyłącznie na własne ryzyko oraz ponosi pełną odpowiedzialność za wynikające z tego urazy lub uszczerbek na zdrowiu." }
+        {
+          "note": "Aplikacja nie jest wyrobem medycznym. Nie udziela porad medycznych, nie służy do diagnozowania ani leczenia i nie może stanowić podstawy zastępującej profesjonalną opiekę zdrowotną."
+        },
+        {
+          "c": "Wysiłek fizyczny, a w szczególności trening oporowy, wiąże się z nieodłącznym ryzykiem urazu. Użytkownik samodzielnie decyduje, jakie ćwiczenia wykonuje, jakich obciążeń używa i z jaką intensywnością trenuje."
+        },
+        {
+          "c": "Przed rozpoczęciem lub istotną zmianą planu treningowego Użytkownik powinien zasięgnąć porady lekarskiej, w szczególności w okresie ciąży, w trakcie powrotu do sprawności po urazie lub chorobie albo w przypadku schorzeń układu krążenia, zaburzeń metabolicznych, dolegliwości stawowych lub zaburzeń ciśnienia krwi."
+        },
+        {
+          "c": "Filmy z ćwiczeniami, opisy i treningi zawarte w Aplikacji są tworzone przez Użytkownika lub przez osobę trzecią i nie podlegają weryfikacji Dewelopera pod względem poprawności, przydatności ani bezpieczeństwa."
+        },
+        {
+          "c": "W razie wystąpienia bólu, zawrotów głowy, duszności lub innego nietypowego objawu Użytkownik niezwłocznie przerywa ćwiczenie i zwraca się o pomoc medyczną."
+        },
+        {
+          "c": "Użytkownik korzysta z Aplikacji i trenuje wyłącznie na własne ryzyko oraz ponosi pełną odpowiedzialność za wynikające z tego urazy lub uszczerbek na zdrowiu."
+        }
       ]
     },
     {
       "h": "Treści Użytkownika",
       "blocks": [
-        { "c": "Wszelkie prawa do Treści Użytkownika pozostają przy Użytkowniku. Deweloper nie nabywa własności Treści Użytkownika ani nie rości sobie do nich żadnej licencji." },
-        { "c": "Treści Użytkownika są przechowywane lokalnie na urządzeniu Użytkownika. Deweloper ich nie otrzymuje ani nie ma do nich dostępu, a w konsekwencji nie prowadzi ich moderacji." },
-        { "c": "Użytkownik zapewnia, że przysługują mu wszelkie prawa niezbędne do zaimportowania, przechowywania i przekazania każdego elementu Treści Użytkownika oraz że żaden z nich nie narusza praw własności intelektualnej, prawa do prywatności ani dóbr osobistych osób trzecich." },
-        { "c": "Jeżeli Treści Użytkownika przedstawiają możliwą do zidentyfikowania osobę inną niż Użytkownik, Użytkownik odpowiada za uzyskanie zgody tej osoby przed ich przechowywaniem lub przekazaniem." },
-        { "c": "Użytkownik ponosi wyłączną odpowiedzialność za zgodność Treści Użytkownika z prawem obowiązującym w miejscu jego zamieszkania oraz w miejscu zamieszkania każdego Odbiorcy." }
+        {
+          "c": "Wszelkie prawa do Treści Użytkownika pozostają przy Użytkowniku. Deweloper nie nabywa własności Treści Użytkownika ani nie rości sobie do nich żadnej licencji."
+        },
+        {
+          "c": "Treści Użytkownika są przechowywane lokalnie na urządzeniu Użytkownika. Deweloper ich nie otrzymuje ani nie ma do nich dostępu, a w konsekwencji nie prowadzi ich moderacji."
+        },
+        {
+          "c": "Użytkownik zapewnia, że przysługują mu wszelkie prawa niezbędne do zaimportowania, przechowywania i przekazania każdego elementu Treści Użytkownika oraz że żaden z nich nie narusza praw własności intelektualnej, prawa do prywatności ani dóbr osobistych osób trzecich."
+        },
+        {
+          "c": "Jeżeli Treści Użytkownika przedstawiają możliwą do zidentyfikowania osobę inną niż Użytkownik, Użytkownik odpowiada za uzyskanie zgody tej osoby przed ich przechowywaniem lub przekazaniem."
+        },
+        {
+          "c": "Użytkownik ponosi wyłączną odpowiedzialność za zgodność Treści Użytkownika z prawem obowiązującym w miejscu jego zamieszkania oraz w miejscu zamieszkania każdego Odbiorcy."
+        }
       ]
     },
     {
       "h": "Pakiety i przekazywanie ich osobom trzecim",
       "blocks": [
-        { "c": "Pakiet zawiera Treści Użytkownika wybrane przez Użytkownika wraz z jego nazwą autora i publicznym identyfikatorem Clipset ID. Użytkownik samodzielnie określa Odbiorcę oraz kanał przekazania." },
-        { "c": "Przekazanie następuje bezpośrednio pomiędzy Użytkownikiem a Odbiorcą, za pośrednictwem usługi wybranej przez Użytkownika. Pakiet nie przechodzi przez jakąkolwiek infrastrukturę Dewelopera, który w związku z tym nie sprawuje kontroli nad przekazaniem i nie udziela w tym zakresie żadnych gwarancji." },
-        { "c": "Data wygaśnięcia oraz blokada na Odbiorcę, dostępne dla Pakietu, stanowią środki zabezpieczające i nie są systemem zarządzania prawami cyfrowymi. Materiały znajdujące się już na urządzeniu Odbiorcy mogą zostać nagrane, skopiowane lub rozpowszechnione innymi sposobami, a Użytkownik, decydując się na przekazanie Pakietu, przyjmuje to ryzyko." },
-        { "c": "Jeżeli Użytkownik dostarcza Pakiety własnym klientom odpłatnie, transakcja taka zostaje zawarta wyłącznie pomiędzy Użytkownikiem a klientem. Deweloper nie jest jej stroną, nie pobiera prowizji, nie obsługuje płatności i nie udziela w jej zakresie żadnych gwarancji. Użytkownik ponosi wyłączną odpowiedzialność za fakturowanie, rozliczenia podatkowe, zwroty oraz przestrzeganie przepisów o ochronie konsumentów." },
-        { "c": "Użytkownik nie wykorzystuje Pakietów do rozpowszechniania treści niezgodnych z prawem, treści naruszających prawa osób trzecich ani cudzych treści odpłatnych bez zgody osoby uprawnionej." }
+        {
+          "c": "Pakiet zawiera Treści Użytkownika wybrane przez Użytkownika wraz z jego nazwą autora i publicznym identyfikatorem Clipset ID. Użytkownik samodzielnie określa Odbiorcę oraz kanał przekazania."
+        },
+        {
+          "c": "Przekazanie następuje bezpośrednio pomiędzy Użytkownikiem a Odbiorcą, za pośrednictwem usługi wybranej przez Użytkownika. Pakiet nie przechodzi przez jakąkolwiek infrastrukturę Dewelopera, który w związku z tym nie sprawuje kontroli nad przekazaniem i nie udziela w tym zakresie żadnych gwarancji."
+        },
+        {
+          "c": "Data wygaśnięcia oraz blokada na Odbiorcę, dostępne dla Pakietu, stanowią środki zabezpieczające i nie są systemem zarządzania prawami cyfrowymi. Materiały znajdujące się już na urządzeniu Odbiorcy mogą zostać nagrane, skopiowane lub rozpowszechnione innymi sposobami, a Użytkownik, decydując się na przekazanie Pakietu, przyjmuje to ryzyko."
+        },
+        {
+          "c": "Jeżeli Użytkownik dostarcza Pakiety własnym klientom odpłatnie, transakcja taka zostaje zawarta wyłącznie pomiędzy Użytkownikiem a klientem. Deweloper nie jest jej stroną, nie pobiera prowizji, nie obsługuje płatności i nie udziela w jej zakresie żadnych gwarancji. Użytkownik ponosi wyłączną odpowiedzialność za fakturowanie, rozliczenia podatkowe, zwroty oraz przestrzeganie przepisów o ochronie konsumentów."
+        },
+        {
+          "c": "Użytkownik nie wykorzystuje Pakietów do rozpowszechniania treści niezgodnych z prawem, treści naruszających prawa osób trzecich ani cudzych treści odpłatnych bez zgody osoby uprawnionej."
+        }
       ]
     },
     {
       "h": "Subskrypcja Clipset Pro",
       "blocks": [
-        { "c": "Clipset Pro jest subskrypcją odnawianą automatycznie, oferowaną w wariancie miesięcznym i rocznym oraz rozpowszechnianą wyłącznie przez Apple za pośrednictwem App Store." },
-        { "c": "Cena obowiązująca na terytorium Użytkownika jest prezentowana w Aplikacji oraz w App Store przed potwierdzeniem zakupu. Płatność zostaje pobrana z konta Apple Użytkownika z chwilą potwierdzenia zakupu." },
-        { "c": "Subskrypcja odnawia się automatycznie na kolejne okresy o tej samej długości, chyba że Użytkownik anuluje ją nie później niż 24 godziny przed końcem bieżącego okresu. Opłata za odnowienie zostaje pobrana w ciągu 24 godzin poprzedzających koniec tego okresu." },
-        { "c": "Jeżeli oferowany jest wprowadzający bezpłatny okres próbny, przysługuje on wyłącznie przy pierwszej Subskrypcji i z chwilą jego upływu przechodzi w okres płatny, chyba że zostanie wcześniej anulowany. Niewykorzystana część okresu próbnego przepada z chwilą zakupu Subskrypcji." },
-        { "c": "Subskrypcją można zarządzać lub anulować ją w dowolnym czasie w **App Store → profil Użytkownika → Subskrypcje**. Usunięcie Aplikacji nie powoduje anulowania Subskrypcji." },
-        { "c": "Zwroty są realizowane przez Apple zgodnie z polityką App Store. Deweloper nie ma możliwości przyznawania, odmawiania ani obsługi zwrotów." },
-        { "c": "Wygaśnięcie lub anulowanie Subskrypcji nie powoduje usunięcia Treści Użytkownika. Funkcje wymagające Subskrypcji zostają ponownie zablokowane, a treści przekraczające limity wersji bezpłatnej pozostają dostępne wyłącznie do wglądu." },
-        { "c": "Jeżeli Użytkownik jest konsumentem w Unii Europejskiej lub w innej jurysdykcji przyznającej ustawowe prawo odstąpienia od umowy, prawo to wykonuje się za pośrednictwem Apple, zgodnie z polityką App Store." }
+        {
+          "c": "Clipset Pro jest subskrypcją odnawianą automatycznie, oferowaną w wariancie miesięcznym i rocznym oraz rozpowszechnianą wyłącznie przez Apple za pośrednictwem App Store."
+        },
+        {
+          "c": "Cena obowiązująca na terytorium Użytkownika jest prezentowana w Aplikacji oraz w App Store przed potwierdzeniem zakupu. Płatność zostaje pobrana z konta Apple Użytkownika z chwilą potwierdzenia zakupu."
+        },
+        {
+          "c": "Subskrypcja odnawia się automatycznie na kolejne okresy o tej samej długości, chyba że Użytkownik anuluje ją nie później niż 24 godziny przed końcem bieżącego okresu. Opłata za odnowienie zostaje pobrana w ciągu 24 godzin poprzedzających koniec tego okresu."
+        },
+        {
+          "c": "Jeżeli oferowany jest wprowadzający bezpłatny okres próbny, przysługuje on wyłącznie przy pierwszej Subskrypcji i z chwilą jego upływu przechodzi w okres płatny, chyba że zostanie wcześniej anulowany. Niewykorzystana część okresu próbnego przepada z chwilą zakupu Subskrypcji."
+        },
+        {
+          "c": "Subskrypcją można zarządzać lub anulować ją w dowolnym czasie w **App Store → profil Użytkownika → Subskrypcje**. Usunięcie Aplikacji nie powoduje anulowania Subskrypcji."
+        },
+        {
+          "c": "Zwroty są realizowane przez Apple zgodnie z polityką App Store. Deweloper nie ma możliwości przyznawania, odmawiania ani obsługi zwrotów."
+        },
+        {
+          "c": "Wygaśnięcie lub anulowanie Subskrypcji nie powoduje usunięcia Treści Użytkownika. Funkcje wymagające Subskrypcji zostają ponownie zablokowane, a treści przekraczające limity wersji bezpłatnej pozostają dostępne wyłącznie do wglądu."
+        },
+        {
+          "c": "Jeżeli Użytkownik jest konsumentem w Unii Europejskiej lub w innej jurysdykcji przyznającej ustawowe prawo odstąpienia od umowy, prawo to wykonuje się za pośrednictwem Apple, zgodnie z polityką App Store."
+        },
+        {
+          "c": "Clipset Pro jest oferowany również jako zakup jednorazowy („Na zawsze”). Odblokowuje on te same funkcje na stałe dla konta Apple, z którego dokonano zakupu, nie jest subskrypcją i nie odnawia się. Postanowienia niniejszego punktu dotyczące ceny, płatności i zwrotów stosuje się odpowiednio."
+        }
       ]
     },
     {
       "h": "Wersja bezpłatna i limity korzystania",
       "blocks": [
-        { "c": "Z Aplikacji można korzystać bez Subskrypcji, z zastrzeżeniem limitów ilościowych dotyczących tworzenia treści. Na dzień sporządzenia niniejszych Warunków limity te wynoszą 12 klipów z ćwiczeniami, 2 treningi i 1 udostępniony Pakiet. Obowiązujące limity są prezentowane w Aplikacji." },
-        { "c": "Odebranie i zaimportowanie Pakietu nie podlegają żadnym limitom i nie wymagają Subskrypcji." },
-        { "c": "Deweloper zastrzega sobie prawo do zmiany limitów wersji bezpłatnej oraz zakresu Subskrypcji. Zmiany takie wywołują skutek na przyszłość i nie powodują usunięcia treści już utworzonych przez Użytkownika." }
+        {
+          "c": "Z Aplikacji można korzystać bez Subskrypcji, z zastrzeżeniem limitów ilościowych dotyczących tworzenia treści. Na dzień sporządzenia niniejszych Warunków limity te wynoszą 12 klipów z ćwiczeniami, 2 treningi i 1 udostępniony Pakiet. Obowiązujące limity są prezentowane w Aplikacji."
+        },
+        {
+          "c": "Odebranie i zaimportowanie Pakietu nie podlegają żadnym limitom i nie wymagają Subskrypcji."
+        },
+        {
+          "c": "Deweloper zastrzega sobie prawo do zmiany limitów wersji bezpłatnej oraz zakresu Subskrypcji. Zmiany takie wywołują skutek na przyszłość i nie powodują usunięcia treści już utworzonych przez Użytkownika."
+        }
       ]
     },
     {
       "h": "Dozwolony sposób korzystania",
       "blocks": [
-        { "p": "Użytkownikowi nie wolno:" },
-        { "ul": [
-          "dekompilować, dezasemblować ani poddawać Aplikacji inżynierii wstecznej, ani podejmować prób odtworzenia jej kodu źródłowego, z wyjątkiem zakresu, w jakim czynności takie są wyraźnie dozwolone przez bezwzględnie obowiązujące przepisy prawa;",
-          "obchodzić, wyłączać ani w inny sposób ingerować w podpis Pakietu, szyfrowanie, blokadę na Odbiorcę lub mechanizm wygaśnięcia, ani pomagać w tym osobom trzecim;",
-          "wykorzystywać Aplikacji do przechowywania, przetwarzania lub przekazywania treści niezgodnych z prawem;",
-          "wprowadzać w błąd co do autorstwa Pakietu ani podszywać się pod inną osobę;",
-          "korzystać z Aplikacji w sposób naruszający prawa osób trzecich lub sprzeczny z obowiązującym prawem."
-        ] },
-        { "c": "Naruszenie niniejszego punktu stanowi istotne naruszenie niniejszych Warunków." }
+        {
+          "p": "Użytkownikowi nie wolno:"
+        },
+        {
+          "ul": [
+            "dekompilować, dezasemblować ani poddawać Aplikacji inżynierii wstecznej, ani podejmować prób odtworzenia jej kodu źródłowego, z wyjątkiem zakresu, w jakim czynności takie są wyraźnie dozwolone przez bezwzględnie obowiązujące przepisy prawa;",
+            "obchodzić, wyłączać ani w inny sposób ingerować w podpis Pakietu, szyfrowanie, blokadę na Odbiorcę lub mechanizm wygaśnięcia, ani pomagać w tym osobom trzecim;",
+            "wykorzystywać Aplikacji do przechowywania, przetwarzania lub przekazywania treści niezgodnych z prawem;",
+            "wprowadzać w błąd co do autorstwa Pakietu ani podszywać się pod inną osobę;",
+            "korzystać z Aplikacji w sposób naruszający prawa osób trzecich lub sprzeczny z obowiązującym prawem."
+          ]
+        },
+        {
+          "c": "Naruszenie niniejszego punktu stanowi istotne naruszenie niniejszych Warunków."
+        }
       ]
     },
     {
       "h": "Przechowywanie danych i kopie zapasowe",
       "blocks": [
-        { "c": "Aplikacja przechowuje wszystkie dane lokalnie na urządzeniu Użytkownika. Deweloper nie prowadzi serwera, na którym przechowywane byłyby Treści Użytkownika, i w konsekwencji nie dysponuje ich kopią." },
-        { "c": "Utrata, zresetowanie, wymiana lub naprawa urządzenia albo usunięcie Aplikacji skutkują bezpowrotną utratą danych przechowywanych lokalnie." },
-        { "c": "Użytkownik ponosi wyłączną odpowiedzialność za tworzenie i zabezpieczenie kopii zapasowych. Plik kopii zapasowej eksportowany przez Aplikację umożliwia pełne odtworzenie biblioteki i powinien być przechowywany w sposób bezpieczny." },
-        { "c": "Przetwarzanie danych osobowych reguluje **[[Polityka prywatności|../]]**, która stanowi integralną część niniejszych Warunków." }
+        {
+          "c": "Aplikacja przechowuje wszystkie dane lokalnie na urządzeniu Użytkownika. Deweloper nie prowadzi serwera, na którym przechowywane byłyby Treści Użytkownika, i w konsekwencji nie dysponuje ich kopią."
+        },
+        {
+          "c": "Utrata, zresetowanie, wymiana lub naprawa urządzenia albo usunięcie Aplikacji skutkują bezpowrotną utratą danych przechowywanych lokalnie."
+        },
+        {
+          "c": "Użytkownik ponosi wyłączną odpowiedzialność za tworzenie i zabezpieczenie kopii zapasowych. Plik kopii zapasowej eksportowany przez Aplikację umożliwia pełne odtworzenie biblioteki i powinien być przechowywany w sposób bezpieczny."
+        },
+        {
+          "c": "Przetwarzanie danych osobowych reguluje **[[Polityka prywatności|../]]**, która stanowi integralną część niniejszych Warunków."
+        }
       ]
     },
     {
       "h": "Własność intelektualna",
       "blocks": [
-        { "c": "Aplikacja, jej kod źródłowy, projekt graficzny, interfejs użytkownika, nazwa, logo oraz wszelkie powiązane materiały są chronione prawem autorskim i innymi prawami własności intelektualnej oraz pozostają wyłączną własnością Dewelopera." },
-        { "c": "Niniejsze Warunki nie przenoszą na Użytkownika żadnych praw własności intelektualnej poza licencją udzieloną w punkcie 4." },
-        { "c": "Komponenty osób trzecich wykorzystane w Aplikacji pozostają objęte własnymi warunkami licencyjnymi." }
+        {
+          "c": "Aplikacja, jej kod źródłowy, projekt graficzny, interfejs użytkownika, nazwa, logo oraz wszelkie powiązane materiały są chronione prawem autorskim i innymi prawami własności intelektualnej oraz pozostają wyłączną własnością Dewelopera."
+        },
+        {
+          "c": "Niniejsze Warunki nie przenoszą na Użytkownika żadnych praw własności intelektualnej poza licencją udzieloną w punkcie 4."
+        },
+        {
+          "c": "Komponenty osób trzecich wykorzystane w Aplikacji pozostają objęte własnymi warunkami licencyjnymi."
+        }
       ]
     },
     {
       "h": "Dostępność, zmiany i zaprzestanie udostępniania",
       "blocks": [
-        { "c": "Deweloper może modyfikować Aplikację, dodawać lub usuwać funkcje oraz udostępniać aktualizacje według własnego uznania." },
-        { "c": "Deweloper może zaprzestać rozpowszechniania Aplikacji lub jej wspierania. W takim przypadku Aplikacja działa nadal na urządzeniu Użytkownika tak długo, jak zainstalowana wersja pozostaje zgodna z systemem operacyjnym, a dane Użytkownika pozostają na urządzeniu." },
-        { "c": "Działanie Aplikacji zależy od systemu iOS oraz od usług prowadzonych przez Apple. Zmiany wprowadzane przez Apple w systemie operacyjnym, w App Store lub w StoreKit mogą wpływać na działanie Aplikacji i pozostają poza kontrolą Dewelopera." },
-        { "c": "Deweloper nie gwarantuje, że Aplikacja będzie działać w sposób nieprzerwany ani wolny od błędów." }
+        {
+          "c": "Deweloper może modyfikować Aplikację, dodawać lub usuwać funkcje oraz udostępniać aktualizacje według własnego uznania."
+        },
+        {
+          "c": "Deweloper może zaprzestać rozpowszechniania Aplikacji lub jej wspierania. W takim przypadku Aplikacja działa nadal na urządzeniu Użytkownika tak długo, jak zainstalowana wersja pozostaje zgodna z systemem operacyjnym, a dane Użytkownika pozostają na urządzeniu."
+        },
+        {
+          "c": "Działanie Aplikacji zależy od systemu iOS oraz od usług prowadzonych przez Apple. Zmiany wprowadzane przez Apple w systemie operacyjnym, w App Store lub w StoreKit mogą wpływać na działanie Aplikacji i pozostają poza kontrolą Dewelopera."
+        },
+        {
+          "c": "Deweloper nie gwarantuje, że Aplikacja będzie działać w sposób nieprzerwany ani wolny od błędów."
+        }
       ]
     },
     {
       "h": "Wyłączenie rękojmi i gwarancji",
       "blocks": [
-        { "c": "W najszerszym zakresie dozwolonym przez prawo właściwe Aplikacja jest udostępniana „w stanie, w jakim jest” oraz „w miarę dostępności”, bez jakichkolwiek gwarancji — wyraźnych, dorozumianych ani ustawowych — w tym w szczególności bez dorozumianej gwarancji przydatności handlowej, przydatności do określonego celu, poprawności lub nienaruszania praw osób trzecich." },
-        { "c": "Żadna informacja ani porada udzielona przez Dewelopera, ustnie lub na piśmie, nie tworzy gwarancji, która nie została wyraźnie określona w niniejszych Warunkach." },
-        { "c": "Niektóre jurysdykcje nie dopuszczają wyłączenia gwarancji dorozumianych. W takich jurysdykcjach wyłączenia określone w niniejszym punkcie obowiązują wyłącznie w zakresie dozwolonym przez prawo, a bezwzględnie obowiązujące ustawowe prawa Użytkownika jako konsumenta pozostają nienaruszone." }
+        {
+          "c": "W najszerszym zakresie dozwolonym przez prawo właściwe Aplikacja jest udostępniana „w stanie, w jakim jest” oraz „w miarę dostępności”, bez jakichkolwiek gwarancji — wyraźnych, dorozumianych ani ustawowych — w tym w szczególności bez dorozumianej gwarancji przydatności handlowej, przydatności do określonego celu, poprawności lub nienaruszania praw osób trzecich."
+        },
+        {
+          "c": "Żadna informacja ani porada udzielona przez Dewelopera, ustnie lub na piśmie, nie tworzy gwarancji, która nie została wyraźnie określona w niniejszych Warunkach."
+        },
+        {
+          "c": "Niektóre jurysdykcje nie dopuszczają wyłączenia gwarancji dorozumianych. W takich jurysdykcjach wyłączenia określone w niniejszym punkcie obowiązują wyłącznie w zakresie dozwolonym przez prawo, a bezwzględnie obowiązujące ustawowe prawa Użytkownika jako konsumenta pozostają nienaruszone."
+        }
       ]
     },
     {
       "h": "Ograniczenie odpowiedzialności",
       "blocks": [
-        { "c": "W najszerszym zakresie dozwolonym przez prawo właściwe Deweloper nie ponosi odpowiedzialności za szkody pośrednie, uboczne, szczególne, następcze ani o charakterze karnym, ani za utracone korzyści, utratę możliwości prowadzenia działalności, utratę danych lub utratę szans, powstałe w związku z korzystaniem z Aplikacji lub niemożnością korzystania z niej." },
-        { "c": "Deweloper nie ponosi odpowiedzialności za urazy ani uszczerbek na zdrowiu wynikające ze sposobu, w jaki Użytkownik trenuje, za zachowanie Odbiorcy, ani za utratę danych spowodowaną awarią urządzenia, ich usunięciem, błędem systemu operacyjnego lub brakiem kopii zapasowej." },
-        { "c": "Żadne postanowienie niniejszych Warunków nie wyłącza ani nie ogranicza odpowiedzialności za śmierć lub szkodę na osobie spowodowaną niedbalstwem, za oszustwo lub podstępne wprowadzenie w błąd, ani za jakąkolwiek inną odpowiedzialność, której nie można wyłączyć lub ograniczyć na mocy prawa właściwego." },
-        { "c": "W zakresie, w jakim odpowiedzialność nie może zostać wyłączona, łączna odpowiedzialność Dewelopera z tytułu wszystkich roszczeń jest ograniczona do kwoty zapłaconej przez Użytkownika za Aplikację i za Subskrypcję w okresie dwunastu miesięcy poprzedzających zdarzenie stanowiące podstawę roszczenia." }
+        {
+          "c": "W najszerszym zakresie dozwolonym przez prawo właściwe Deweloper nie ponosi odpowiedzialności za szkody pośrednie, uboczne, szczególne, następcze ani o charakterze karnym, ani za utracone korzyści, utratę możliwości prowadzenia działalności, utratę danych lub utratę szans, powstałe w związku z korzystaniem z Aplikacji lub niemożnością korzystania z niej."
+        },
+        {
+          "c": "Deweloper nie ponosi odpowiedzialności za urazy ani uszczerbek na zdrowiu wynikające ze sposobu, w jaki Użytkownik trenuje, za zachowanie Odbiorcy, ani za utratę danych spowodowaną awarią urządzenia, ich usunięciem, błędem systemu operacyjnego lub brakiem kopii zapasowej."
+        },
+        {
+          "c": "Żadne postanowienie niniejszych Warunków nie wyłącza ani nie ogranicza odpowiedzialności za śmierć lub szkodę na osobie spowodowaną niedbalstwem, za oszustwo lub podstępne wprowadzenie w błąd, ani za jakąkolwiek inną odpowiedzialność, której nie można wyłączyć lub ograniczyć na mocy prawa właściwego."
+        },
+        {
+          "c": "W zakresie, w jakim odpowiedzialność nie może zostać wyłączona, łączna odpowiedzialność Dewelopera z tytułu wszystkich roszczeń jest ograniczona do kwoty zapłaconej przez Użytkownika za Aplikację i za Subskrypcję w okresie dwunastu miesięcy poprzedzających zdarzenie stanowiące podstawę roszczenia."
+        }
       ]
     },
     {
       "h": "Zwolnienie z odpowiedzialności",
       "blocks": [
-        { "c": "Użytkownik zwalnia Dewelopera z odpowiedzialności i zabezpiecza go przed wszelkimi roszczeniami osób trzecich, zobowiązaniami, stratami, szkodami, kosztami i wydatkami, w tym uzasadnionymi kosztami obsługi prawnej, wynikającymi z Treści Użytkownika, z przekazania Pakietu, z naruszenia przez Użytkownika niniejszych Warunków albo z naruszenia przez Użytkownika prawa właściwego lub praw osób trzecich." }
+        {
+          "c": "Użytkownik zwalnia Dewelopera z odpowiedzialności i zabezpiecza go przed wszelkimi roszczeniami osób trzecich, zobowiązaniami, stratami, szkodami, kosztami i wydatkami, w tym uzasadnionymi kosztami obsługi prawnej, wynikającymi z Treści Użytkownika, z przekazania Pakietu, z naruszenia przez Użytkownika niniejszych Warunków albo z naruszenia przez Użytkownika prawa właściwego lub praw osób trzecich."
+        }
       ]
     },
     {
       "h": "Okres obowiązywania i rozwiązanie",
       "blocks": [
-        { "c": "Niniejsze Warunki obowiązują tak długo, jak długo Użytkownik korzysta z Aplikacji." },
-        { "c": "Użytkownik może je rozwiązać w dowolnym czasie, zaprzestając korzystania z Aplikacji i usuwając ją. Usunięcie Aplikacji nie powoduje zakończenia Subskrypcji, którą należy anulować odrębnie za pośrednictwem App Store." },
-        { "c": "Deweloper może wypowiedzieć licencję udzieloną na podstawie niniejszych Warunków ze skutkiem natychmiastowym w przypadku istotnego naruszenia ich przez Użytkownika." },
-        { "c": "Postanowienia dotyczące Treści Użytkownika, własności intelektualnej, wyłączenia rękojmi i gwarancji, ograniczenia odpowiedzialności, zwolnienia z odpowiedzialności oraz prawa właściwego pozostają w mocy po rozwiązaniu umowy." }
+        {
+          "c": "Niniejsze Warunki obowiązują tak długo, jak długo Użytkownik korzysta z Aplikacji."
+        },
+        {
+          "c": "Użytkownik może je rozwiązać w dowolnym czasie, zaprzestając korzystania z Aplikacji i usuwając ją. Usunięcie Aplikacji nie powoduje zakończenia Subskrypcji, którą należy anulować odrębnie za pośrednictwem App Store."
+        },
+        {
+          "c": "Deweloper może wypowiedzieć licencję udzieloną na podstawie niniejszych Warunków ze skutkiem natychmiastowym w przypadku istotnego naruszenia ich przez Użytkownika."
+        },
+        {
+          "c": "Postanowienia dotyczące Treści Użytkownika, własności intelektualnej, wyłączenia rękojmi i gwarancji, ograniczenia odpowiedzialności, zwolnienia z odpowiedzialności oraz prawa właściwego pozostają w mocy po rozwiązaniu umowy."
+        }
       ]
     },
     {
       "h": "Prawo właściwe i spory",
       "blocks": [
-        { "c": "Niniejsze Warunki podlegają prawu Ukrainy, z wyłączeniem jego norm kolizyjnych oraz Konwencji Narodów Zjednoczonych o umowach międzynarodowej sprzedaży towarów." },
-        { "c": "Jeżeli Użytkownik jest konsumentem mającym miejsce zwykłego pobytu w innym państwie, bezwzględnie obowiązujące przepisy o ochronie konsumentów prawa tego państwa pozostają w zastosowaniu, a Użytkownik zachowuje prawo do wytoczenia powództwa przed sądami miejsca swojego zamieszkania." },
-        { "c": "Przed wszczęciem postępowania strony podejmują starania w celu polubownego rozstrzygnięcia sporu. Wezwanie w tym przedmiocie kieruje się do Dewelopera na adres wskazany w ostatnim punkcie niniejszych Warunków." }
+        {
+          "c": "Niniejsze Warunki podlegają prawu Ukrainy, z wyłączeniem jego norm kolizyjnych oraz Konwencji Narodów Zjednoczonych o umowach międzynarodowej sprzedaży towarów."
+        },
+        {
+          "c": "Jeżeli Użytkownik jest konsumentem mającym miejsce zwykłego pobytu w innym państwie, bezwzględnie obowiązujące przepisy o ochronie konsumentów prawa tego państwa pozostają w zastosowaniu, a Użytkownik zachowuje prawo do wytoczenia powództwa przed sądami miejsca swojego zamieszkania."
+        },
+        {
+          "c": "Przed wszczęciem postępowania strony podejmują starania w celu polubownego rozstrzygnięcia sporu. Wezwanie w tym przedmiocie kieruje się do Dewelopera na adres wskazany w ostatnim punkcie niniejszych Warunków."
+        }
       ]
     },
     {
       "h": "Zmiany niniejszych Warunków",
       "blocks": [
-        { "c": "Deweloper może zmieniać niniejsze Warunki, w szczególności w celu uwzględnienia zmian w Aplikacji, w prawie właściwym lub w polityce App Store." },
-        { "c": "Obowiązująca wersja jest publikowana pod niniejszym adresem i opatrzona datą wejścia w życie. O zmianach istotnych Użytkownik jest dodatkowo informowany w Aplikacji." },
-        { "c": "Dalsze korzystanie z Aplikacji po wejściu zmiany w życie stanowi akceptację zmienionych Warunków. Użytkownik, który ich nie akceptuje, zaprzestaje korzystania z Aplikacji." }
+        {
+          "c": "Deweloper może zmieniać niniejsze Warunki, w szczególności w celu uwzględnienia zmian w Aplikacji, w prawie właściwym lub w polityce App Store."
+        },
+        {
+          "c": "Obowiązująca wersja jest publikowana pod niniejszym adresem i opatrzona datą wejścia w życie. O zmianach istotnych Użytkownik jest dodatkowo informowany w Aplikacji."
+        },
+        {
+          "c": "Dalsze korzystanie z Aplikacji po wejściu zmiany w życie stanowi akceptację zmienionych Warunków. Użytkownik, który ich nie akceptuje, zaprzestaje korzystania z Aplikacji."
+        }
       ]
     },
     {
       "h": "Postanowienia końcowe",
       "blocks": [
-        { "c": "Jeżeli którekolwiek postanowienie niniejszych Warunków zostanie uznane za nieważne lub niewykonalne, pozostałe postanowienia zachowują pełną moc, a postanowienie nieważne zastępuje się postanowieniem ważnym, możliwie najbliższym jego celowi gospodarczemu (klauzula salwatoryjna)." },
-        { "c": "Niewykonanie lub opóźnienie w wykonaniu przez Dewelopera uprawnienia wynikającego z niniejszych Warunków nie stanowi zrzeczenia się tego uprawnienia." },
-        { "c": "Użytkownik nie może dokonać cesji ani przeniesienia swoich praw lub obowiązków wynikających z niniejszych Warunków. Deweloper może dokonać ich cesji w związku z przeniesieniem praw do Aplikacji." },
-        { "c": "Niniejsze Warunki, wraz z Polityką prywatności oraz Umową licencyjną użytkownika końcowego licencjonowanej aplikacji Apple, stanowią całość porozumienia stron w odniesieniu do Aplikacji i zastępują wszelkie wcześniejsze ustalenia jej dotyczące." },
-        { "c": "Niniejsze Warunki zostały sporządzone w języku angielskim. Tłumaczenia mają charakter wyłącznie informacyjny; w przypadku rozbieżności rozstrzygające znaczenie ma wersja angielska." }
+        {
+          "c": "Jeżeli którekolwiek postanowienie niniejszych Warunków zostanie uznane za nieważne lub niewykonalne, pozostałe postanowienia zachowują pełną moc, a postanowienie nieważne zastępuje się postanowieniem ważnym, możliwie najbliższym jego celowi gospodarczemu (klauzula salwatoryjna)."
+        },
+        {
+          "c": "Niewykonanie lub opóźnienie w wykonaniu przez Dewelopera uprawnienia wynikającego z niniejszych Warunków nie stanowi zrzeczenia się tego uprawnienia."
+        },
+        {
+          "c": "Użytkownik nie może dokonać cesji ani przeniesienia swoich praw lub obowiązków wynikających z niniejszych Warunków. Deweloper może dokonać ich cesji w związku z przeniesieniem praw do Aplikacji."
+        },
+        {
+          "c": "Niniejsze Warunki, wraz z Polityką prywatności oraz Umową licencyjną użytkownika końcowego licencjonowanej aplikacji Apple, stanowią całość porozumienia stron w odniesieniu do Aplikacji i zastępują wszelkie wcześniejsze ustalenia jej dotyczące."
+        },
+        {
+          "c": "Niniejsze Warunki zostały sporządzone w języku angielskim. Tłumaczenia mają charakter wyłącznie informacyjny; w przypadku rozbieżności rozstrzygające znaczenie ma wersja angielska."
+        }
       ]
     },
     {
       "h": "Kontakt",
       "blocks": [
-        { "c": "Pytania, zawiadomienia i wnioski wynikające z niniejszych Warunków kieruje się do Dewelopera pocztą elektroniczną na adres [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20terms]]." }
+        {
+          "c": "Pytania, zawiadomienia i wnioski wynikające z niniejszych Warunków kieruje się do Dewelopera pocztą elektroniczną na adres [[tesserly.dev@gmail.com|mailto:tesserly.dev@gmail.com?subject=Clipset%20terms]]."
+        }
       ]
     }
   ]
